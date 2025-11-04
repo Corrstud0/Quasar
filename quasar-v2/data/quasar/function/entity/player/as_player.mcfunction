@@ -1,0 +1,1 @@
+execute if score @s quasar_usedcatspawnegg matches 1.. run function quasar:entity/player/placed_multiblock

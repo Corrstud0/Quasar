@@ -1,0 +1,50 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " D ",
+        "   "
+    ],
+    "key": {
+        "#": "minecraft:oak_log",
+        "D": "minecraft:diamond_block"
+    },
+    "result": {
+        "id": "minecraft:cat_spawn_egg",
+        "count": 1,
+    "components": {
+      "minecraft:item_model": "minecraft:iron_block",
+      "minecraft:custom_name": {
+            "text": "Multiblock Core Tier 3",
+            "italic": false
+          },
+      "minecraft:rarity": "rare",
+      "minecraft:entity_data": {
+        "id": "minecraft:marker",
+	"Tags": ["quasar_multiblockcore","quasar_tier3"]
+      },
+      "minecraft:lore": [
+        {
+            "text": "Controller of all tier 3 multiblock",
+            "italic": false
+          },
+          {
+            "text": "structures",
+            "italic": false
+          },
+          {
+            "text": "Right click on the ground to",
+            "italic": false
+          },
+          {
+            "text": "place it.",
+            "italic": false
+          },
+          {
+            "text": "!!! ROTATION MATTERS !!!",
+            "italic": false
+          }
+      ]
+    }
+    }
+}
