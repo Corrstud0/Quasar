@@ -1,5 +1,5 @@
-tag @s add quasar_multiblock_active
-tag @s remove quasar_multiblock_ready
+tag @s add quasar.multiblock_active
+tag @s remove quasar.multiblock_ready
 
 playsound minecraft:block.note_block.bell master @a[distance=..10] ~ ~ ~ 2 1
 

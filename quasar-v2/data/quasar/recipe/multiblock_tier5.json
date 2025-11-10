@@ -21,7 +21,7 @@
       "minecraft:rarity": "rare",
       "minecraft:entity_data": {
         "id": "minecraft:marker",
-	"Tags": ["quasar_multiblockcore","quasar_tier5"]
+	"Tags": ["quasar.multiblockcore","quasar.tier5"]
       },
       "minecraft:lore": [
         {
