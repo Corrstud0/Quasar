@@ -1,4 +1,4 @@
-referencer = '{"condition":"minecraft:random_chance","chance":$CHANCE}'
+referencer = '{"condition": "random_chance", "chance": $CHANCE}'
 
 # Generate model
 def genChancePredicate(chance):
@@ -7,5 +7,5 @@ def genChancePredicate(chance):
         chance /= 100
         file.write(contents.replace('$CHANCE', str(chance)))
 
-for x in range(1,100+1):
+for x in range(1, 100+1):
     genChancePredicate(x)

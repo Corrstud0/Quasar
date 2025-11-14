@@ -1,32 +1,32 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "crafting_shaped",
     "pattern": [
         "###",
         "#D#",
         "   "
     ],
     "key": {
-        "#": "minecraft:oak_log",
-        "D": "minecraft:diamond_block"
+        "#": "oak_log",
+        "D": "diamond_block"
     },
     "result": {
-        "id": "minecraft:cat_spawn_egg",
+        "id": "cat_spawn_egg",
         "count": 1,
     "components": {
-      "minecraft:item_model": "minecraft:diamond_block",
-      "minecraft:custom_name": {
+      "item_model": "diamond_block",
+      "custom_name": {
             "text": "Multiblock Core Tier 5",
             "italic": false
           },
-      "minecraft:rarity": "rare",
-      "minecraft:entity_data": {
-        "id": "minecraft:marker",
-	"Tags": ["quasar.multiblockcore","quasar.tier5"]
+      "rarity": "rare",
+      "entity_data": {
+        "id": "marker",
+	"Tags": ["quasar.multiblockcore", "quasar.tier5"]
       },
-      "minecraft:lore": [
+      "lore": [
         {
             "text": "The Ultimate Controller",
-            "color":"#0080",
+            "color": "#0080",
             "italic": false
           },
         {

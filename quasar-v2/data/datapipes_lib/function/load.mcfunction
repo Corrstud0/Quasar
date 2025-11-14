@@ -8,8 +8,8 @@ scoreboard objectives add datapipes_lib_power_storage dummy
 scoreboard objectives add datapipes_lib_power_max dummy
 
 forceload add 0 0
-summon item_display 0.0 0.0 0.0 {Tags:["datapipes_lib_temp_entity"],UUID:[I;1101010,1101111,1101110,1100001]}
+summon item_display 0.0 0.0 0.0 {Tags: ["datapipes_lib_temp_entity"], UUID: [I;1101010, 1101111, 1101110, 1100001]}
 #0010ccd2-0010-cd37-0010-cd360010c8e1
 
-summon text_display 0.0 0.0 0.0 {Tags:["datapipes_lib_temp_entity"],UUID:[I;1110011,1101011,1110101,1101100]}
+summon text_display 0.0 0.0 0.0 {Tags: ["datapipes_lib_temp_entity"], UUID: [I;1110011, 1101011, 1110101, 1101100]}
 #0010effb-0010-ccd3-0010-f0550010cd2c

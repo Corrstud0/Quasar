@@ -7,9 +7,9 @@ scoreboard players add slowtick quasar.states 1
 execute if score slowtick quasar.states >= slowtickconst quasar.states run function quasar:slowtick
 
 #multiblock
-execute as @e[type=marker,tag=quasar.multiblockcore] at @s run function quasar:multiblock_system/run_function with entity @s data.quasar.
+execute as @e[type=marker, tag=quasar.multiblockcore] at @s run function quasar:multiblock_system/run_function with entity @s data.quasar.
 #slowtick multiblock
-execute if score slowtick quasar.states >= slowtickconst quasar.states as @e[type=marker,tag=quasar.multiblockcore] at @s run function quasar:multiblock_system/slow_tick
+execute if score slowtick quasar.states >= slowtickconst quasar.states as @e[type=marker, tag=quasar.multiblockcore] at @s run function quasar:multiblock_system/slow_tick
 
 #as player
 execute as @a at @s run function quasar:entity/player/as_player

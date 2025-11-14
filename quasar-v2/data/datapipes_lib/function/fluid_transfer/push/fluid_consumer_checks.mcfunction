@@ -11,4 +11,4 @@ scoreboard players operation total_amount datapipes_lib = tank_amount datapipes_
 scoreboard players operation total_amount datapipes_lib -= tank_max datapipes_lib
 execute if score total_amount datapipes_lib matches 1.. run scoreboard players operation tank_amount datapipes_lib = tank_max datapipes_lib
 
-$execute store result entity @s data.fluids.tanks[{type:'$(type)'}].amount int 1 run scoreboard players get tank_amount datapipes_lib
+$execute store result entity @s data.fluids.tanks[{type: '$(type)'}].amount int 1 run scoreboard players get tank_amount datapipes_lib

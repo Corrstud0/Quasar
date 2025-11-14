@@ -22,8 +22,8 @@ tellraw @a "[QUASAR] Datapack Loaded!"
 #custom multiblock cores 
 
 #example
-data modify storage quasar:constants multiblock_core[{tier:"if score @s quasar.multiblock_tier matches 1",check:"if block ^1 ^ ^ diamond_block if block ^-1 ^ ^ diamond_block"}].function set value 'run function quasar:machines/test/setup'
+data modify storage quasar:constants multiblock_core[{tier: "if score @s quasar.multiblock_tier matches 1", check: "if block ^1 ^ ^ diamond_block if block ^-1 ^ ^ diamond_block"}].function set value 'run function quasar:machines/test/setup'
 
-data modify storage quasar:constants multiblock_core[{tier:"if score @s quasar.multiblock_tier matches 1",check:"if block ^1 ^ ^ diamond_block if block ^-1 ^ ^1 diamond_block"}].function set value 'run function quasar:machines/test2/setup'
+data modify storage quasar:constants multiblock_core[{tier: "if score @s quasar.multiblock_tier matches 1", check: "if block ^1 ^ ^ diamond_block if block ^-1 ^ ^1 diamond_block"}].function set value 'run function quasar:machines/test2/setup'
 
-data modify storage quasar:constants multiblock_core[{tier:"if score @s quasar.multiblock_tier matches 3",check:"if block ~ ~ ~ observer[facing=up] if block ^1 ^1 ^ lodestone if block ^-1 ^1 ^ lodestone if block ^ ^1 ^ lodestone"}].function set value 'run function quasar:machines/mmsa/setup'
+data modify storage quasar:constants multiblock_core[{tier: "if score @s quasar.multiblock_tier matches 3", check: "if block ~ ~ ~ observer[facing=up] if block ^1 ^1 ^ lodestone if block ^-1 ^1 ^ lodestone if block ^ ^1 ^ lodestone"}].function set value 'run function quasar:machines/mmsa/setup'

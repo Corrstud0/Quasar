@@ -1,14 +1,14 @@
 {
   "criteria": {
     "used_sign": {
-      "trigger": "minecraft:any_block_use",
+      "trigger": "any_block_use",
       "conditions": {
         "location": [
           {
-            "condition": "minecraft:location_check",
+            "condition": "location_check",
             "predicate": {
               "block": {
-                "blocks": "#minecraft:signs"
+                "blocks": "#signs"
               }
             }
           }
