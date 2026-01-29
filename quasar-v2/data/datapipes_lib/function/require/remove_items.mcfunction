@@ -1,0 +1,1 @@
+$item modify block ~ ~ ~ container.$(slot) {"function": "set_count", "count": -$(amount), "add":true}
