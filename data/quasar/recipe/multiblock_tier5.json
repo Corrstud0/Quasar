@@ -1,0 +1,55 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "#D#",
+        "   "
+    ],
+    "key": {
+        "#": "oak_log",
+        "D": "diamond_block"
+    },
+    "result": {
+        "id": "cat_spawn_egg",
+        "count": 1,
+    "components": {
+      "item_model": "diamond_block",
+      "custom_name": {
+            "text": "Multiblock Core Tier 5",
+            "italic": false
+          },
+      "rarity": "rare",
+      "entity_data": {
+        "id": "marker",
+	"Tags": ["quasar.multiblockcore", "quasar.tier5"]
+      },
+      "lore": [
+        {
+            "text": "The Ultimate Controller",
+            "color": "#0080",
+            "italic": false
+          },
+        {
+            "text": "Controller of all tier 5 multiblock",
+            "italic": false
+          },
+          {
+            "text": "structures",
+            "italic": false
+          },
+          {
+            "text": "Right click on the ground to",
+            "italic": false
+          },
+          {
+            "text": "place it.",
+            "italic": false
+          },
+          {
+            "text": "!!! ROTATION MATTERS !!!",
+            "italic": false
+          }
+      ]
+    }
+    }
+}
