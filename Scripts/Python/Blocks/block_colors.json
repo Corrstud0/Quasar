@@ -1,0 +1,8666 @@
+{
+    "acacia_door_bottom": {
+        "hex": "#A25B39",
+        "rgb_normalized": {
+            "r": 0.6353,
+            "g": 0.3569,
+            "b": 0.2235
+        }
+    },
+    "acacia_door_top": {
+        "hex": "#A75F3C",
+        "rgb_normalized": {
+            "r": 0.6549,
+            "g": 0.3725,
+            "b": 0.2353
+        }
+    },
+    "acacia_leaves": {
+        "hex": "#959494",
+        "rgb_normalized": {
+            "r": 0.5843,
+            "g": 0.5804,
+            "b": 0.5804
+        }
+    },
+    "acacia_log": {
+        "hex": "#676056",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.3765,
+            "b": 0.3373
+        }
+    },
+    "acacia_log_top": {
+        "hex": "#965837",
+        "rgb_normalized": {
+            "r": 0.5882,
+            "g": 0.3451,
+            "b": 0.2157
+        }
+    },
+    "acacia_planks": {
+        "hex": "#A85A32",
+        "rgb_normalized": {
+            "r": 0.6588,
+            "g": 0.3529,
+            "b": 0.1961
+        }
+    },
+    "acacia_sapling": {
+        "hex": "#767517",
+        "rgb_normalized": {
+            "r": 0.4627,
+            "g": 0.4588,
+            "b": 0.0902
+        }
+    },
+    "acacia_trapdoor": {
+        "hex": "#9C5733",
+        "rgb_normalized": {
+            "r": 0.6118,
+            "g": 0.3412,
+            "b": 0.2
+        }
+    },
+    "activator_rail": {
+        "hex": "#73574A",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.3412,
+            "b": 0.2902
+        }
+    },
+    "activator_rail_on": {
+        "hex": "#8F574A",
+        "rgb_normalized": {
+            "r": 0.5608,
+            "g": 0.3412,
+            "b": 0.2902
+        }
+    },
+    "allium": {
+        "hex": "#9E89B7",
+        "rgb_normalized": {
+            "r": 0.6196,
+            "g": 0.5373,
+            "b": 0.7176
+        }
+    },
+    "amethyst_block": {
+        "hex": "#8561BF",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.3804,
+            "b": 0.749
+        }
+    },
+    "amethyst_cluster": {
+        "hex": "#A37ECF",
+        "rgb_normalized": {
+            "r": 0.6392,
+            "g": 0.4941,
+            "b": 0.8118
+        }
+    },
+    "ancient_debris_side": {
+        "hex": "#5F3F37",
+        "rgb_normalized": {
+            "r": 0.3725,
+            "g": 0.2471,
+            "b": 0.2157
+        }
+    },
+    "ancient_debris_top": {
+        "hex": "#5E423A",
+        "rgb_normalized": {
+            "r": 0.3686,
+            "g": 0.2588,
+            "b": 0.2275
+        }
+    },
+    "andesite": {
+        "hex": "#888888",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.5333,
+            "b": 0.5333
+        }
+    },
+    "anvil": {
+        "hex": "#444444",
+        "rgb_normalized": {
+            "r": 0.2667,
+            "g": 0.2667,
+            "b": 0.2667
+        }
+    },
+    "anvil_top": {
+        "hex": "#484848",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.2824,
+            "b": 0.2824
+        }
+    },
+    "attached_melon_stem": {
+        "hex": "#8D8E8D",
+        "rgb_normalized": {
+            "r": 0.5529,
+            "g": 0.5569,
+            "b": 0.5529
+        }
+    },
+    "attached_pumpkin_stem": {
+        "hex": "#8B8B8B",
+        "rgb_normalized": {
+            "r": 0.5451,
+            "g": 0.5451,
+            "b": 0.5451
+        }
+    },
+    "azalea_leaves": {
+        "hex": "#5A722C",
+        "rgb_normalized": {
+            "r": 0.3529,
+            "g": 0.4471,
+            "b": 0.1725
+        }
+    },
+    "azalea_plant": {
+        "hex": "#5B6D2A",
+        "rgb_normalized": {
+            "r": 0.3569,
+            "g": 0.4275,
+            "b": 0.1647
+        }
+    },
+    "azalea_side": {
+        "hex": "#5D752D",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.4588,
+            "b": 0.1765
+        }
+    },
+    "azalea_top": {
+        "hex": "#657C2F",
+        "rgb_normalized": {
+            "r": 0.3961,
+            "g": 0.4863,
+            "b": 0.1843
+        }
+    },
+    "azure_bluet": {
+        "hex": "#A9CC7F",
+        "rgb_normalized": {
+            "r": 0.6627,
+            "g": 0.8,
+            "b": 0.498
+        }
+    },
+    "bamboo_block": {
+        "hex": "#7F9039",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.5647,
+            "b": 0.2235
+        }
+    },
+    "bamboo_block_top": {
+        "hex": "#8B8D3E",
+        "rgb_normalized": {
+            "r": 0.5451,
+            "g": 0.5529,
+            "b": 0.2431
+        }
+    },
+    "bamboo_door_bottom": {
+        "hex": "#C7B254",
+        "rgb_normalized": {
+            "r": 0.7804,
+            "g": 0.698,
+            "b": 0.3294
+        }
+    },
+    "bamboo_door_top": {
+        "hex": "#BFAB51",
+        "rgb_normalized": {
+            "r": 0.749,
+            "g": 0.6706,
+            "b": 0.3176
+        }
+    },
+    "bamboo_fence": {
+        "hex": "#CEBA59",
+        "rgb_normalized": {
+            "r": 0.8078,
+            "g": 0.7294,
+            "b": 0.349
+        }
+    },
+    "bamboo_fence_gate": {
+        "hex": "#CEB956",
+        "rgb_normalized": {
+            "r": 0.8078,
+            "g": 0.7255,
+            "b": 0.3373
+        }
+    },
+    "bamboo_fence_gate_particle": {
+        "hex": "#CEB954",
+        "rgb_normalized": {
+            "r": 0.8078,
+            "g": 0.7255,
+            "b": 0.3294
+        }
+    },
+    "bamboo_fence_particle": {
+        "hex": "#CEB954",
+        "rgb_normalized": {
+            "r": 0.8078,
+            "g": 0.7255,
+            "b": 0.3294
+        }
+    },
+    "bamboo_large_leaves": {
+        "hex": "#487519",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.4588,
+            "b": 0.098
+        }
+    },
+    "bamboo_mosaic": {
+        "hex": "#BEAA4E",
+        "rgb_normalized": {
+            "r": 0.7451,
+            "g": 0.6667,
+            "b": 0.3059
+        }
+    },
+    "bamboo_planks": {
+        "hex": "#C1AD50",
+        "rgb_normalized": {
+            "r": 0.7569,
+            "g": 0.6784,
+            "b": 0.3137
+        }
+    },
+    "bamboo_singleleaf": {
+        "hex": "#648A23",
+        "rgb_normalized": {
+            "r": 0.3922,
+            "g": 0.5412,
+            "b": 0.1373
+        }
+    },
+    "bamboo_small_leaves": {
+        "hex": "#47711A",
+        "rgb_normalized": {
+            "r": 0.2784,
+            "g": 0.4431,
+            "b": 0.102
+        }
+    },
+    "bamboo_stage0": {
+        "hex": "#5C5923",
+        "rgb_normalized": {
+            "r": 0.3608,
+            "g": 0.349,
+            "b": 0.1373
+        }
+    },
+    "bamboo_stalk": {
+        "hex": "#5D9013",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.5647,
+            "b": 0.0745
+        }
+    },
+    "bamboo_trapdoor": {
+        "hex": "#C6B355",
+        "rgb_normalized": {
+            "r": 0.7765,
+            "g": 0.702,
+            "b": 0.3333
+        }
+    },
+    "barrel_bottom": {
+        "hex": "#735530",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.3333,
+            "b": 0.1882
+        }
+    },
+    "barrel_side": {
+        "hex": "#6B5132",
+        "rgb_normalized": {
+            "r": 0.4196,
+            "g": 0.3176,
+            "b": 0.1961
+        }
+    },
+    "barrel_top": {
+        "hex": "#86643A",
+        "rgb_normalized": {
+            "r": 0.5255,
+            "g": 0.3922,
+            "b": 0.2275
+        }
+    },
+    "barrel_top_open": {
+        "hex": "#5C4322",
+        "rgb_normalized": {
+            "r": 0.3608,
+            "g": 0.2627,
+            "b": 0.1333
+        }
+    },
+    "basalt_side": {
+        "hex": "#49484D",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.2824,
+            "b": 0.302
+        }
+    },
+    "basalt_top": {
+        "hex": "#505156",
+        "rgb_normalized": {
+            "r": 0.3137,
+            "g": 0.3176,
+            "b": 0.3373
+        }
+    },
+    "beacon": {
+        "hex": "#75DCD7",
+        "rgb_normalized": {
+            "r": 0.4588,
+            "g": 0.8627,
+            "b": 0.8431
+        }
+    },
+    "bedrock": {
+        "hex": "#555555",
+        "rgb_normalized": {
+            "r": 0.3333,
+            "g": 0.3333,
+            "b": 0.3333
+        }
+    },
+    "beehive_end": {
+        "hex": "#B4925A",
+        "rgb_normalized": {
+            "r": 0.7059,
+            "g": 0.5725,
+            "b": 0.3529
+        }
+    },
+    "beehive_front": {
+        "hex": "#9F804D",
+        "rgb_normalized": {
+            "r": 0.6235,
+            "g": 0.502,
+            "b": 0.302
+        }
+    },
+    "beehive_front_honey": {
+        "hex": "#A7834A",
+        "rgb_normalized": {
+            "r": 0.6549,
+            "g": 0.5137,
+            "b": 0.2902
+        }
+    },
+    "beehive_side": {
+        "hex": "#9D7E4B",
+        "rgb_normalized": {
+            "r": 0.6157,
+            "g": 0.4941,
+            "b": 0.2941
+        }
+    },
+    "beetroots_stage0": {
+        "hex": "#418929",
+        "rgb_normalized": {
+            "r": 0.2549,
+            "g": 0.5373,
+            "b": 0.1608
+        }
+    },
+    "beetroots_stage1": {
+        "hex": "#428A29",
+        "rgb_normalized": {
+            "r": 0.2588,
+            "g": 0.5412,
+            "b": 0.1608
+        }
+    },
+    "beetroots_stage2": {
+        "hex": "#458227",
+        "rgb_normalized": {
+            "r": 0.2706,
+            "g": 0.5098,
+            "b": 0.1529
+        }
+    },
+    "beetroots_stage3": {
+        "hex": "#5D5B1E",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.3569,
+            "b": 0.1176
+        }
+    },
+    "bee_nest_bottom": {
+        "hex": "#A07F57",
+        "rgb_normalized": {
+            "r": 0.6275,
+            "g": 0.498,
+            "b": 0.3412
+        }
+    },
+    "bee_nest_front": {
+        "hex": "#B78D4C",
+        "rgb_normalized": {
+            "r": 0.7176,
+            "g": 0.5529,
+            "b": 0.298
+        }
+    },
+    "bee_nest_front_honey": {
+        "hex": "#C2974B",
+        "rgb_normalized": {
+            "r": 0.7608,
+            "g": 0.5922,
+            "b": 0.2941
+        }
+    },
+    "bee_nest_side": {
+        "hex": "#C4964D",
+        "rgb_normalized": {
+            "r": 0.7686,
+            "g": 0.5882,
+            "b": 0.302
+        }
+    },
+    "bee_nest_top": {
+        "hex": "#CAA04A",
+        "rgb_normalized": {
+            "r": 0.7922,
+            "g": 0.6275,
+            "b": 0.2902
+        }
+    },
+    "bell_bottom": {
+        "hex": "#BC942A",
+        "rgb_normalized": {
+            "r": 0.7373,
+            "g": 0.5804,
+            "b": 0.1647
+        }
+    },
+    "bell_side": {
+        "hex": "#FCE560",
+        "rgb_normalized": {
+            "r": 0.9882,
+            "g": 0.898,
+            "b": 0.3765
+        }
+    },
+    "bell_top": {
+        "hex": "#FDEB6E",
+        "rgb_normalized": {
+            "r": 0.9922,
+            "g": 0.9216,
+            "b": 0.4314
+        }
+    },
+    "big_dripleaf_side": {
+        "hex": "#4B622C",
+        "rgb_normalized": {
+            "r": 0.2941,
+            "g": 0.3843,
+            "b": 0.1725
+        }
+    },
+    "big_dripleaf_stem": {
+        "hex": "#5B732D",
+        "rgb_normalized": {
+            "r": 0.3569,
+            "g": 0.451,
+            "b": 0.1765
+        }
+    },
+    "big_dripleaf_tip": {
+        "hex": "#617C30",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.4863,
+            "b": 0.1882
+        }
+    },
+    "big_dripleaf_top": {
+        "hex": "#6F8D33",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.5529,
+            "b": 0.2
+        }
+    },
+    "birch_door_bottom": {
+        "hex": "#D0C290",
+        "rgb_normalized": {
+            "r": 0.8157,
+            "g": 0.7608,
+            "b": 0.5647
+        }
+    },
+    "birch_door_top": {
+        "hex": "#DCD1B0",
+        "rgb_normalized": {
+            "r": 0.8627,
+            "g": 0.8196,
+            "b": 0.6902
+        }
+    },
+    "birch_leaves": {
+        "hex": "#828182",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.5059,
+            "b": 0.5098
+        }
+    },
+    "birch_log": {
+        "hex": "#D8D7D2",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.8431,
+            "b": 0.8235
+        }
+    },
+    "birch_log_top": {
+        "hex": "#C1B387",
+        "rgb_normalized": {
+            "r": 0.7569,
+            "g": 0.702,
+            "b": 0.5294
+        }
+    },
+    "birch_planks": {
+        "hex": "#C0AF79",
+        "rgb_normalized": {
+            "r": 0.7529,
+            "g": 0.6863,
+            "b": 0.4745
+        }
+    },
+    "birch_sapling": {
+        "hex": "#7FA04F",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.6275,
+            "b": 0.3098
+        }
+    },
+    "birch_trapdoor": {
+        "hex": "#CFC29D",
+        "rgb_normalized": {
+            "r": 0.8118,
+            "g": 0.7608,
+            "b": 0.6157
+        }
+    },
+    "blackstone": {
+        "hex": "#2A2328",
+        "rgb_normalized": {
+            "r": 0.1647,
+            "g": 0.1373,
+            "b": 0.1569
+        }
+    },
+    "blackstone_top": {
+        "hex": "#2A2429",
+        "rgb_normalized": {
+            "r": 0.1647,
+            "g": 0.1412,
+            "b": 0.1608
+        }
+    },
+    "black_candle": {
+        "hex": "#262439",
+        "rgb_normalized": {
+            "r": 0.149,
+            "g": 0.1412,
+            "b": 0.2235
+        }
+    },
+    "black_candle_lit": {
+        "hex": "#493033",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.1882,
+            "b": 0.2
+        }
+    },
+    "black_concrete": {
+        "hex": "#080A0F",
+        "rgb_normalized": {
+            "r": 0.0314,
+            "g": 0.0392,
+            "b": 0.0588
+        }
+    },
+    "black_concrete_powder": {
+        "hex": "#191A1F",
+        "rgb_normalized": {
+            "r": 0.098,
+            "g": 0.102,
+            "b": 0.1216
+        }
+    },
+    "black_glazed_terracotta": {
+        "hex": "#431E20",
+        "rgb_normalized": {
+            "r": 0.2627,
+            "g": 0.1176,
+            "b": 0.1255
+        }
+    },
+    "black_shulker_box": {
+        "hex": "#19191D",
+        "rgb_normalized": {
+            "r": 0.098,
+            "g": 0.098,
+            "b": 0.1137
+        }
+    },
+    "black_stained_glass": {
+        "hex": "#191919",
+        "rgb_normalized": {
+            "r": 0.098,
+            "g": 0.098,
+            "b": 0.098
+        }
+    },
+    "black_stained_glass_pane_top": {
+        "hex": "#181818",
+        "rgb_normalized": {
+            "r": 0.0941,
+            "g": 0.0941,
+            "b": 0.0941
+        }
+    },
+    "black_terracotta": {
+        "hex": "#251610",
+        "rgb_normalized": {
+            "r": 0.1451,
+            "g": 0.0863,
+            "b": 0.0627
+        }
+    },
+    "black_wool": {
+        "hex": "#141519",
+        "rgb_normalized": {
+            "r": 0.0784,
+            "g": 0.0824,
+            "b": 0.098
+        }
+    },
+    "blast_furnace_front": {
+        "hex": "#6B6B6B",
+        "rgb_normalized": {
+            "r": 0.4196,
+            "g": 0.4196,
+            "b": 0.4196
+        }
+    },
+    "blast_furnace_front_on": {
+        "hex": "#736E69",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.4314,
+            "b": 0.4118
+        }
+    },
+    "blast_furnace_side": {
+        "hex": "#6B6B6B",
+        "rgb_normalized": {
+            "r": 0.4196,
+            "g": 0.4196,
+            "b": 0.4196
+        }
+    },
+    "blast_furnace_top": {
+        "hex": "#505051",
+        "rgb_normalized": {
+            "r": 0.3137,
+            "g": 0.3137,
+            "b": 0.3176
+        }
+    },
+    "blue_candle": {
+        "hex": "#394CA1",
+        "rgb_normalized": {
+            "r": 0.2235,
+            "g": 0.298,
+            "b": 0.6314
+        }
+    },
+    "blue_candle_lit": {
+        "hex": "#4054B3",
+        "rgb_normalized": {
+            "r": 0.251,
+            "g": 0.3294,
+            "b": 0.702
+        }
+    },
+    "blue_concrete": {
+        "hex": "#2C2E8F",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.1804,
+            "b": 0.5608
+        }
+    },
+    "blue_concrete_powder": {
+        "hex": "#4649A6",
+        "rgb_normalized": {
+            "r": 0.2745,
+            "g": 0.2863,
+            "b": 0.651
+        }
+    },
+    "blue_glazed_terracotta": {
+        "hex": "#2F408B",
+        "rgb_normalized": {
+            "r": 0.1843,
+            "g": 0.251,
+            "b": 0.5451
+        }
+    },
+    "blue_ice": {
+        "hex": "#74A7FD",
+        "rgb_normalized": {
+            "r": 0.4549,
+            "g": 0.6549,
+            "b": 0.9922
+        }
+    },
+    "blue_orchid": {
+        "hex": "#2FA2A8",
+        "rgb_normalized": {
+            "r": 0.1843,
+            "g": 0.6353,
+            "b": 0.6588
+        }
+    },
+    "blue_shulker_box": {
+        "hex": "#2B2D8C",
+        "rgb_normalized": {
+            "r": 0.1686,
+            "g": 0.1765,
+            "b": 0.549
+        }
+    },
+    "blue_stained_glass": {
+        "hex": "#334CB2",
+        "rgb_normalized": {
+            "r": 0.2,
+            "g": 0.298,
+            "b": 0.698
+        }
+    },
+    "blue_stained_glass_pane_top": {
+        "hex": "#3049AB",
+        "rgb_normalized": {
+            "r": 0.1882,
+            "g": 0.2863,
+            "b": 0.6706
+        }
+    },
+    "blue_terracotta": {
+        "hex": "#4A3B5B",
+        "rgb_normalized": {
+            "r": 0.2902,
+            "g": 0.2314,
+            "b": 0.3569
+        }
+    },
+    "blue_wool": {
+        "hex": "#35399D",
+        "rgb_normalized": {
+            "r": 0.2078,
+            "g": 0.2235,
+            "b": 0.6157
+        }
+    },
+    "bone_block_side": {
+        "hex": "#E5E1CF",
+        "rgb_normalized": {
+            "r": 0.898,
+            "g": 0.8824,
+            "b": 0.8118
+        }
+    },
+    "bone_block_top": {
+        "hex": "#D1CEB3",
+        "rgb_normalized": {
+            "r": 0.8196,
+            "g": 0.8078,
+            "b": 0.702
+        }
+    },
+    "bookshelf": {
+        "hex": "#755E3B",
+        "rgb_normalized": {
+            "r": 0.4588,
+            "g": 0.3686,
+            "b": 0.2314
+        }
+    },
+    "brain_coral": {
+        "hex": "#C55498",
+        "rgb_normalized": {
+            "r": 0.7725,
+            "g": 0.3294,
+            "b": 0.5961
+        }
+    },
+    "brain_coral_block": {
+        "hex": "#CF5B9F",
+        "rgb_normalized": {
+            "r": 0.8118,
+            "g": 0.3569,
+            "b": 0.6235
+        }
+    },
+    "brain_coral_fan": {
+        "hex": "#CA5499",
+        "rgb_normalized": {
+            "r": 0.7922,
+            "g": 0.3294,
+            "b": 0.6
+        }
+    },
+    "brewing_stand": {
+        "hex": "#7A6450",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.3922,
+            "b": 0.3137
+        }
+    },
+    "brewing_stand_base": {
+        "hex": "#746969",
+        "rgb_normalized": {
+            "r": 0.4549,
+            "g": 0.4118,
+            "b": 0.4118
+        }
+    },
+    "bricks": {
+        "hex": "#966153",
+        "rgb_normalized": {
+            "r": 0.5882,
+            "g": 0.3804,
+            "b": 0.3255
+        }
+    },
+    "brown_candle": {
+        "hex": "#6F4629",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.2745,
+            "b": 0.1608
+        }
+    },
+    "brown_candle_lit": {
+        "hex": "#936033",
+        "rgb_normalized": {
+            "r": 0.5765,
+            "g": 0.3765,
+            "b": 0.2
+        }
+    },
+    "brown_concrete": {
+        "hex": "#603B1F",
+        "rgb_normalized": {
+            "r": 0.3765,
+            "g": 0.2314,
+            "b": 0.1216
+        }
+    },
+    "brown_concrete_powder": {
+        "hex": "#7D5435",
+        "rgb_normalized": {
+            "r": 0.4902,
+            "g": 0.3294,
+            "b": 0.2078
+        }
+    },
+    "brown_glazed_terracotta": {
+        "hex": "#776A55",
+        "rgb_normalized": {
+            "r": 0.4667,
+            "g": 0.4157,
+            "b": 0.3333
+        }
+    },
+    "brown_mushroom": {
+        "hex": "#99745C",
+        "rgb_normalized": {
+            "r": 0.6,
+            "g": 0.4549,
+            "b": 0.3608
+        }
+    },
+    "brown_mushroom_block": {
+        "hex": "#956F51",
+        "rgb_normalized": {
+            "r": 0.5843,
+            "g": 0.4353,
+            "b": 0.3176
+        }
+    },
+    "brown_shulker_box": {
+        "hex": "#6A4223",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.2588,
+            "b": 0.1373
+        }
+    },
+    "brown_stained_glass": {
+        "hex": "#664C33",
+        "rgb_normalized": {
+            "r": 0.4,
+            "g": 0.298,
+            "b": 0.2
+        }
+    },
+    "brown_stained_glass_pane_top": {
+        "hex": "#614930",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.2863,
+            "b": 0.1882
+        }
+    },
+    "brown_terracotta": {
+        "hex": "#4D3323",
+        "rgb_normalized": {
+            "r": 0.302,
+            "g": 0.2,
+            "b": 0.1373
+        }
+    },
+    "brown_wool": {
+        "hex": "#724728",
+        "rgb_normalized": {
+            "r": 0.4471,
+            "g": 0.2784,
+            "b": 0.1569
+        }
+    },
+    "bubble_coral": {
+        "hex": "#A1179F",
+        "rgb_normalized": {
+            "r": 0.6314,
+            "g": 0.0902,
+            "b": 0.6235
+        }
+    },
+    "bubble_coral_block": {
+        "hex": "#A51AA2",
+        "rgb_normalized": {
+            "r": 0.6471,
+            "g": 0.102,
+            "b": 0.6353
+        }
+    },
+    "bubble_coral_fan": {
+        "hex": "#A0209F",
+        "rgb_normalized": {
+            "r": 0.6275,
+            "g": 0.1255,
+            "b": 0.6235
+        }
+    },
+    "budding_amethyst": {
+        "hex": "#8460BA",
+        "rgb_normalized": {
+            "r": 0.5176,
+            "g": 0.3765,
+            "b": 0.7294
+        }
+    },
+    "bush": {
+        "hex": "#777877",
+        "rgb_normalized": {
+            "r": 0.4667,
+            "g": 0.4706,
+            "b": 0.4667
+        }
+    },
+    "cactus_bottom": {
+        "hex": "#8FAA55",
+        "rgb_normalized": {
+            "r": 0.5608,
+            "g": 0.6667,
+            "b": 0.3333
+        }
+    },
+    "cactus_flower": {
+        "hex": "#D17887",
+        "rgb_normalized": {
+            "r": 0.8196,
+            "g": 0.4706,
+            "b": 0.5294
+        }
+    },
+    "cactus_side": {
+        "hex": "#58822D",
+        "rgb_normalized": {
+            "r": 0.3451,
+            "g": 0.5098,
+            "b": 0.1765
+        }
+    },
+    "cactus_top": {
+        "hex": "#557F2B",
+        "rgb_normalized": {
+            "r": 0.3333,
+            "g": 0.498,
+            "b": 0.1686
+        }
+    },
+    "cake_bottom": {
+        "hex": "#853E20",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.2431,
+            "b": 0.1255
+        }
+    },
+    "cake_inner": {
+        "hex": "#85543C",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.3294,
+            "b": 0.2353
+        }
+    },
+    "cake_side": {
+        "hex": "#CB9779",
+        "rgb_normalized": {
+            "r": 0.7961,
+            "g": 0.5922,
+            "b": 0.4745
+        }
+    },
+    "cake_top": {
+        "hex": "#F8DED6",
+        "rgb_normalized": {
+            "r": 0.9725,
+            "g": 0.8706,
+            "b": 0.8392
+        }
+    },
+    "calcite": {
+        "hex": "#DFE0DC",
+        "rgb_normalized": {
+            "r": 0.8745,
+            "g": 0.8784,
+            "b": 0.8627
+        }
+    },
+    "calibrated_sculk_sensor_amethyst": {
+        "hex": "#C6A0E1",
+        "rgb_normalized": {
+            "r": 0.7765,
+            "g": 0.6275,
+            "b": 0.8824
+        }
+    },
+    "calibrated_sculk_sensor_input_side": {
+        "hex": "#3B4565",
+        "rgb_normalized": {
+            "r": 0.2314,
+            "g": 0.2706,
+            "b": 0.3961
+        }
+    },
+    "calibrated_sculk_sensor_top": {
+        "hex": "#1B4F64",
+        "rgb_normalized": {
+            "r": 0.1059,
+            "g": 0.3098,
+            "b": 0.3922
+        }
+    },
+    "campfire_fire": {
+        "hex": "#DB9E3A",
+        "rgb_normalized": {
+            "r": 0.8588,
+            "g": 0.6196,
+            "b": 0.2275
+        }
+    },
+    "campfire_log": {
+        "hex": "#4F4A43",
+        "rgb_normalized": {
+            "r": 0.3098,
+            "g": 0.2902,
+            "b": 0.2627
+        }
+    },
+    "campfire_log_lit": {
+        "hex": "#6E5836",
+        "rgb_normalized": {
+            "r": 0.4314,
+            "g": 0.3451,
+            "b": 0.2118
+        }
+    },
+    "candle": {
+        "hex": "#E8C899",
+        "rgb_normalized": {
+            "r": 0.9098,
+            "g": 0.7843,
+            "b": 0.6
+        }
+    },
+    "candle_lit": {
+        "hex": "#EBD2AD",
+        "rgb_normalized": {
+            "r": 0.9216,
+            "g": 0.8235,
+            "b": 0.6784
+        }
+    },
+    "carrots_stage0": {
+        "hex": "#2C6E27",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.4314,
+            "b": 0.1529
+        }
+    },
+    "carrots_stage1": {
+        "hex": "#347828",
+        "rgb_normalized": {
+            "r": 0.2039,
+            "g": 0.4706,
+            "b": 0.1569
+        }
+    },
+    "carrots_stage2": {
+        "hex": "#387125",
+        "rgb_normalized": {
+            "r": 0.2196,
+            "g": 0.4431,
+            "b": 0.1451
+        }
+    },
+    "carrots_stage3": {
+        "hex": "#517C25",
+        "rgb_normalized": {
+            "r": 0.3176,
+            "g": 0.4863,
+            "b": 0.1451
+        }
+    },
+    "cartography_table_side1": {
+        "hex": "#463222",
+        "rgb_normalized": {
+            "r": 0.2745,
+            "g": 0.1961,
+            "b": 0.1333
+        }
+    },
+    "cartography_table_side2": {
+        "hex": "#513D2A",
+        "rgb_normalized": {
+            "r": 0.3176,
+            "g": 0.2392,
+            "b": 0.1647
+        }
+    },
+    "cartography_table_side3": {
+        "hex": "#432B14",
+        "rgb_normalized": {
+            "r": 0.2627,
+            "g": 0.1686,
+            "b": 0.0784
+        }
+    },
+    "cartography_table_top": {
+        "hex": "#675743",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.3412,
+            "b": 0.2627
+        }
+    },
+    "carved_pumpkin": {
+        "hex": "#965411",
+        "rgb_normalized": {
+            "r": 0.5882,
+            "g": 0.3294,
+            "b": 0.0667
+        }
+    },
+    "cauldron_bottom": {
+        "hex": "#28282C",
+        "rgb_normalized": {
+            "r": 0.1569,
+            "g": 0.1569,
+            "b": 0.1725
+        }
+    },
+    "cauldron_inner": {
+        "hex": "#313135",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.1922,
+            "b": 0.2078
+        }
+    },
+    "cauldron_side": {
+        "hex": "#4A494A",
+        "rgb_normalized": {
+            "r": 0.2902,
+            "g": 0.2863,
+            "b": 0.2902
+        }
+    },
+    "cauldron_top": {
+        "hex": "#49484A",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.2824,
+            "b": 0.2902
+        }
+    },
+    "cave_vines": {
+        "hex": "#5A6D28",
+        "rgb_normalized": {
+            "r": 0.3529,
+            "g": 0.4275,
+            "b": 0.1569
+        }
+    },
+    "cave_vines_lit": {
+        "hex": "#697029",
+        "rgb_normalized": {
+            "r": 0.4118,
+            "g": 0.4392,
+            "b": 0.1608
+        }
+    },
+    "cave_vines_plant": {
+        "hex": "#586526",
+        "rgb_normalized": {
+            "r": 0.3451,
+            "g": 0.3961,
+            "b": 0.149
+        }
+    },
+    "cave_vines_plant_lit": {
+        "hex": "#696B28",
+        "rgb_normalized": {
+            "r": 0.4118,
+            "g": 0.4196,
+            "b": 0.1569
+        }
+    },
+    "chain": {
+        "hex": "#33394A",
+        "rgb_normalized": {
+            "r": 0.2,
+            "g": 0.2235,
+            "b": 0.2902
+        }
+    },
+    "chain_command_block_back": {
+        "hex": "#829D91",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.6157,
+            "b": 0.5686
+        }
+    },
+    "chain_command_block_conditional": {
+        "hex": "#81A193",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.6314,
+            "b": 0.5765
+        }
+    },
+    "chain_command_block_front": {
+        "hex": "#84A596",
+        "rgb_normalized": {
+            "r": 0.5176,
+            "g": 0.6471,
+            "b": 0.5882
+        }
+    },
+    "chain_command_block_side": {
+        "hex": "#83A193",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.6314,
+            "b": 0.5765
+        }
+    },
+    "cherry_door_bottom": {
+        "hex": "#E1B0A9",
+        "rgb_normalized": {
+            "r": 0.8824,
+            "g": 0.6902,
+            "b": 0.6627
+        }
+    },
+    "cherry_door_top": {
+        "hex": "#DFAAA4",
+        "rgb_normalized": {
+            "r": 0.8745,
+            "g": 0.6667,
+            "b": 0.6431
+        }
+    },
+    "cherry_leaves": {
+        "hex": "#E5ACC2",
+        "rgb_normalized": {
+            "r": 0.898,
+            "g": 0.6745,
+            "b": 0.7608
+        }
+    },
+    "cherry_log": {
+        "hex": "#36212C",
+        "rgb_normalized": {
+            "r": 0.2118,
+            "g": 0.1294,
+            "b": 0.1725
+        }
+    },
+    "cherry_log_top": {
+        "hex": "#B98D89",
+        "rgb_normalized": {
+            "r": 0.7255,
+            "g": 0.5529,
+            "b": 0.5373
+        }
+    },
+    "cherry_planks": {
+        "hex": "#E2B2AC",
+        "rgb_normalized": {
+            "r": 0.8863,
+            "g": 0.698,
+            "b": 0.6745
+        }
+    },
+    "cherry_sapling": {
+        "hex": "#A4758F",
+        "rgb_normalized": {
+            "r": 0.6431,
+            "g": 0.4588,
+            "b": 0.5608
+        }
+    },
+    "cherry_trapdoor": {
+        "hex": "#E2B2AC",
+        "rgb_normalized": {
+            "r": 0.8863,
+            "g": 0.698,
+            "b": 0.6745
+        }
+    },
+    "chipped_anvil_top": {
+        "hex": "#484848",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.2824,
+            "b": 0.2824
+        }
+    },
+    "chiseled_bookshelf_empty": {
+        "hex": "#5A4629",
+        "rgb_normalized": {
+            "r": 0.3529,
+            "g": 0.2745,
+            "b": 0.1608
+        }
+    },
+    "chiseled_bookshelf_occupied": {
+        "hex": "#795E45",
+        "rgb_normalized": {
+            "r": 0.4745,
+            "g": 0.3686,
+            "b": 0.2706
+        }
+    },
+    "chiseled_bookshelf_side": {
+        "hex": "#AF8D56",
+        "rgb_normalized": {
+            "r": 0.6863,
+            "g": 0.5529,
+            "b": 0.3373
+        }
+    },
+    "chiseled_bookshelf_top": {
+        "hex": "#B29058",
+        "rgb_normalized": {
+            "r": 0.698,
+            "g": 0.5647,
+            "b": 0.3451
+        }
+    },
+    "chiseled_copper": {
+        "hex": "#B86449",
+        "rgb_normalized": {
+            "r": 0.7216,
+            "g": 0.3922,
+            "b": 0.2863
+        }
+    },
+    "chiseled_deepslate": {
+        "hex": "#363636",
+        "rgb_normalized": {
+            "r": 0.2118,
+            "g": 0.2118,
+            "b": 0.2118
+        }
+    },
+    "chiseled_nether_bricks": {
+        "hex": "#2D161B",
+        "rgb_normalized": {
+            "r": 0.1765,
+            "g": 0.0863,
+            "b": 0.1059
+        }
+    },
+    "chiseled_polished_blackstone": {
+        "hex": "#353038",
+        "rgb_normalized": {
+            "r": 0.2078,
+            "g": 0.1882,
+            "b": 0.2196
+        }
+    },
+    "chiseled_quartz_block": {
+        "hex": "#E7E2DA",
+        "rgb_normalized": {
+            "r": 0.9059,
+            "g": 0.8863,
+            "b": 0.8549
+        }
+    },
+    "chiseled_quartz_block_top": {
+        "hex": "#E7E2D9",
+        "rgb_normalized": {
+            "r": 0.9059,
+            "g": 0.8863,
+            "b": 0.851
+        }
+    },
+    "chiseled_red_sandstone": {
+        "hex": "#B7601B",
+        "rgb_normalized": {
+            "r": 0.7176,
+            "g": 0.3765,
+            "b": 0.1059
+        }
+    },
+    "chiseled_resin_bricks": {
+        "hex": "#C85418",
+        "rgb_normalized": {
+            "r": 0.7843,
+            "g": 0.3294,
+            "b": 0.0941
+        }
+    },
+    "chiseled_sandstone": {
+        "hex": "#D8CA9B",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.7922,
+            "b": 0.6078
+        }
+    },
+    "chiseled_stone_bricks": {
+        "hex": "#777677",
+        "rgb_normalized": {
+            "r": 0.4667,
+            "g": 0.4627,
+            "b": 0.4667
+        }
+    },
+    "chiseled_tuff": {
+        "hex": "#595E56",
+        "rgb_normalized": {
+            "r": 0.349,
+            "g": 0.3686,
+            "b": 0.3373
+        }
+    },
+    "chiseled_tuff_bricks": {
+        "hex": "#62675F",
+        "rgb_normalized": {
+            "r": 0.3843,
+            "g": 0.4039,
+            "b": 0.3725
+        }
+    },
+    "chiseled_tuff_bricks_top": {
+        "hex": "#6E716A",
+        "rgb_normalized": {
+            "r": 0.4314,
+            "g": 0.4431,
+            "b": 0.4157
+        }
+    },
+    "chiseled_tuff_top": {
+        "hex": "#5D625B",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.3843,
+            "b": 0.3569
+        }
+    },
+    "chorus_flower": {
+        "hex": "#977897",
+        "rgb_normalized": {
+            "r": 0.5922,
+            "g": 0.4706,
+            "b": 0.5922
+        }
+    },
+    "chorus_flower_dead": {
+        "hex": "#603D5E",
+        "rgb_normalized": {
+            "r": 0.3765,
+            "g": 0.2392,
+            "b": 0.3686
+        }
+    },
+    "chorus_plant": {
+        "hex": "#5D395D",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.2235,
+            "b": 0.3647
+        }
+    },
+    "clay": {
+        "hex": "#A0A6B3",
+        "rgb_normalized": {
+            "r": 0.6275,
+            "g": 0.651,
+            "b": 0.702
+        }
+    },
+    "closed_eyeblossom": {
+        "hex": "#6C6265",
+        "rgb_normalized": {
+            "r": 0.4235,
+            "g": 0.3843,
+            "b": 0.3961
+        }
+    },
+    "coal_block": {
+        "hex": "#100F0F",
+        "rgb_normalized": {
+            "r": 0.0627,
+            "g": 0.0588,
+            "b": 0.0588
+        }
+    },
+    "coal_ore": {
+        "hex": "#696969",
+        "rgb_normalized": {
+            "r": 0.4118,
+            "g": 0.4118,
+            "b": 0.4118
+        }
+    },
+    "coarse_dirt": {
+        "hex": "#77553B",
+        "rgb_normalized": {
+            "r": 0.4667,
+            "g": 0.3333,
+            "b": 0.2314
+        }
+    },
+    "cobbled_deepslate": {
+        "hex": "#4D4D50",
+        "rgb_normalized": {
+            "r": 0.302,
+            "g": 0.302,
+            "b": 0.3137
+        }
+    },
+    "cobblestone": {
+        "hex": "#7F7F7F",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.498,
+            "b": 0.498
+        }
+    },
+    "cobweb": {
+        "hex": "#E4E9EA",
+        "rgb_normalized": {
+            "r": 0.8941,
+            "g": 0.9137,
+            "b": 0.9176
+        }
+    },
+    "cocoa_stage0": {
+        "hex": "#85863E",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.5255,
+            "b": 0.2431
+        }
+    },
+    "cocoa_stage1": {
+        "hex": "#926E38",
+        "rgb_normalized": {
+            "r": 0.5725,
+            "g": 0.4314,
+            "b": 0.2196
+        }
+    },
+    "cocoa_stage2": {
+        "hex": "#9A5B28",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.3569,
+            "b": 0.1569
+        }
+    },
+    "command_block_back": {
+        "hex": "#AD836A",
+        "rgb_normalized": {
+            "r": 0.6784,
+            "g": 0.5137,
+            "b": 0.4157
+        }
+    },
+    "command_block_conditional": {
+        "hex": "#B28569",
+        "rgb_normalized": {
+            "r": 0.698,
+            "g": 0.5216,
+            "b": 0.4118
+        }
+    },
+    "command_block_front": {
+        "hex": "#B5886C",
+        "rgb_normalized": {
+            "r": 0.7098,
+            "g": 0.5333,
+            "b": 0.4235
+        }
+    },
+    "command_block_side": {
+        "hex": "#B1856B",
+        "rgb_normalized": {
+            "r": 0.6941,
+            "g": 0.5216,
+            "b": 0.4196
+        }
+    },
+    "comparator": {
+        "hex": "#A6A19F",
+        "rgb_normalized": {
+            "r": 0.651,
+            "g": 0.6314,
+            "b": 0.6235
+        }
+    },
+    "comparator_on": {
+        "hex": "#AFA09D",
+        "rgb_normalized": {
+            "r": 0.6863,
+            "g": 0.6275,
+            "b": 0.6157
+        }
+    },
+    "composter_bottom": {
+        "hex": "#744720",
+        "rgb_normalized": {
+            "r": 0.4549,
+            "g": 0.2784,
+            "b": 0.1255
+        }
+    },
+    "composter_compost": {
+        "hex": "#583D17",
+        "rgb_normalized": {
+            "r": 0.3451,
+            "g": 0.2392,
+            "b": 0.0902
+        }
+    },
+    "composter_ready": {
+        "hex": "#745D38",
+        "rgb_normalized": {
+            "r": 0.4549,
+            "g": 0.3647,
+            "b": 0.2196
+        }
+    },
+    "composter_side": {
+        "hex": "#70461F",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.2745,
+            "b": 0.1216
+        }
+    },
+    "composter_top": {
+        "hex": "#986233",
+        "rgb_normalized": {
+            "r": 0.5961,
+            "g": 0.3843,
+            "b": 0.2
+        }
+    },
+    "conduit": {
+        "hex": "#9F8B71",
+        "rgb_normalized": {
+            "r": 0.6235,
+            "g": 0.5451,
+            "b": 0.4431
+        }
+    },
+    "copper_block": {
+        "hex": "#C06B4F",
+        "rgb_normalized": {
+            "r": 0.7529,
+            "g": 0.4196,
+            "b": 0.3098
+        }
+    },
+    "copper_bulb": {
+        "hex": "#9C5639",
+        "rgb_normalized": {
+            "r": 0.6118,
+            "g": 0.3373,
+            "b": 0.2235
+        }
+    },
+    "copper_bulb_lit": {
+        "hex": "#D7966A",
+        "rgb_normalized": {
+            "r": 0.8431,
+            "g": 0.5882,
+            "b": 0.4157
+        }
+    },
+    "copper_bulb_lit_powered": {
+        "hex": "#D8956A",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.5843,
+            "b": 0.4157
+        }
+    },
+    "copper_bulb_powered": {
+        "hex": "#9C5639",
+        "rgb_normalized": {
+            "r": 0.6118,
+            "g": 0.3373,
+            "b": 0.2235
+        }
+    },
+    "copper_door_bottom": {
+        "hex": "#B4674D",
+        "rgb_normalized": {
+            "r": 0.7059,
+            "g": 0.4039,
+            "b": 0.302
+        }
+    },
+    "copper_door_top": {
+        "hex": "#C06D52",
+        "rgb_normalized": {
+            "r": 0.7529,
+            "g": 0.4275,
+            "b": 0.3216
+        }
+    },
+    "copper_grate": {
+        "hex": "#BF6B4F",
+        "rgb_normalized": {
+            "r": 0.749,
+            "g": 0.4196,
+            "b": 0.3098
+        }
+    },
+    "copper_ore": {
+        "hex": "#7C7D78",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.4902,
+            "b": 0.4706
+        }
+    },
+    "copper_trapdoor": {
+        "hex": "#BE6A4F",
+        "rgb_normalized": {
+            "r": 0.7451,
+            "g": 0.4157,
+            "b": 0.3098
+        }
+    },
+    "cornflower": {
+        "hex": "#4F7992",
+        "rgb_normalized": {
+            "r": 0.3098,
+            "g": 0.4745,
+            "b": 0.5725
+        }
+    },
+    "cracked_deepslate_bricks": {
+        "hex": "#404041",
+        "rgb_normalized": {
+            "r": 0.251,
+            "g": 0.251,
+            "b": 0.2549
+        }
+    },
+    "cracked_deepslate_tiles": {
+        "hex": "#343434",
+        "rgb_normalized": {
+            "r": 0.2039,
+            "g": 0.2039,
+            "b": 0.2039
+        }
+    },
+    "cracked_nether_bricks": {
+        "hex": "#281417",
+        "rgb_normalized": {
+            "r": 0.1569,
+            "g": 0.0784,
+            "b": 0.0902
+        }
+    },
+    "cracked_polished_blackstone_bricks": {
+        "hex": "#2C252B",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.1451,
+            "b": 0.1686
+        }
+    },
+    "cracked_stone_bricks": {
+        "hex": "#767576",
+        "rgb_normalized": {
+            "r": 0.4627,
+            "g": 0.4588,
+            "b": 0.4627
+        }
+    },
+    "crafter_bottom": {
+        "hex": "#4E4E4E",
+        "rgb_normalized": {
+            "r": 0.3059,
+            "g": 0.3059,
+            "b": 0.3059
+        }
+    },
+    "crafter_east": {
+        "hex": "#7F725D",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.4471,
+            "b": 0.3647
+        }
+    },
+    "crafter_east_crafting": {
+        "hex": "#80725D",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4471,
+            "b": 0.3647
+        }
+    },
+    "crafter_east_triggered": {
+        "hex": "#80725D",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4471,
+            "b": 0.3647
+        }
+    },
+    "crafter_north": {
+        "hex": "#716C64",
+        "rgb_normalized": {
+            "r": 0.4431,
+            "g": 0.4235,
+            "b": 0.3922
+        }
+    },
+    "crafter_north_crafting": {
+        "hex": "#675F52",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.3725,
+            "b": 0.3216
+        }
+    },
+    "crafter_south": {
+        "hex": "#7B7060",
+        "rgb_normalized": {
+            "r": 0.4824,
+            "g": 0.4392,
+            "b": 0.3765
+        }
+    },
+    "crafter_south_triggered": {
+        "hex": "#7E7060",
+        "rgb_normalized": {
+            "r": 0.4941,
+            "g": 0.4392,
+            "b": 0.3765
+        }
+    },
+    "crafter_top": {
+        "hex": "#706263",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.3843,
+            "b": 0.3882
+        }
+    },
+    "crafter_top_crafting": {
+        "hex": "#8B6464",
+        "rgb_normalized": {
+            "r": 0.5451,
+            "g": 0.3922,
+            "b": 0.3922
+        }
+    },
+    "crafter_top_triggered": {
+        "hex": "#726263",
+        "rgb_normalized": {
+            "r": 0.4471,
+            "g": 0.3843,
+            "b": 0.3882
+        }
+    },
+    "crafter_west": {
+        "hex": "#80735E",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.451,
+            "b": 0.3686
+        }
+    },
+    "crafter_west_crafting": {
+        "hex": "#82735E",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.451,
+            "b": 0.3686
+        }
+    },
+    "crafter_west_triggered": {
+        "hex": "#82735E",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.451,
+            "b": 0.3686
+        }
+    },
+    "crafting_table_front": {
+        "hex": "#816946",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.4118,
+            "b": 0.2745
+        }
+    },
+    "crafting_table_side": {
+        "hex": "#80663F",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4,
+            "b": 0.2471
+        }
+    },
+    "crafting_table_top": {
+        "hex": "#77492A",
+        "rgb_normalized": {
+            "r": 0.4667,
+            "g": 0.2863,
+            "b": 0.1647
+        }
+    },
+    "creaking_heart": {
+        "hex": "#52443F",
+        "rgb_normalized": {
+            "r": 0.3216,
+            "g": 0.2667,
+            "b": 0.2471
+        }
+    },
+    "creaking_heart_awake": {
+        "hex": "#955431",
+        "rgb_normalized": {
+            "r": 0.5843,
+            "g": 0.3294,
+            "b": 0.1922
+        }
+    },
+    "creaking_heart_dormant": {
+        "hex": "#664231",
+        "rgb_normalized": {
+            "r": 0.4,
+            "g": 0.2588,
+            "b": 0.1922
+        }
+    },
+    "creaking_heart_top": {
+        "hex": "#493B36",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.2314,
+            "b": 0.2118
+        }
+    },
+    "creaking_heart_top_awake": {
+        "hex": "#99542C",
+        "rgb_normalized": {
+            "r": 0.6,
+            "g": 0.3294,
+            "b": 0.1725
+        }
+    },
+    "creaking_heart_top_dormant": {
+        "hex": "#65402C",
+        "rgb_normalized": {
+            "r": 0.3961,
+            "g": 0.251,
+            "b": 0.1725
+        }
+    },
+    "crimson_door_bottom": {
+        "hex": "#73374F",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.2157,
+            "b": 0.3098
+        }
+    },
+    "crimson_door_top": {
+        "hex": "#72364F",
+        "rgb_normalized": {
+            "r": 0.4471,
+            "g": 0.2118,
+            "b": 0.3098
+        }
+    },
+    "crimson_fungus": {
+        "hex": "#8D2C1D",
+        "rgb_normalized": {
+            "r": 0.5529,
+            "g": 0.1725,
+            "b": 0.1137
+        }
+    },
+    "crimson_nylium": {
+        "hex": "#821F1F",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.1216,
+            "b": 0.1216
+        }
+    },
+    "crimson_nylium_side": {
+        "hex": "#6B1A1A",
+        "rgb_normalized": {
+            "r": 0.4196,
+            "g": 0.102,
+            "b": 0.102
+        }
+    },
+    "crimson_planks": {
+        "hex": "#653046",
+        "rgb_normalized": {
+            "r": 0.3961,
+            "g": 0.1882,
+            "b": 0.2745
+        }
+    },
+    "crimson_roots": {
+        "hex": "#7E0829",
+        "rgb_normalized": {
+            "r": 0.4941,
+            "g": 0.0314,
+            "b": 0.1608
+        }
+    },
+    "crimson_roots_pot": {
+        "hex": "#7F0829",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.0314,
+            "b": 0.1608
+        }
+    },
+    "crimson_stem": {
+        "hex": "#5C191D",
+        "rgb_normalized": {
+            "r": 0.3608,
+            "g": 0.098,
+            "b": 0.1137
+        }
+    },
+    "crimson_stem_top": {
+        "hex": "#703146",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.1922,
+            "b": 0.2745
+        }
+    },
+    "crimson_trapdoor": {
+        "hex": "#673248",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.1961,
+            "b": 0.2824
+        }
+    },
+    "crying_obsidian": {
+        "hex": "#200A3C",
+        "rgb_normalized": {
+            "r": 0.1255,
+            "g": 0.0392,
+            "b": 0.2353
+        }
+    },
+    "cut_copper": {
+        "hex": "#BF6A50",
+        "rgb_normalized": {
+            "r": 0.749,
+            "g": 0.4157,
+            "b": 0.3137
+        }
+    },
+    "cut_red_sandstone": {
+        "hex": "#BD651F",
+        "rgb_normalized": {
+            "r": 0.7412,
+            "g": 0.3961,
+            "b": 0.1216
+        }
+    },
+    "cut_sandstone": {
+        "hex": "#D9CE9F",
+        "rgb_normalized": {
+            "r": 0.851,
+            "g": 0.8078,
+            "b": 0.6235
+        }
+    },
+    "cyan_candle": {
+        "hex": "#117B7B",
+        "rgb_normalized": {
+            "r": 0.0667,
+            "g": 0.4824,
+            "b": 0.4824
+        }
+    },
+    "cyan_candle_lit": {
+        "hex": "#2B9286",
+        "rgb_normalized": {
+            "r": 0.1686,
+            "g": 0.5725,
+            "b": 0.5255
+        }
+    },
+    "cyan_concrete": {
+        "hex": "#157788",
+        "rgb_normalized": {
+            "r": 0.0824,
+            "g": 0.4667,
+            "b": 0.5333
+        }
+    },
+    "cyan_concrete_powder": {
+        "hex": "#24939D",
+        "rgb_normalized": {
+            "r": 0.1412,
+            "g": 0.5765,
+            "b": 0.6157
+        }
+    },
+    "cyan_glazed_terracotta": {
+        "hex": "#34767D",
+        "rgb_normalized": {
+            "r": 0.2039,
+            "g": 0.4627,
+            "b": 0.4902
+        }
+    },
+    "cyan_shulker_box": {
+        "hex": "#147987",
+        "rgb_normalized": {
+            "r": 0.0784,
+            "g": 0.4745,
+            "b": 0.5294
+        }
+    },
+    "cyan_stained_glass": {
+        "hex": "#4C7F99",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.498,
+            "b": 0.6
+        }
+    },
+    "cyan_stained_glass_pane_top": {
+        "hex": "#497A93",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.4784,
+            "b": 0.5765
+        }
+    },
+    "cyan_terracotta": {
+        "hex": "#565B5B",
+        "rgb_normalized": {
+            "r": 0.3373,
+            "g": 0.3569,
+            "b": 0.3569
+        }
+    },
+    "cyan_wool": {
+        "hex": "#158991",
+        "rgb_normalized": {
+            "r": 0.0824,
+            "g": 0.5373,
+            "b": 0.5686
+        }
+    },
+    "damaged_anvil_top": {
+        "hex": "#484848",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.2824,
+            "b": 0.2824
+        }
+    },
+    "dandelion": {
+        "hex": "#93AC2B",
+        "rgb_normalized": {
+            "r": 0.5765,
+            "g": 0.6745,
+            "b": 0.1686
+        }
+    },
+    "dark_oak_door_bottom": {
+        "hex": "#493117",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.1922,
+            "b": 0.0902
+        }
+    },
+    "dark_oak_door_top": {
+        "hex": "#4C3319",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.2,
+            "b": 0.098
+        }
+    },
+    "dark_oak_leaves": {
+        "hex": "#969696",
+        "rgb_normalized": {
+            "r": 0.5882,
+            "g": 0.5882,
+            "b": 0.5882
+        }
+    },
+    "dark_oak_log": {
+        "hex": "#3C2E1A",
+        "rgb_normalized": {
+            "r": 0.2353,
+            "g": 0.1804,
+            "b": 0.102
+        }
+    },
+    "dark_oak_log_top": {
+        "hex": "#432D16",
+        "rgb_normalized": {
+            "r": 0.2627,
+            "g": 0.1765,
+            "b": 0.0863
+        }
+    },
+    "dark_oak_planks": {
+        "hex": "#422B14",
+        "rgb_normalized": {
+            "r": 0.2588,
+            "g": 0.1686,
+            "b": 0.0784
+        }
+    },
+    "dark_oak_sapling": {
+        "hex": "#3D5A1E",
+        "rgb_normalized": {
+            "r": 0.2392,
+            "g": 0.3529,
+            "b": 0.1176
+        }
+    },
+    "dark_oak_trapdoor": {
+        "hex": "#4B3117",
+        "rgb_normalized": {
+            "r": 0.2941,
+            "g": 0.1922,
+            "b": 0.0902
+        }
+    },
+    "dark_prismarine": {
+        "hex": "#335B4B",
+        "rgb_normalized": {
+            "r": 0.2,
+            "g": 0.3569,
+            "b": 0.2941
+        }
+    },
+    "daylight_detector_inverted_top": {
+        "hex": "#6A6D70",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.4275,
+            "b": 0.4392
+        }
+    },
+    "daylight_detector_side": {
+        "hex": "#423723",
+        "rgb_normalized": {
+            "r": 0.2588,
+            "g": 0.2157,
+            "b": 0.1373
+        }
+    },
+    "daylight_detector_top": {
+        "hex": "#82745E",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.4549,
+            "b": 0.3686
+        }
+    },
+    "dead_brain_coral": {
+        "hex": "#857D78",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.4902,
+            "b": 0.4706
+        }
+    },
+    "dead_brain_coral_block": {
+        "hex": "#7C7572",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.4588,
+            "b": 0.4471
+        }
+    },
+    "dead_brain_coral_fan": {
+        "hex": "#847D79",
+        "rgb_normalized": {
+            "r": 0.5176,
+            "g": 0.4902,
+            "b": 0.4745
+        }
+    },
+    "dead_bubble_coral": {
+        "hex": "#847C78",
+        "rgb_normalized": {
+            "r": 0.5176,
+            "g": 0.4863,
+            "b": 0.4706
+        }
+    },
+    "dead_bubble_coral_block": {
+        "hex": "#837B77",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.4824,
+            "b": 0.4667
+        }
+    },
+    "dead_bubble_coral_fan": {
+        "hex": "#8C8682",
+        "rgb_normalized": {
+            "r": 0.549,
+            "g": 0.5255,
+            "b": 0.5098
+        }
+    },
+    "dead_bush": {
+        "hex": "#6B4E28",
+        "rgb_normalized": {
+            "r": 0.4196,
+            "g": 0.3059,
+            "b": 0.1569
+        }
+    },
+    "dead_fire_coral": {
+        "hex": "#88807C",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.502,
+            "b": 0.4863
+        }
+    },
+    "dead_fire_coral_block": {
+        "hex": "#837B77",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.4824,
+            "b": 0.4667
+        }
+    },
+    "dead_fire_coral_fan": {
+        "hex": "#7C7672",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.4627,
+            "b": 0.4471
+        }
+    },
+    "dead_horn_coral": {
+        "hex": "#8E8781",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.5294,
+            "b": 0.5059
+        }
+    },
+    "dead_horn_coral_block": {
+        "hex": "#857E7A",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.4941,
+            "b": 0.4784
+        }
+    },
+    "dead_horn_coral_fan": {
+        "hex": "#867D79",
+        "rgb_normalized": {
+            "r": 0.5255,
+            "g": 0.4902,
+            "b": 0.4745
+        }
+    },
+    "dead_tube_coral": {
+        "hex": "#766F6B",
+        "rgb_normalized": {
+            "r": 0.4627,
+            "g": 0.4353,
+            "b": 0.4196
+        }
+    },
+    "dead_tube_coral_block": {
+        "hex": "#827B77",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.4824,
+            "b": 0.4667
+        }
+    },
+    "dead_tube_coral_fan": {
+        "hex": "#807A76",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4784,
+            "b": 0.4627
+        }
+    },
+    "debug": {
+        "hex": "#859498",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.5804,
+            "b": 0.5961
+        }
+    },
+    "debug2": {
+        "hex": "#7B7775",
+        "rgb_normalized": {
+            "r": 0.4824,
+            "g": 0.4667,
+            "b": 0.4588
+        }
+    },
+    "deepslate": {
+        "hex": "#505052",
+        "rgb_normalized": {
+            "r": 0.3137,
+            "g": 0.3137,
+            "b": 0.3216
+        }
+    },
+    "deepslate_bricks": {
+        "hex": "#464647",
+        "rgb_normalized": {
+            "r": 0.2745,
+            "g": 0.2745,
+            "b": 0.2784
+        }
+    },
+    "deepslate_coal_ore": {
+        "hex": "#4A4A4C",
+        "rgb_normalized": {
+            "r": 0.2902,
+            "g": 0.2902,
+            "b": 0.298
+        }
+    },
+    "deepslate_copper_ore": {
+        "hex": "#5C5D59",
+        "rgb_normalized": {
+            "r": 0.3608,
+            "g": 0.3647,
+            "b": 0.349
+        }
+    },
+    "deepslate_diamond_ore": {
+        "hex": "#536A6A",
+        "rgb_normalized": {
+            "r": 0.3255,
+            "g": 0.4157,
+            "b": 0.4157
+        }
+    },
+    "deepslate_emerald_ore": {
+        "hex": "#4E6857",
+        "rgb_normalized": {
+            "r": 0.3059,
+            "g": 0.4078,
+            "b": 0.3412
+        }
+    },
+    "deepslate_gold_ore": {
+        "hex": "#73664E",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.4,
+            "b": 0.3059
+        }
+    },
+    "deepslate_iron_ore": {
+        "hex": "#6A635E",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.3882,
+            "b": 0.3686
+        }
+    },
+    "deepslate_lapis_ore": {
+        "hex": "#4F5A73",
+        "rgb_normalized": {
+            "r": 0.3098,
+            "g": 0.3529,
+            "b": 0.451
+        }
+    },
+    "deepslate_redstone_ore": {
+        "hex": "#68494A",
+        "rgb_normalized": {
+            "r": 0.4078,
+            "g": 0.2863,
+            "b": 0.2902
+        }
+    },
+    "deepslate_tiles": {
+        "hex": "#363637",
+        "rgb_normalized": {
+            "r": 0.2118,
+            "g": 0.2118,
+            "b": 0.2157
+        }
+    },
+    "deepslate_top": {
+        "hex": "#575759",
+        "rgb_normalized": {
+            "r": 0.3412,
+            "g": 0.3412,
+            "b": 0.349
+        }
+    },
+    "destroy_stage_0": {
+        "hex": "#FCFCFC",
+        "rgb_normalized": {
+            "r": 0.9882,
+            "g": 0.9882,
+            "b": 0.9882
+        }
+    },
+    "destroy_stage_1": {
+        "hex": "#F8F8F8",
+        "rgb_normalized": {
+            "r": 0.9725,
+            "g": 0.9725,
+            "b": 0.9725
+        }
+    },
+    "destroy_stage_2": {
+        "hex": "#F3F3F3",
+        "rgb_normalized": {
+            "r": 0.9529,
+            "g": 0.9529,
+            "b": 0.9529
+        }
+    },
+    "destroy_stage_3": {
+        "hex": "#EEEEEE",
+        "rgb_normalized": {
+            "r": 0.9333,
+            "g": 0.9333,
+            "b": 0.9333
+        }
+    },
+    "destroy_stage_4": {
+        "hex": "#E6E6E6",
+        "rgb_normalized": {
+            "r": 0.902,
+            "g": 0.902,
+            "b": 0.902
+        }
+    },
+    "destroy_stage_5": {
+        "hex": "#DEDEDE",
+        "rgb_normalized": {
+            "r": 0.8706,
+            "g": 0.8706,
+            "b": 0.8706
+        }
+    },
+    "destroy_stage_6": {
+        "hex": "#D4D4D4",
+        "rgb_normalized": {
+            "r": 0.8314,
+            "g": 0.8314,
+            "b": 0.8314
+        }
+    },
+    "destroy_stage_7": {
+        "hex": "#C3C3C3",
+        "rgb_normalized": {
+            "r": 0.7647,
+            "g": 0.7647,
+            "b": 0.7647
+        }
+    },
+    "destroy_stage_8": {
+        "hex": "#B1B1B1",
+        "rgb_normalized": {
+            "r": 0.6941,
+            "g": 0.6941,
+            "b": 0.6941
+        }
+    },
+    "destroy_stage_9": {
+        "hex": "#A7A7A7",
+        "rgb_normalized": {
+            "r": 0.6549,
+            "g": 0.6549,
+            "b": 0.6549
+        }
+    },
+    "detector_rail": {
+        "hex": "#7B685A",
+        "rgb_normalized": {
+            "r": 0.4824,
+            "g": 0.4078,
+            "b": 0.3529
+        }
+    },
+    "detector_rail_on": {
+        "hex": "#896759",
+        "rgb_normalized": {
+            "r": 0.5373,
+            "g": 0.4039,
+            "b": 0.349
+        }
+    },
+    "diamond_block": {
+        "hex": "#62EDE4",
+        "rgb_normalized": {
+            "r": 0.3843,
+            "g": 0.9294,
+            "b": 0.8941
+        }
+    },
+    "diamond_ore": {
+        "hex": "#798D8C",
+        "rgb_normalized": {
+            "r": 0.4745,
+            "g": 0.5529,
+            "b": 0.549
+        }
+    },
+    "diorite": {
+        "hex": "#BCBCBC",
+        "rgb_normalized": {
+            "r": 0.7373,
+            "g": 0.7373,
+            "b": 0.7373
+        }
+    },
+    "dirt": {
+        "hex": "#866043",
+        "rgb_normalized": {
+            "r": 0.5255,
+            "g": 0.3765,
+            "b": 0.2627
+        }
+    },
+    "dirt_path_side": {
+        "hex": "#886542",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.3961,
+            "b": 0.2588
+        }
+    },
+    "dirt_path_top": {
+        "hex": "#947941",
+        "rgb_normalized": {
+            "r": 0.5804,
+            "g": 0.4745,
+            "b": 0.2549
+        }
+    },
+    "dispenser_front": {
+        "hex": "#7A7979",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.4745,
+            "b": 0.4745
+        }
+    },
+    "dispenser_front_vertical": {
+        "hex": "#626161",
+        "rgb_normalized": {
+            "r": 0.3843,
+            "g": 0.3804,
+            "b": 0.3804
+        }
+    },
+    "dragon_egg": {
+        "hex": "#0C090F",
+        "rgb_normalized": {
+            "r": 0.0471,
+            "g": 0.0353,
+            "b": 0.0588
+        }
+    },
+    "dried_ghast_hydration_0_bottom": {
+        "hex": "#928888",
+        "rgb_normalized": {
+            "r": 0.5725,
+            "g": 0.5333,
+            "b": 0.5333
+        }
+    },
+    "dried_ghast_hydration_0_east": {
+        "hex": "#9E9090",
+        "rgb_normalized": {
+            "r": 0.6196,
+            "g": 0.5647,
+            "b": 0.5647
+        }
+    },
+    "dried_ghast_hydration_0_north": {
+        "hex": "#9E8F8F",
+        "rgb_normalized": {
+            "r": 0.6196,
+            "g": 0.5608,
+            "b": 0.5608
+        }
+    },
+    "dried_ghast_hydration_0_south": {
+        "hex": "#9F9191",
+        "rgb_normalized": {
+            "r": 0.6235,
+            "g": 0.5686,
+            "b": 0.5686
+        }
+    },
+    "dried_ghast_hydration_0_tentacles": {
+        "hex": "#777474",
+        "rgb_normalized": {
+            "r": 0.4667,
+            "g": 0.4549,
+            "b": 0.4549
+        }
+    },
+    "dried_ghast_hydration_0_top": {
+        "hex": "#9F9191",
+        "rgb_normalized": {
+            "r": 0.6235,
+            "g": 0.5686,
+            "b": 0.5686
+        }
+    },
+    "dried_ghast_hydration_0_west": {
+        "hex": "#A29393",
+        "rgb_normalized": {
+            "r": 0.6353,
+            "g": 0.5765,
+            "b": 0.5765
+        }
+    },
+    "dried_ghast_hydration_1_bottom": {
+        "hex": "#A69F9F",
+        "rgb_normalized": {
+            "r": 0.651,
+            "g": 0.6235,
+            "b": 0.6235
+        }
+    },
+    "dried_ghast_hydration_1_east": {
+        "hex": "#B2A8A8",
+        "rgb_normalized": {
+            "r": 0.698,
+            "g": 0.6588,
+            "b": 0.6588
+        }
+    },
+    "dried_ghast_hydration_1_north": {
+        "hex": "#B2A7A7",
+        "rgb_normalized": {
+            "r": 0.698,
+            "g": 0.6549,
+            "b": 0.6549
+        }
+    },
+    "dried_ghast_hydration_1_south": {
+        "hex": "#B1A6A6",
+        "rgb_normalized": {
+            "r": 0.6941,
+            "g": 0.651,
+            "b": 0.651
+        }
+    },
+    "dried_ghast_hydration_1_tentacles": {
+        "hex": "#918E8E",
+        "rgb_normalized": {
+            "r": 0.5686,
+            "g": 0.5569,
+            "b": 0.5569
+        }
+    },
+    "dried_ghast_hydration_1_top": {
+        "hex": "#B3A8A8",
+        "rgb_normalized": {
+            "r": 0.702,
+            "g": 0.6588,
+            "b": 0.6588
+        }
+    },
+    "dried_ghast_hydration_1_west": {
+        "hex": "#B6AAAA",
+        "rgb_normalized": {
+            "r": 0.7137,
+            "g": 0.6667,
+            "b": 0.6667
+        }
+    },
+    "dried_ghast_hydration_2_bottom": {
+        "hex": "#BDB7B7",
+        "rgb_normalized": {
+            "r": 0.7412,
+            "g": 0.7176,
+            "b": 0.7176
+        }
+    },
+    "dried_ghast_hydration_2_east": {
+        "hex": "#C7C0C0",
+        "rgb_normalized": {
+            "r": 0.7804,
+            "g": 0.7529,
+            "b": 0.7529
+        }
+    },
+    "dried_ghast_hydration_2_north": {
+        "hex": "#C6BFBF",
+        "rgb_normalized": {
+            "r": 0.7765,
+            "g": 0.749,
+            "b": 0.749
+        }
+    },
+    "dried_ghast_hydration_2_south": {
+        "hex": "#C5BEBE",
+        "rgb_normalized": {
+            "r": 0.7725,
+            "g": 0.7451,
+            "b": 0.7451
+        }
+    },
+    "dried_ghast_hydration_2_tentacles": {
+        "hex": "#ABA8A8",
+        "rgb_normalized": {
+            "r": 0.6706,
+            "g": 0.6588,
+            "b": 0.6588
+        }
+    },
+    "dried_ghast_hydration_2_top": {
+        "hex": "#C7C0C0",
+        "rgb_normalized": {
+            "r": 0.7804,
+            "g": 0.7529,
+            "b": 0.7529
+        }
+    },
+    "dried_ghast_hydration_2_west": {
+        "hex": "#CAC2C2",
+        "rgb_normalized": {
+            "r": 0.7922,
+            "g": 0.7608,
+            "b": 0.7608
+        }
+    },
+    "dried_ghast_hydration_3_bottom": {
+        "hex": "#EAE8E8",
+        "rgb_normalized": {
+            "r": 0.9176,
+            "g": 0.9098,
+            "b": 0.9098
+        }
+    },
+    "dried_ghast_hydration_3_east": {
+        "hex": "#F1F0F0",
+        "rgb_normalized": {
+            "r": 0.9451,
+            "g": 0.9412,
+            "b": 0.9412
+        }
+    },
+    "dried_ghast_hydration_3_north": {
+        "hex": "#EEEEEE",
+        "rgb_normalized": {
+            "r": 0.9333,
+            "g": 0.9333,
+            "b": 0.9333
+        }
+    },
+    "dried_ghast_hydration_3_south": {
+        "hex": "#EFEEEE",
+        "rgb_normalized": {
+            "r": 0.9373,
+            "g": 0.9333,
+            "b": 0.9333
+        }
+    },
+    "dried_ghast_hydration_3_tentacles": {
+        "hex": "#DFDDDD",
+        "rgb_normalized": {
+            "r": 0.8745,
+            "g": 0.8667,
+            "b": 0.8667
+        }
+    },
+    "dried_ghast_hydration_3_top": {
+        "hex": "#F1F0F0",
+        "rgb_normalized": {
+            "r": 0.9451,
+            "g": 0.9412,
+            "b": 0.9412
+        }
+    },
+    "dried_ghast_hydration_3_west": {
+        "hex": "#F3F2F2",
+        "rgb_normalized": {
+            "r": 0.9529,
+            "g": 0.949,
+            "b": 0.949
+        }
+    },
+    "dried_kelp_bottom": {
+        "hex": "#323A26",
+        "rgb_normalized": {
+            "r": 0.1961,
+            "g": 0.2275,
+            "b": 0.149
+        }
+    },
+    "dried_kelp_side": {
+        "hex": "#26301D",
+        "rgb_normalized": {
+            "r": 0.149,
+            "g": 0.1882,
+            "b": 0.1137
+        }
+    },
+    "dried_kelp_top": {
+        "hex": "#323A26",
+        "rgb_normalized": {
+            "r": 0.1961,
+            "g": 0.2275,
+            "b": 0.149
+        }
+    },
+    "dripstone_block": {
+        "hex": "#866B5C",
+        "rgb_normalized": {
+            "r": 0.5255,
+            "g": 0.4196,
+            "b": 0.3608
+        }
+    },
+    "dropper_front": {
+        "hex": "#7A7979",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.4745,
+            "b": 0.4745
+        }
+    },
+    "dropper_front_vertical": {
+        "hex": "#616060",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.3765,
+            "b": 0.3765
+        }
+    },
+    "emerald_block": {
+        "hex": "#2ACB57",
+        "rgb_normalized": {
+            "r": 0.1647,
+            "g": 0.7961,
+            "b": 0.3412
+        }
+    },
+    "emerald_ore": {
+        "hex": "#6C8873",
+        "rgb_normalized": {
+            "r": 0.4235,
+            "g": 0.5333,
+            "b": 0.451
+        }
+    },
+    "enchanting_table_bottom": {
+        "hex": "#0F0A18",
+        "rgb_normalized": {
+            "r": 0.0588,
+            "g": 0.0392,
+            "b": 0.0941
+        }
+    },
+    "enchanting_table_side": {
+        "hex": "#312E39",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.1804,
+            "b": 0.2235
+        }
+    },
+    "enchanting_table_top": {
+        "hex": "#804B55",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.2941,
+            "b": 0.3333
+        }
+    },
+    "end_portal_frame_eye": {
+        "hex": "#23463E",
+        "rgb_normalized": {
+            "r": 0.1373,
+            "g": 0.2745,
+            "b": 0.2431
+        }
+    },
+    "end_portal_frame_side": {
+        "hex": "#96A37A",
+        "rgb_normalized": {
+            "r": 0.5882,
+            "g": 0.6392,
+            "b": 0.4784
+        }
+    },
+    "end_portal_frame_top": {
+        "hex": "#5B7861",
+        "rgb_normalized": {
+            "r": 0.3569,
+            "g": 0.4706,
+            "b": 0.3804
+        }
+    },
+    "end_rod": {
+        "hex": "#CFC6BB",
+        "rgb_normalized": {
+            "r": 0.8118,
+            "g": 0.7765,
+            "b": 0.7333
+        }
+    },
+    "end_stone": {
+        "hex": "#DBDE9E",
+        "rgb_normalized": {
+            "r": 0.8588,
+            "g": 0.8706,
+            "b": 0.6196
+        }
+    },
+    "end_stone_bricks": {
+        "hex": "#DAE0A2",
+        "rgb_normalized": {
+            "r": 0.8549,
+            "g": 0.8784,
+            "b": 0.6353
+        }
+    },
+    "exposed_chiseled_copper": {
+        "hex": "#9A7764",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.4667,
+            "b": 0.3922
+        }
+    },
+    "exposed_copper": {
+        "hex": "#A17D67",
+        "rgb_normalized": {
+            "r": 0.6314,
+            "g": 0.4902,
+            "b": 0.4039
+        }
+    },
+    "exposed_copper_bulb": {
+        "hex": "#876B59",
+        "rgb_normalized": {
+            "r": 0.5294,
+            "g": 0.4196,
+            "b": 0.349
+        }
+    },
+    "exposed_copper_bulb_lit": {
+        "hex": "#C29164",
+        "rgb_normalized": {
+            "r": 0.7608,
+            "g": 0.5686,
+            "b": 0.3922
+        }
+    },
+    "exposed_copper_bulb_lit_powered": {
+        "hex": "#C39063",
+        "rgb_normalized": {
+            "r": 0.7647,
+            "g": 0.5647,
+            "b": 0.3882
+        }
+    },
+    "exposed_copper_bulb_powered": {
+        "hex": "#886A59",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.4157,
+            "b": 0.349
+        }
+    },
+    "exposed_copper_door_bottom": {
+        "hex": "#987664",
+        "rgb_normalized": {
+            "r": 0.5961,
+            "g": 0.4627,
+            "b": 0.3922
+        }
+    },
+    "exposed_copper_door_top": {
+        "hex": "#A47B6A",
+        "rgb_normalized": {
+            "r": 0.6431,
+            "g": 0.4824,
+            "b": 0.4157
+        }
+    },
+    "exposed_copper_grate": {
+        "hex": "#A17D68",
+        "rgb_normalized": {
+            "r": 0.6314,
+            "g": 0.4902,
+            "b": 0.4078
+        }
+    },
+    "exposed_copper_trapdoor": {
+        "hex": "#A17D68",
+        "rgb_normalized": {
+            "r": 0.6314,
+            "g": 0.4902,
+            "b": 0.4078
+        }
+    },
+    "exposed_cut_copper": {
+        "hex": "#9A7965",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.4745,
+            "b": 0.3961
+        }
+    },
+    "farmland": {
+        "hex": "#8F6646",
+        "rgb_normalized": {
+            "r": 0.5608,
+            "g": 0.4,
+            "b": 0.2745
+        }
+    },
+    "farmland_moist": {
+        "hex": "#512C0F",
+        "rgb_normalized": {
+            "r": 0.3176,
+            "g": 0.1725,
+            "b": 0.0588
+        }
+    },
+    "fern": {
+        "hex": "#7C7C7C",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.4863,
+            "b": 0.4863
+        }
+    },
+    "firefly_bush": {
+        "hex": "#57532B",
+        "rgb_normalized": {
+            "r": 0.3412,
+            "g": 0.3255,
+            "b": 0.1686
+        }
+    },
+    "firefly_bush_emissive": {
+        "hex": "#C1BF9F",
+        "rgb_normalized": {
+            "r": 0.7569,
+            "g": 0.749,
+            "b": 0.6235
+        }
+    },
+    "fire_0": {
+        "hex": "#D38C35",
+        "rgb_normalized": {
+            "r": 0.8275,
+            "g": 0.549,
+            "b": 0.2078
+        }
+    },
+    "fire_1": {
+        "hex": "#D38A31",
+        "rgb_normalized": {
+            "r": 0.8275,
+            "g": 0.5412,
+            "b": 0.1922
+        }
+    },
+    "fire_coral": {
+        "hex": "#A6252E",
+        "rgb_normalized": {
+            "r": 0.651,
+            "g": 0.1451,
+            "b": 0.1804
+        }
+    },
+    "fire_coral_block": {
+        "hex": "#A3232E",
+        "rgb_normalized": {
+            "r": 0.6392,
+            "g": 0.1373,
+            "b": 0.1804
+        }
+    },
+    "fire_coral_fan": {
+        "hex": "#9E222D",
+        "rgb_normalized": {
+            "r": 0.6196,
+            "g": 0.1333,
+            "b": 0.1765
+        }
+    },
+    "fletching_table_front": {
+        "hex": "#AD9B6F",
+        "rgb_normalized": {
+            "r": 0.6784,
+            "g": 0.6078,
+            "b": 0.4353
+        }
+    },
+    "fletching_table_side": {
+        "hex": "#BFA781",
+        "rgb_normalized": {
+            "r": 0.749,
+            "g": 0.6549,
+            "b": 0.5059
+        }
+    },
+    "fletching_table_top": {
+        "hex": "#C5B485",
+        "rgb_normalized": {
+            "r": 0.7725,
+            "g": 0.7059,
+            "b": 0.5216
+        }
+    },
+    "flowering_azalea_leaves": {
+        "hex": "#636F3C",
+        "rgb_normalized": {
+            "r": 0.3882,
+            "g": 0.4353,
+            "b": 0.2353
+        }
+    },
+    "flowering_azalea_side": {
+        "hex": "#6F7149",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.4431,
+            "b": 0.2863
+        }
+    },
+    "flowering_azalea_top": {
+        "hex": "#707940",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.4745,
+            "b": 0.251
+        }
+    },
+    "flower_pot": {
+        "hex": "#7C4435",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.2667,
+            "b": 0.2078
+        }
+    },
+    "frogspawn": {
+        "hex": "#6E5F56",
+        "rgb_normalized": {
+            "r": 0.4314,
+            "g": 0.3725,
+            "b": 0.3373
+        }
+    },
+    "frosted_ice_0": {
+        "hex": "#8CB5FC",
+        "rgb_normalized": {
+            "r": 0.549,
+            "g": 0.7098,
+            "b": 0.9882
+        }
+    },
+    "frosted_ice_1": {
+        "hex": "#8BB4FC",
+        "rgb_normalized": {
+            "r": 0.5451,
+            "g": 0.7059,
+            "b": 0.9882
+        }
+    },
+    "frosted_ice_2": {
+        "hex": "#8AB3FC",
+        "rgb_normalized": {
+            "r": 0.5412,
+            "g": 0.702,
+            "b": 0.9882
+        }
+    },
+    "frosted_ice_3": {
+        "hex": "#87B2FC",
+        "rgb_normalized": {
+            "r": 0.5294,
+            "g": 0.698,
+            "b": 0.9882
+        }
+    },
+    "furnace_front": {
+        "hex": "#5B5B5B",
+        "rgb_normalized": {
+            "r": 0.3569,
+            "g": 0.3569,
+            "b": 0.3569
+        }
+    },
+    "furnace_front_on": {
+        "hex": "#79705D",
+        "rgb_normalized": {
+            "r": 0.4745,
+            "g": 0.4392,
+            "b": 0.3647
+        }
+    },
+    "furnace_side": {
+        "hex": "#787878",
+        "rgb_normalized": {
+            "r": 0.4706,
+            "g": 0.4706,
+            "b": 0.4706
+        }
+    },
+    "furnace_top": {
+        "hex": "#6E6D6D",
+        "rgb_normalized": {
+            "r": 0.4314,
+            "g": 0.4275,
+            "b": 0.4275
+        }
+    },
+    "gilded_blackstone": {
+        "hex": "#372A26",
+        "rgb_normalized": {
+            "r": 0.2157,
+            "g": 0.1647,
+            "b": 0.149
+        }
+    },
+    "glass": {
+        "hex": "#AFD5DB",
+        "rgb_normalized": {
+            "r": 0.6863,
+            "g": 0.8353,
+            "b": 0.8588
+        }
+    },
+    "glass_pane_top": {
+        "hex": "#AAD2D9",
+        "rgb_normalized": {
+            "r": 0.6667,
+            "g": 0.8235,
+            "b": 0.851
+        }
+    },
+    "glowstone": {
+        "hex": "#AB8354",
+        "rgb_normalized": {
+            "r": 0.6706,
+            "g": 0.5137,
+            "b": 0.3294
+        }
+    },
+    "glow_item_frame": {
+        "hex": "#946740",
+        "rgb_normalized": {
+            "r": 0.5804,
+            "g": 0.4039,
+            "b": 0.251
+        }
+    },
+    "glow_lichen": {
+        "hex": "#708279",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.5098,
+            "b": 0.4745
+        }
+    },
+    "gold_block": {
+        "hex": "#F6D03D",
+        "rgb_normalized": {
+            "r": 0.9647,
+            "g": 0.8157,
+            "b": 0.2392
+        }
+    },
+    "gold_ore": {
+        "hex": "#91856A",
+        "rgb_normalized": {
+            "r": 0.5686,
+            "g": 0.5216,
+            "b": 0.4157
+        }
+    },
+    "granite": {
+        "hex": "#956755",
+        "rgb_normalized": {
+            "r": 0.5843,
+            "g": 0.4039,
+            "b": 0.3333
+        }
+    },
+    "grass_block_side": {
+        "hex": "#7E6B41",
+        "rgb_normalized": {
+            "r": 0.4941,
+            "g": 0.4196,
+            "b": 0.2549
+        }
+    },
+    "grass_block_side_overlay": {
+        "hex": "#9A9A9A",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.6039,
+            "b": 0.6039
+        }
+    },
+    "grass_block_snow": {
+        "hex": "#A99785",
+        "rgb_normalized": {
+            "r": 0.6627,
+            "g": 0.5922,
+            "b": 0.5216
+        }
+    },
+    "grass_block_top": {
+        "hex": "#939393",
+        "rgb_normalized": {
+            "r": 0.5765,
+            "g": 0.5765,
+            "b": 0.5765
+        }
+    },
+    "gravel": {
+        "hex": "#837F7E",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.498,
+            "b": 0.4941
+        }
+    },
+    "gray_candle": {
+        "hex": "#505E60",
+        "rgb_normalized": {
+            "r": 0.3137,
+            "g": 0.3686,
+            "b": 0.3765
+        }
+    },
+    "gray_candle_lit": {
+        "hex": "#767A6C",
+        "rgb_normalized": {
+            "r": 0.4627,
+            "g": 0.4784,
+            "b": 0.4235
+        }
+    },
+    "gray_concrete": {
+        "hex": "#36393D",
+        "rgb_normalized": {
+            "r": 0.2118,
+            "g": 0.2235,
+            "b": 0.2392
+        }
+    },
+    "gray_concrete_powder": {
+        "hex": "#4C5154",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.3176,
+            "b": 0.3294
+        }
+    },
+    "gray_glazed_terracotta": {
+        "hex": "#535A5D",
+        "rgb_normalized": {
+            "r": 0.3255,
+            "g": 0.3529,
+            "b": 0.3647
+        }
+    },
+    "gray_shulker_box": {
+        "hex": "#373A3E",
+        "rgb_normalized": {
+            "r": 0.2157,
+            "g": 0.2275,
+            "b": 0.2431
+        }
+    },
+    "gray_stained_glass": {
+        "hex": "#4C4C4C",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.298,
+            "b": 0.298
+        }
+    },
+    "gray_stained_glass_pane_top": {
+        "hex": "#494949",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.2863,
+            "b": 0.2863
+        }
+    },
+    "gray_terracotta": {
+        "hex": "#392A23",
+        "rgb_normalized": {
+            "r": 0.2235,
+            "g": 0.1647,
+            "b": 0.1373
+        }
+    },
+    "gray_wool": {
+        "hex": "#3E4447",
+        "rgb_normalized": {
+            "r": 0.2431,
+            "g": 0.2667,
+            "b": 0.2784
+        }
+    },
+    "green_candle": {
+        "hex": "#486014",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.3765,
+            "b": 0.0784
+        }
+    },
+    "green_candle_lit": {
+        "hex": "#647316",
+        "rgb_normalized": {
+            "r": 0.3922,
+            "g": 0.451,
+            "b": 0.0863
+        }
+    },
+    "green_concrete": {
+        "hex": "#495B24",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.3569,
+            "b": 0.1412
+        }
+    },
+    "green_concrete_powder": {
+        "hex": "#61772C",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.4667,
+            "b": 0.1725
+        }
+    },
+    "green_glazed_terracotta": {
+        "hex": "#758E43",
+        "rgb_normalized": {
+            "r": 0.4588,
+            "g": 0.5569,
+            "b": 0.2627
+        }
+    },
+    "green_shulker_box": {
+        "hex": "#4F641F",
+        "rgb_normalized": {
+            "r": 0.3098,
+            "g": 0.3922,
+            "b": 0.1216
+        }
+    },
+    "green_stained_glass": {
+        "hex": "#667F33",
+        "rgb_normalized": {
+            "r": 0.4,
+            "g": 0.498,
+            "b": 0.2
+        }
+    },
+    "green_stained_glass_pane_top": {
+        "hex": "#617A30",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.4784,
+            "b": 0.1882
+        }
+    },
+    "green_terracotta": {
+        "hex": "#4C532A",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.3255,
+            "b": 0.1647
+        }
+    },
+    "green_wool": {
+        "hex": "#546D1B",
+        "rgb_normalized": {
+            "r": 0.3294,
+            "g": 0.4275,
+            "b": 0.1059
+        }
+    },
+    "grindstone_pivot": {
+        "hex": "#492D15",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.1765,
+            "b": 0.0824
+        }
+    },
+    "grindstone_round": {
+        "hex": "#8E8E8E",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.5569,
+            "b": 0.5569
+        }
+    },
+    "grindstone_side": {
+        "hex": "#8B8B8B",
+        "rgb_normalized": {
+            "r": 0.5451,
+            "g": 0.5451,
+            "b": 0.5451
+        }
+    },
+    "hanging_roots": {
+        "hex": "#A1735B",
+        "rgb_normalized": {
+            "r": 0.6314,
+            "g": 0.451,
+            "b": 0.3569
+        }
+    },
+    "hay_block_side": {
+        "hex": "#A68826",
+        "rgb_normalized": {
+            "r": 0.651,
+            "g": 0.5333,
+            "b": 0.149
+        }
+    },
+    "hay_block_top": {
+        "hex": "#A58B0C",
+        "rgb_normalized": {
+            "r": 0.6471,
+            "g": 0.5451,
+            "b": 0.0471
+        }
+    },
+    "heavy_core": {
+        "hex": "#52565E",
+        "rgb_normalized": {
+            "r": 0.3216,
+            "g": 0.3373,
+            "b": 0.3686
+        }
+    },
+    "honeycomb_block": {
+        "hex": "#E5941D",
+        "rgb_normalized": {
+            "r": 0.898,
+            "g": 0.5804,
+            "b": 0.1137
+        }
+    },
+    "honey_block_bottom": {
+        "hex": "#F19211",
+        "rgb_normalized": {
+            "r": 0.9451,
+            "g": 0.5725,
+            "b": 0.0667
+        }
+    },
+    "honey_block_side": {
+        "hex": "#FABC39",
+        "rgb_normalized": {
+            "r": 0.9804,
+            "g": 0.7373,
+            "b": 0.2235
+        }
+    },
+    "honey_block_top": {
+        "hex": "#FBB934",
+        "rgb_normalized": {
+            "r": 0.9843,
+            "g": 0.7255,
+            "b": 0.2039
+        }
+    },
+    "hopper_inside": {
+        "hex": "#313135",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.1922,
+            "b": 0.2078
+        }
+    },
+    "hopper_outside": {
+        "hex": "#424144",
+        "rgb_normalized": {
+            "r": 0.2588,
+            "g": 0.2549,
+            "b": 0.2667
+        }
+    },
+    "hopper_top": {
+        "hex": "#4B4A4B",
+        "rgb_normalized": {
+            "r": 0.2941,
+            "g": 0.2902,
+            "b": 0.2941
+        }
+    },
+    "horn_coral": {
+        "hex": "#D1BA3E",
+        "rgb_normalized": {
+            "r": 0.8196,
+            "g": 0.7294,
+            "b": 0.2431
+        }
+    },
+    "horn_coral_block": {
+        "hex": "#D8C742",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.7804,
+            "b": 0.2588
+        }
+    },
+    "horn_coral_fan": {
+        "hex": "#CDB73D",
+        "rgb_normalized": {
+            "r": 0.8039,
+            "g": 0.7176,
+            "b": 0.2392
+        }
+    },
+    "ice": {
+        "hex": "#91B7FD",
+        "rgb_normalized": {
+            "r": 0.5686,
+            "g": 0.7176,
+            "b": 0.9922
+        }
+    },
+    "iron_bars": {
+        "hex": "#888B87",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.5451,
+            "b": 0.5294
+        }
+    },
+    "iron_block": {
+        "hex": "#DCDCDC",
+        "rgb_normalized": {
+            "r": 0.8627,
+            "g": 0.8627,
+            "b": 0.8627
+        }
+    },
+    "iron_door_bottom": {
+        "hex": "#C3C2C2",
+        "rgb_normalized": {
+            "r": 0.7647,
+            "g": 0.7608,
+            "b": 0.7608
+        }
+    },
+    "iron_door_top": {
+        "hex": "#C2C1C1",
+        "rgb_normalized": {
+            "r": 0.7608,
+            "g": 0.7569,
+            "b": 0.7569
+        }
+    },
+    "iron_ore": {
+        "hex": "#88817A",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.5059,
+            "b": 0.4784
+        }
+    },
+    "iron_trapdoor": {
+        "hex": "#CACACA",
+        "rgb_normalized": {
+            "r": 0.7922,
+            "g": 0.7922,
+            "b": 0.7922
+        }
+    },
+    "item_frame": {
+        "hex": "#74432A",
+        "rgb_normalized": {
+            "r": 0.4549,
+            "g": 0.2627,
+            "b": 0.1647
+        }
+    },
+    "jack_o_lantern": {
+        "hex": "#D69834",
+        "rgb_normalized": {
+            "r": 0.8392,
+            "g": 0.5961,
+            "b": 0.2039
+        }
+    },
+    "jigsaw_bottom": {
+        "hex": "#221B25",
+        "rgb_normalized": {
+            "r": 0.1333,
+            "g": 0.1059,
+            "b": 0.1451
+        }
+    },
+    "jigsaw_lock": {
+        "hex": "#2D262F",
+        "rgb_normalized": {
+            "r": 0.1765,
+            "g": 0.149,
+            "b": 0.1843
+        }
+    },
+    "jigsaw_side": {
+        "hex": "#3E353F",
+        "rgb_normalized": {
+            "r": 0.2431,
+            "g": 0.2078,
+            "b": 0.2471
+        }
+    },
+    "jigsaw_top": {
+        "hex": "#504551",
+        "rgb_normalized": {
+            "r": 0.3137,
+            "g": 0.2706,
+            "b": 0.3176
+        }
+    },
+    "jukebox_side": {
+        "hex": "#583A28",
+        "rgb_normalized": {
+            "r": 0.3451,
+            "g": 0.2275,
+            "b": 0.1569
+        }
+    },
+    "jukebox_top": {
+        "hex": "#5D402F",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.251,
+            "b": 0.1843
+        }
+    },
+    "jungle_door_bottom": {
+        "hex": "#9E714E",
+        "rgb_normalized": {
+            "r": 0.6196,
+            "g": 0.4431,
+            "b": 0.3059
+        }
+    },
+    "jungle_door_top": {
+        "hex": "#A37754",
+        "rgb_normalized": {
+            "r": 0.6392,
+            "g": 0.4667,
+            "b": 0.3294
+        }
+    },
+    "jungle_leaves": {
+        "hex": "#9C9A8F",
+        "rgb_normalized": {
+            "r": 0.6118,
+            "g": 0.6039,
+            "b": 0.5608
+        }
+    },
+    "jungle_log": {
+        "hex": "#554319",
+        "rgb_normalized": {
+            "r": 0.3333,
+            "g": 0.2627,
+            "b": 0.098
+        }
+    },
+    "jungle_log_top": {
+        "hex": "#956D46",
+        "rgb_normalized": {
+            "r": 0.5843,
+            "g": 0.4275,
+            "b": 0.2745
+        }
+    },
+    "jungle_planks": {
+        "hex": "#A07350",
+        "rgb_normalized": {
+            "r": 0.6275,
+            "g": 0.451,
+            "b": 0.3137
+        }
+    },
+    "jungle_sapling": {
+        "hex": "#2F5110",
+        "rgb_normalized": {
+            "r": 0.1843,
+            "g": 0.3176,
+            "b": 0.0627
+        }
+    },
+    "jungle_trapdoor": {
+        "hex": "#986E4D",
+        "rgb_normalized": {
+            "r": 0.5961,
+            "g": 0.4314,
+            "b": 0.302
+        }
+    },
+    "kelp": {
+        "hex": "#578C2C",
+        "rgb_normalized": {
+            "r": 0.3412,
+            "g": 0.549,
+            "b": 0.1725
+        }
+    },
+    "kelp_plant": {
+        "hex": "#56822A",
+        "rgb_normalized": {
+            "r": 0.3373,
+            "g": 0.5098,
+            "b": 0.1647
+        }
+    },
+    "ladder": {
+        "hex": "#7C6036",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.3765,
+            "b": 0.2118
+        }
+    },
+    "lantern": {
+        "hex": "#6A5B53",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.3569,
+            "b": 0.3255
+        }
+    },
+    "lapis_block": {
+        "hex": "#1E438C",
+        "rgb_normalized": {
+            "r": 0.1176,
+            "g": 0.2627,
+            "b": 0.549
+        }
+    },
+    "lapis_ore": {
+        "hex": "#6B758D",
+        "rgb_normalized": {
+            "r": 0.4196,
+            "g": 0.4588,
+            "b": 0.5529
+        }
+    },
+    "large_amethyst_bud": {
+        "hex": "#A17ECA",
+        "rgb_normalized": {
+            "r": 0.6314,
+            "g": 0.4941,
+            "b": 0.7922
+        }
+    },
+    "large_fern_bottom": {
+        "hex": "#838383",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.5137,
+            "b": 0.5137
+        }
+    },
+    "large_fern_top": {
+        "hex": "#7D7D7D",
+        "rgb_normalized": {
+            "r": 0.4902,
+            "g": 0.4902,
+            "b": 0.4902
+        }
+    },
+    "lava_flow": {
+        "hex": "#CF5B13",
+        "rgb_normalized": {
+            "r": 0.8118,
+            "g": 0.3569,
+            "b": 0.0745
+        }
+    },
+    "lava_still": {
+        "hex": "#D45A12",
+        "rgb_normalized": {
+            "r": 0.8314,
+            "g": 0.3529,
+            "b": 0.0706
+        }
+    },
+    "leaf_litter": {
+        "hex": "#AAAAAA",
+        "rgb_normalized": {
+            "r": 0.6667,
+            "g": 0.6667,
+            "b": 0.6667
+        }
+    },
+    "lectern_base": {
+        "hex": "#A2784A",
+        "rgb_normalized": {
+            "r": 0.6353,
+            "g": 0.4706,
+            "b": 0.2902
+        }
+    },
+    "lectern_front": {
+        "hex": "#816437",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.3922,
+            "b": 0.2157
+        }
+    },
+    "lectern_sides": {
+        "hex": "#957543",
+        "rgb_normalized": {
+            "r": 0.5843,
+            "g": 0.4588,
+            "b": 0.2627
+        }
+    },
+    "lectern_top": {
+        "hex": "#AD8953",
+        "rgb_normalized": {
+            "r": 0.6784,
+            "g": 0.5373,
+            "b": 0.3255
+        }
+    },
+    "lever": {
+        "hex": "#6F5D43",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.3647,
+            "b": 0.2627
+        }
+    },
+    "lightning_rod": {
+        "hex": "#C46F53",
+        "rgb_normalized": {
+            "r": 0.7686,
+            "g": 0.4353,
+            "b": 0.3255
+        }
+    },
+    "lightning_rod_on": {
+        "hex": "#FFFFFF",
+        "rgb_normalized": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    "light_blue_candle": {
+        "hex": "#2289C4",
+        "rgb_normalized": {
+            "r": 0.1333,
+            "g": 0.5373,
+            "b": 0.7686
+        }
+    },
+    "light_blue_candle_lit": {
+        "hex": "#45A1C9",
+        "rgb_normalized": {
+            "r": 0.2706,
+            "g": 0.6314,
+            "b": 0.7882
+        }
+    },
+    "light_blue_concrete": {
+        "hex": "#2389C6",
+        "rgb_normalized": {
+            "r": 0.1373,
+            "g": 0.5373,
+            "b": 0.7765
+        }
+    },
+    "light_blue_concrete_powder": {
+        "hex": "#4AB4D5",
+        "rgb_normalized": {
+            "r": 0.2902,
+            "g": 0.7059,
+            "b": 0.8353
+        }
+    },
+    "light_blue_glazed_terracotta": {
+        "hex": "#5EA4D0",
+        "rgb_normalized": {
+            "r": 0.3686,
+            "g": 0.6431,
+            "b": 0.8157
+        }
+    },
+    "light_blue_shulker_box": {
+        "hex": "#31A3D4",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.6392,
+            "b": 0.8314
+        }
+    },
+    "light_blue_stained_glass": {
+        "hex": "#6699D8",
+        "rgb_normalized": {
+            "r": 0.4,
+            "g": 0.6,
+            "b": 0.8471
+        }
+    },
+    "light_blue_stained_glass_pane_top": {
+        "hex": "#6193D0",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.5765,
+            "b": 0.8157
+        }
+    },
+    "light_blue_terracotta": {
+        "hex": "#716C89",
+        "rgb_normalized": {
+            "r": 0.4431,
+            "g": 0.4235,
+            "b": 0.5373
+        }
+    },
+    "light_blue_wool": {
+        "hex": "#3AAFD9",
+        "rgb_normalized": {
+            "r": 0.2275,
+            "g": 0.6863,
+            "b": 0.851
+        }
+    },
+    "light_gray_candle": {
+        "hex": "#767870",
+        "rgb_normalized": {
+            "r": 0.4627,
+            "g": 0.4706,
+            "b": 0.4392
+        }
+    },
+    "light_gray_candle_lit": {
+        "hex": "#97937E",
+        "rgb_normalized": {
+            "r": 0.5922,
+            "g": 0.5765,
+            "b": 0.4941
+        }
+    },
+    "light_gray_concrete": {
+        "hex": "#7D7D73",
+        "rgb_normalized": {
+            "r": 0.4902,
+            "g": 0.4902,
+            "b": 0.451
+        }
+    },
+    "light_gray_concrete_powder": {
+        "hex": "#9A9A94",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.6039,
+            "b": 0.5804
+        }
+    },
+    "light_gray_glazed_terracotta": {
+        "hex": "#90A6A7",
+        "rgb_normalized": {
+            "r": 0.5647,
+            "g": 0.651,
+            "b": 0.6549
+        }
+    },
+    "light_gray_shulker_box": {
+        "hex": "#7C7C73",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.4863,
+            "b": 0.451
+        }
+    },
+    "light_gray_stained_glass": {
+        "hex": "#999999",
+        "rgb_normalized": {
+            "r": 0.6,
+            "g": 0.6,
+            "b": 0.6
+        }
+    },
+    "light_gray_stained_glass_pane_top": {
+        "hex": "#939393",
+        "rgb_normalized": {
+            "r": 0.5765,
+            "g": 0.5765,
+            "b": 0.5765
+        }
+    },
+    "light_gray_terracotta": {
+        "hex": "#876A61",
+        "rgb_normalized": {
+            "r": 0.5294,
+            "g": 0.4157,
+            "b": 0.3804
+        }
+    },
+    "light_gray_wool": {
+        "hex": "#8E8E86",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.5569,
+            "b": 0.5255
+        }
+    },
+    "lilac_bottom": {
+        "hex": "#897C7E",
+        "rgb_normalized": {
+            "r": 0.5373,
+            "g": 0.4863,
+            "b": 0.4941
+        }
+    },
+    "lilac_top": {
+        "hex": "#9A7D93",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.4902,
+            "b": 0.5765
+        }
+    },
+    "lily_of_the_valley": {
+        "hex": "#7BAE5F",
+        "rgb_normalized": {
+            "r": 0.4824,
+            "g": 0.6824,
+            "b": 0.3725
+        }
+    },
+    "lily_pad": {
+        "hex": "#858585",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.5216,
+            "b": 0.5216
+        }
+    },
+    "lime_candle": {
+        "hex": "#62AB16",
+        "rgb_normalized": {
+            "r": 0.3843,
+            "g": 0.6706,
+            "b": 0.0863
+        }
+    },
+    "lime_candle_lit": {
+        "hex": "#7CB51E",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.7098,
+            "b": 0.1176
+        }
+    },
+    "lime_concrete": {
+        "hex": "#5EA818",
+        "rgb_normalized": {
+            "r": 0.3686,
+            "g": 0.6588,
+            "b": 0.0941
+        }
+    },
+    "lime_concrete_powder": {
+        "hex": "#7DBD29",
+        "rgb_normalized": {
+            "r": 0.4902,
+            "g": 0.7412,
+            "b": 0.1608
+        }
+    },
+    "lime_glazed_terracotta": {
+        "hex": "#A2C537",
+        "rgb_normalized": {
+            "r": 0.6353,
+            "g": 0.7725,
+            "b": 0.2157
+        }
+    },
+    "lime_shulker_box": {
+        "hex": "#63AC17",
+        "rgb_normalized": {
+            "r": 0.3882,
+            "g": 0.6745,
+            "b": 0.0902
+        }
+    },
+    "lime_stained_glass": {
+        "hex": "#7FCC19",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.8,
+            "b": 0.098
+        }
+    },
+    "lime_stained_glass_pane_top": {
+        "hex": "#7AC418",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.7686,
+            "b": 0.0941
+        }
+    },
+    "lime_terracotta": {
+        "hex": "#677534",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.4588,
+            "b": 0.2039
+        }
+    },
+    "lime_wool": {
+        "hex": "#70B919",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.7255,
+            "b": 0.098
+        }
+    },
+    "lodestone_side": {
+        "hex": "#77777B",
+        "rgb_normalized": {
+            "r": 0.4667,
+            "g": 0.4667,
+            "b": 0.4824
+        }
+    },
+    "lodestone_top": {
+        "hex": "#939598",
+        "rgb_normalized": {
+            "r": 0.5765,
+            "g": 0.5843,
+            "b": 0.5961
+        }
+    },
+    "loom_bottom": {
+        "hex": "#4C3C24",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.2353,
+            "b": 0.1412
+        }
+    },
+    "loom_front": {
+        "hex": "#947652",
+        "rgb_normalized": {
+            "r": 0.5804,
+            "g": 0.4627,
+            "b": 0.3216
+        }
+    },
+    "loom_side": {
+        "hex": "#916548",
+        "rgb_normalized": {
+            "r": 0.5686,
+            "g": 0.3961,
+            "b": 0.2824
+        }
+    },
+    "loom_top": {
+        "hex": "#8E775B",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.4667,
+            "b": 0.3569
+        }
+    },
+    "magenta_candle": {
+        "hex": "#A02D99",
+        "rgb_normalized": {
+            "r": 0.6275,
+            "g": 0.1765,
+            "b": 0.6
+        }
+    },
+    "magenta_candle_lit": {
+        "hex": "#B645A1",
+        "rgb_normalized": {
+            "r": 0.7137,
+            "g": 0.2706,
+            "b": 0.6314
+        }
+    },
+    "magenta_concrete": {
+        "hex": "#A9309F",
+        "rgb_normalized": {
+            "r": 0.6627,
+            "g": 0.1882,
+            "b": 0.6235
+        }
+    },
+    "magenta_concrete_powder": {
+        "hex": "#C053B8",
+        "rgb_normalized": {
+            "r": 0.7529,
+            "g": 0.3255,
+            "b": 0.7216
+        }
+    },
+    "magenta_glazed_terracotta": {
+        "hex": "#D064BF",
+        "rgb_normalized": {
+            "r": 0.8157,
+            "g": 0.3922,
+            "b": 0.749
+        }
+    },
+    "magenta_shulker_box": {
+        "hex": "#AD36A3",
+        "rgb_normalized": {
+            "r": 0.6784,
+            "g": 0.2118,
+            "b": 0.6392
+        }
+    },
+    "magenta_stained_glass": {
+        "hex": "#B24CD8",
+        "rgb_normalized": {
+            "r": 0.698,
+            "g": 0.298,
+            "b": 0.8471
+        }
+    },
+    "magenta_stained_glass_pane_top": {
+        "hex": "#AB49D0",
+        "rgb_normalized": {
+            "r": 0.6706,
+            "g": 0.2863,
+            "b": 0.8157
+        }
+    },
+    "magenta_terracotta": {
+        "hex": "#95586C",
+        "rgb_normalized": {
+            "r": 0.5843,
+            "g": 0.3451,
+            "b": 0.4235
+        }
+    },
+    "magenta_wool": {
+        "hex": "#BD44B3",
+        "rgb_normalized": {
+            "r": 0.7412,
+            "g": 0.2667,
+            "b": 0.702
+        }
+    },
+    "magma": {
+        "hex": "#8E3F1F",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.2471,
+            "b": 0.1216
+        }
+    },
+    "mangrove_door_bottom": {
+        "hex": "#702F2E",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.1843,
+            "b": 0.1804
+        }
+    },
+    "mangrove_door_top": {
+        "hex": "#70302E",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.1882,
+            "b": 0.1804
+        }
+    },
+    "mangrove_leaves": {
+        "hex": "#818080",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.502,
+            "b": 0.502
+        }
+    },
+    "mangrove_log": {
+        "hex": "#534229",
+        "rgb_normalized": {
+            "r": 0.3255,
+            "g": 0.2588,
+            "b": 0.1608
+        }
+    },
+    "mangrove_log_top": {
+        "hex": "#66302A",
+        "rgb_normalized": {
+            "r": 0.4,
+            "g": 0.1882,
+            "b": 0.1647
+        }
+    },
+    "mangrove_planks": {
+        "hex": "#753630",
+        "rgb_normalized": {
+            "r": 0.4588,
+            "g": 0.2118,
+            "b": 0.1882
+        }
+    },
+    "mangrove_propagule": {
+        "hex": "#60AE53",
+        "rgb_normalized": {
+            "r": 0.3765,
+            "g": 0.6824,
+            "b": 0.3255
+        }
+    },
+    "mangrove_propagule_hanging": {
+        "hex": "#6C8745",
+        "rgb_normalized": {
+            "r": 0.4235,
+            "g": 0.5294,
+            "b": 0.2706
+        }
+    },
+    "mangrove_roots_side": {
+        "hex": "#4B3B26",
+        "rgb_normalized": {
+            "r": 0.2941,
+            "g": 0.2314,
+            "b": 0.149
+        }
+    },
+    "mangrove_roots_top": {
+        "hex": "#4A3B26",
+        "rgb_normalized": {
+            "r": 0.2902,
+            "g": 0.2314,
+            "b": 0.149
+        }
+    },
+    "mangrove_trapdoor": {
+        "hex": "#6E2E2A",
+        "rgb_normalized": {
+            "r": 0.4314,
+            "g": 0.1804,
+            "b": 0.1647
+        }
+    },
+    "medium_amethyst_bud": {
+        "hex": "#9E78C9",
+        "rgb_normalized": {
+            "r": 0.6196,
+            "g": 0.4706,
+            "b": 0.7882
+        }
+    },
+    "melon_side": {
+        "hex": "#72921E",
+        "rgb_normalized": {
+            "r": 0.4471,
+            "g": 0.5725,
+            "b": 0.1176
+        }
+    },
+    "melon_stem": {
+        "hex": "#999999",
+        "rgb_normalized": {
+            "r": 0.6,
+            "g": 0.6,
+            "b": 0.6
+        }
+    },
+    "melon_top": {
+        "hex": "#6F901E",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.5647,
+            "b": 0.1176
+        }
+    },
+    "mossy_cobblestone": {
+        "hex": "#6E765E",
+        "rgb_normalized": {
+            "r": 0.4314,
+            "g": 0.4627,
+            "b": 0.3686
+        }
+    },
+    "mossy_stone_bricks": {
+        "hex": "#737969",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.4745,
+            "b": 0.4118
+        }
+    },
+    "moss_block": {
+        "hex": "#596D2D",
+        "rgb_normalized": {
+            "r": 0.349,
+            "g": 0.4275,
+            "b": 0.1765
+        }
+    },
+    "mud": {
+        "hex": "#3C393C",
+        "rgb_normalized": {
+            "r": 0.2353,
+            "g": 0.2235,
+            "b": 0.2353
+        }
+    },
+    "muddy_mangrove_roots_side": {
+        "hex": "#443A30",
+        "rgb_normalized": {
+            "r": 0.2667,
+            "g": 0.2275,
+            "b": 0.1882
+        }
+    },
+    "muddy_mangrove_roots_top": {
+        "hex": "#463A2D",
+        "rgb_normalized": {
+            "r": 0.2745,
+            "g": 0.2275,
+            "b": 0.1765
+        }
+    },
+    "mud_bricks": {
+        "hex": "#89674F",
+        "rgb_normalized": {
+            "r": 0.5373,
+            "g": 0.4039,
+            "b": 0.3098
+        }
+    },
+    "mushroom_block_inside": {
+        "hex": "#C9AA78",
+        "rgb_normalized": {
+            "r": 0.7882,
+            "g": 0.6667,
+            "b": 0.4706
+        }
+    },
+    "mushroom_stem": {
+        "hex": "#CBC4B9",
+        "rgb_normalized": {
+            "r": 0.7961,
+            "g": 0.7686,
+            "b": 0.7255
+        }
+    },
+    "mycelium_side": {
+        "hex": "#715747",
+        "rgb_normalized": {
+            "r": 0.4431,
+            "g": 0.3412,
+            "b": 0.2784
+        }
+    },
+    "mycelium_top": {
+        "hex": "#6F6265",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.3843,
+            "b": 0.3961
+        }
+    },
+    "netherite_block": {
+        "hex": "#423D3F",
+        "rgb_normalized": {
+            "r": 0.2588,
+            "g": 0.2392,
+            "b": 0.2471
+        }
+    },
+    "netherrack": {
+        "hex": "#612626",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.149,
+            "b": 0.149
+        }
+    },
+    "nether_bricks": {
+        "hex": "#2C151A",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.0824,
+            "b": 0.102
+        }
+    },
+    "nether_gold_ore": {
+        "hex": "#73362A",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.2118,
+            "b": 0.1647
+        }
+    },
+    "nether_portal": {
+        "hex": "#570ABF",
+        "rgb_normalized": {
+            "r": 0.3412,
+            "g": 0.0392,
+            "b": 0.749
+        }
+    },
+    "nether_quartz_ore": {
+        "hex": "#75413E",
+        "rgb_normalized": {
+            "r": 0.4588,
+            "g": 0.2549,
+            "b": 0.2431
+        }
+    },
+    "nether_sprouts": {
+        "hex": "#139785",
+        "rgb_normalized": {
+            "r": 0.0745,
+            "g": 0.5922,
+            "b": 0.5216
+        }
+    },
+    "nether_wart_block": {
+        "hex": "#720202",
+        "rgb_normalized": {
+            "r": 0.4471,
+            "g": 0.0078,
+            "b": 0.0078
+        }
+    },
+    "nether_wart_stage0": {
+        "hex": "#751215",
+        "rgb_normalized": {
+            "r": 0.4588,
+            "g": 0.0706,
+            "b": 0.0824
+        }
+    },
+    "nether_wart_stage1": {
+        "hex": "#731112",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.0667,
+            "b": 0.0706
+        }
+    },
+    "nether_wart_stage2": {
+        "hex": "#6F1213",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.0706,
+            "b": 0.0745
+        }
+    },
+    "note_block": {
+        "hex": "#583A28",
+        "rgb_normalized": {
+            "r": 0.3451,
+            "g": 0.2275,
+            "b": 0.1569
+        }
+    },
+    "oak_door_bottom": {
+        "hex": "#8A6C3E",
+        "rgb_normalized": {
+            "r": 0.5412,
+            "g": 0.4235,
+            "b": 0.2431
+        }
+    },
+    "oak_door_top": {
+        "hex": "#8C6E42",
+        "rgb_normalized": {
+            "r": 0.549,
+            "g": 0.4314,
+            "b": 0.2588
+        }
+    },
+    "oak_leaves": {
+        "hex": "#909090",
+        "rgb_normalized": {
+            "r": 0.5647,
+            "g": 0.5647,
+            "b": 0.5647
+        }
+    },
+    "oak_log": {
+        "hex": "#6D5532",
+        "rgb_normalized": {
+            "r": 0.4275,
+            "g": 0.3333,
+            "b": 0.1961
+        }
+    },
+    "oak_log_top": {
+        "hex": "#977949",
+        "rgb_normalized": {
+            "r": 0.5922,
+            "g": 0.4745,
+            "b": 0.2863
+        }
+    },
+    "oak_planks": {
+        "hex": "#A2824E",
+        "rgb_normalized": {
+            "r": 0.6353,
+            "g": 0.5098,
+            "b": 0.3059
+        }
+    },
+    "oak_sapling": {
+        "hex": "#4D6A28",
+        "rgb_normalized": {
+            "r": 0.302,
+            "g": 0.4157,
+            "b": 0.1569
+        }
+    },
+    "oak_trapdoor": {
+        "hex": "#7C6338",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.3882,
+            "b": 0.2196
+        }
+    },
+    "observer_back": {
+        "hex": "#474545",
+        "rgb_normalized": {
+            "r": 0.2784,
+            "g": 0.2706,
+            "b": 0.2706
+        }
+    },
+    "observer_back_on": {
+        "hex": "#4C4444",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.2667,
+            "b": 0.2667
+        }
+    },
+    "observer_front": {
+        "hex": "#676767",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.4039,
+            "b": 0.4039
+        }
+    },
+    "observer_side": {
+        "hex": "#464444",
+        "rgb_normalized": {
+            "r": 0.2745,
+            "g": 0.2667,
+            "b": 0.2667
+        }
+    },
+    "observer_top": {
+        "hex": "#626262",
+        "rgb_normalized": {
+            "r": 0.3843,
+            "g": 0.3843,
+            "b": 0.3843
+        }
+    },
+    "obsidian": {
+        "hex": "#0F0A18",
+        "rgb_normalized": {
+            "r": 0.0588,
+            "g": 0.0392,
+            "b": 0.0941
+        }
+    },
+    "ochre_froglight_side": {
+        "hex": "#F5E9B5",
+        "rgb_normalized": {
+            "r": 0.9608,
+            "g": 0.9137,
+            "b": 0.7098
+        }
+    },
+    "ochre_froglight_top": {
+        "hex": "#FAF5CE",
+        "rgb_normalized": {
+            "r": 0.9804,
+            "g": 0.9608,
+            "b": 0.8078
+        }
+    },
+    "open_eyeblossom": {
+        "hex": "#857C7F",
+        "rgb_normalized": {
+            "r": 0.5216,
+            "g": 0.4863,
+            "b": 0.498
+        }
+    },
+    "open_eyeblossom_emissive": {
+        "hex": "#ED8A25",
+        "rgb_normalized": {
+            "r": 0.9294,
+            "g": 0.5412,
+            "b": 0.1451
+        }
+    },
+    "orange_candle": {
+        "hex": "#DB6409",
+        "rgb_normalized": {
+            "r": 0.8588,
+            "g": 0.3922,
+            "b": 0.0353
+        }
+    },
+    "orange_candle_lit": {
+        "hex": "#E2831A",
+        "rgb_normalized": {
+            "r": 0.8863,
+            "g": 0.5137,
+            "b": 0.102
+        }
+    },
+    "orange_concrete": {
+        "hex": "#E06100",
+        "rgb_normalized": {
+            "r": 0.8784,
+            "g": 0.3804,
+            "b": 0.0
+        }
+    },
+    "orange_concrete_powder": {
+        "hex": "#E3831F",
+        "rgb_normalized": {
+            "r": 0.8902,
+            "g": 0.5137,
+            "b": 0.1216
+        }
+    },
+    "orange_glazed_terracotta": {
+        "hex": "#9A935B",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.5765,
+            "b": 0.3569
+        }
+    },
+    "orange_shulker_box": {
+        "hex": "#EA6A08",
+        "rgb_normalized": {
+            "r": 0.9176,
+            "g": 0.4157,
+            "b": 0.0314
+        }
+    },
+    "orange_stained_glass": {
+        "hex": "#D87F33",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.498,
+            "b": 0.2
+        }
+    },
+    "orange_stained_glass_pane_top": {
+        "hex": "#D07A30",
+        "rgb_normalized": {
+            "r": 0.8157,
+            "g": 0.4784,
+            "b": 0.1882
+        }
+    },
+    "orange_terracotta": {
+        "hex": "#A15325",
+        "rgb_normalized": {
+            "r": 0.6314,
+            "g": 0.3255,
+            "b": 0.1451
+        }
+    },
+    "orange_tulip": {
+        "hex": "#5D8E1E",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.5569,
+            "b": 0.1176
+        }
+    },
+    "orange_wool": {
+        "hex": "#F07613",
+        "rgb_normalized": {
+            "r": 0.9412,
+            "g": 0.4627,
+            "b": 0.0745
+        }
+    },
+    "oxeye_daisy": {
+        "hex": "#B3CA8F",
+        "rgb_normalized": {
+            "r": 0.702,
+            "g": 0.7922,
+            "b": 0.5608
+        }
+    },
+    "oxidized_chiseled_copper": {
+        "hex": "#53A184",
+        "rgb_normalized": {
+            "r": 0.3255,
+            "g": 0.6314,
+            "b": 0.5176
+        }
+    },
+    "oxidized_copper": {
+        "hex": "#52A284",
+        "rgb_normalized": {
+            "r": 0.3216,
+            "g": 0.6353,
+            "b": 0.5176
+        }
+    },
+    "oxidized_copper_bulb": {
+        "hex": "#46846D",
+        "rgb_normalized": {
+            "r": 0.2745,
+            "g": 0.5176,
+            "b": 0.4275
+        }
+    },
+    "oxidized_copper_bulb_lit": {
+        "hex": "#869A68",
+        "rgb_normalized": {
+            "r": 0.5255,
+            "g": 0.6039,
+            "b": 0.4078
+        }
+    },
+    "oxidized_copper_bulb_lit_powered": {
+        "hex": "#889866",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.5961,
+            "b": 0.4
+        }
+    },
+    "oxidized_copper_bulb_powered": {
+        "hex": "#48826C",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.5098,
+            "b": 0.4235
+        }
+    },
+    "oxidized_copper_door_bottom": {
+        "hex": "#4F997F",
+        "rgb_normalized": {
+            "r": 0.3098,
+            "g": 0.6,
+            "b": 0.498
+        }
+    },
+    "oxidized_copper_door_top": {
+        "hex": "#52A084",
+        "rgb_normalized": {
+            "r": 0.3216,
+            "g": 0.6275,
+            "b": 0.5176
+        }
+    },
+    "oxidized_copper_grate": {
+        "hex": "#52A183",
+        "rgb_normalized": {
+            "r": 0.3216,
+            "g": 0.6314,
+            "b": 0.5137
+        }
+    },
+    "oxidized_copper_trapdoor": {
+        "hex": "#53A184",
+        "rgb_normalized": {
+            "r": 0.3255,
+            "g": 0.6314,
+            "b": 0.5176
+        }
+    },
+    "oxidized_cut_copper": {
+        "hex": "#4F997E",
+        "rgb_normalized": {
+            "r": 0.3098,
+            "g": 0.6,
+            "b": 0.4941
+        }
+    },
+    "packed_ice": {
+        "hex": "#8DB4FA",
+        "rgb_normalized": {
+            "r": 0.5529,
+            "g": 0.7059,
+            "b": 0.9804
+        }
+    },
+    "packed_mud": {
+        "hex": "#8E6A4F",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.4157,
+            "b": 0.3098
+        }
+    },
+    "pale_hanging_moss": {
+        "hex": "#626761",
+        "rgb_normalized": {
+            "r": 0.3843,
+            "g": 0.4039,
+            "b": 0.3804
+        }
+    },
+    "pale_hanging_moss_tip": {
+        "hex": "#676C65",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.4235,
+            "b": 0.3961
+        }
+    },
+    "pale_moss_block": {
+        "hex": "#6A7068",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.4392,
+            "b": 0.4078
+        }
+    },
+    "pale_moss_carpet": {
+        "hex": "#6A7068",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.4392,
+            "b": 0.4078
+        }
+    },
+    "pale_moss_carpet_side_small": {
+        "hex": "#6F756E",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.4588,
+            "b": 0.4314
+        }
+    },
+    "pale_moss_carpet_side_tall": {
+        "hex": "#676C65",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.4235,
+            "b": 0.3961
+        }
+    },
+    "pale_oak_door_bottom": {
+        "hex": "#C7BEBD",
+        "rgb_normalized": {
+            "r": 0.7804,
+            "g": 0.7451,
+            "b": 0.7412
+        }
+    },
+    "pale_oak_door_top": {
+        "hex": "#D8D0CE",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.8157,
+            "b": 0.8078
+        }
+    },
+    "pale_oak_leaves": {
+        "hex": "#747972",
+        "rgb_normalized": {
+            "r": 0.4549,
+            "g": 0.4745,
+            "b": 0.4471
+        }
+    },
+    "pale_oak_log": {
+        "hex": "#574D4B",
+        "rgb_normalized": {
+            "r": 0.3412,
+            "g": 0.302,
+            "b": 0.2941
+        }
+    },
+    "pale_oak_log_top": {
+        "hex": "#C6BDBB",
+        "rgb_normalized": {
+            "r": 0.7765,
+            "g": 0.7412,
+            "b": 0.7333
+        }
+    },
+    "pale_oak_planks": {
+        "hex": "#E3D9D8",
+        "rgb_normalized": {
+            "r": 0.8902,
+            "g": 0.851,
+            "b": 0.8471
+        }
+    },
+    "pale_oak_sapling": {
+        "hex": "#6D6963",
+        "rgb_normalized": {
+            "r": 0.4275,
+            "g": 0.4118,
+            "b": 0.3882
+        }
+    },
+    "pale_oak_trapdoor": {
+        "hex": "#E5DCDA",
+        "rgb_normalized": {
+            "r": 0.898,
+            "g": 0.8627,
+            "b": 0.8549
+        }
+    },
+    "pearlescent_froglight_side": {
+        "hex": "#EBE0E4",
+        "rgb_normalized": {
+            "r": 0.9216,
+            "g": 0.8784,
+            "b": 0.8941
+        }
+    },
+    "pearlescent_froglight_top": {
+        "hex": "#F5F0EF",
+        "rgb_normalized": {
+            "r": 0.9608,
+            "g": 0.9412,
+            "b": 0.9373
+        }
+    },
+    "peony_bottom": {
+        "hex": "#56655D",
+        "rgb_normalized": {
+            "r": 0.3373,
+            "g": 0.3961,
+            "b": 0.3647
+        }
+    },
+    "peony_top": {
+        "hex": "#817E8B",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.4941,
+            "b": 0.5451
+        }
+    },
+    "pink_candle": {
+        "hex": "#D0658E",
+        "rgb_normalized": {
+            "r": 0.8157,
+            "g": 0.3961,
+            "b": 0.5569
+        }
+    },
+    "pink_candle_lit": {
+        "hex": "#D98396",
+        "rgb_normalized": {
+            "r": 0.851,
+            "g": 0.5137,
+            "b": 0.5882
+        }
+    },
+    "pink_concrete": {
+        "hex": "#D5658E",
+        "rgb_normalized": {
+            "r": 0.8353,
+            "g": 0.3961,
+            "b": 0.5569
+        }
+    },
+    "pink_concrete_powder": {
+        "hex": "#E499B5",
+        "rgb_normalized": {
+            "r": 0.8941,
+            "g": 0.6,
+            "b": 0.7098
+        }
+    },
+    "pink_glazed_terracotta": {
+        "hex": "#EB9AB5",
+        "rgb_normalized": {
+            "r": 0.9216,
+            "g": 0.6039,
+            "b": 0.7098
+        }
+    },
+    "pink_petals": {
+        "hex": "#F6B4DA",
+        "rgb_normalized": {
+            "r": 0.9647,
+            "g": 0.7059,
+            "b": 0.8549
+        }
+    },
+    "pink_petals_stem": {
+        "hex": "#A9A9A9",
+        "rgb_normalized": {
+            "r": 0.6627,
+            "g": 0.6627,
+            "b": 0.6627
+        }
+    },
+    "pink_shulker_box": {
+        "hex": "#E6799D",
+        "rgb_normalized": {
+            "r": 0.902,
+            "g": 0.4745,
+            "b": 0.6157
+        }
+    },
+    "pink_stained_glass": {
+        "hex": "#F27FA5",
+        "rgb_normalized": {
+            "r": 0.949,
+            "g": 0.498,
+            "b": 0.6471
+        }
+    },
+    "pink_stained_glass_pane_top": {
+        "hex": "#E97A9F",
+        "rgb_normalized": {
+            "r": 0.9137,
+            "g": 0.4784,
+            "b": 0.6235
+        }
+    },
+    "pink_terracotta": {
+        "hex": "#A14E4E",
+        "rgb_normalized": {
+            "r": 0.6314,
+            "g": 0.3059,
+            "b": 0.3059
+        }
+    },
+    "pink_tulip": {
+        "hex": "#639D4E",
+        "rgb_normalized": {
+            "r": 0.3882,
+            "g": 0.6157,
+            "b": 0.3059
+        }
+    },
+    "pink_wool": {
+        "hex": "#ED8DAC",
+        "rgb_normalized": {
+            "r": 0.9294,
+            "g": 0.5529,
+            "b": 0.6745
+        }
+    },
+    "piston_bottom": {
+        "hex": "#616060",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.3765,
+            "b": 0.3765
+        }
+    },
+    "piston_inner": {
+        "hex": "#616161",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.3804,
+            "b": 0.3804
+        }
+    },
+    "piston_side": {
+        "hex": "#6D6860",
+        "rgb_normalized": {
+            "r": 0.4275,
+            "g": 0.4078,
+            "b": 0.3765
+        }
+    },
+    "piston_top": {
+        "hex": "#997F55",
+        "rgb_normalized": {
+            "r": 0.6,
+            "g": 0.498,
+            "b": 0.3333
+        }
+    },
+    "piston_top_sticky": {
+        "hex": "#7A955B",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.5843,
+            "b": 0.3569
+        }
+    },
+    "pitcher_crop_bottom": {
+        "hex": "#643A24",
+        "rgb_normalized": {
+            "r": 0.3922,
+            "g": 0.2275,
+            "b": 0.1412
+        }
+    },
+    "pitcher_crop_bottom_stage_1": {
+        "hex": "#8D9A57",
+        "rgb_normalized": {
+            "r": 0.5529,
+            "g": 0.6039,
+            "b": 0.3412
+        }
+    },
+    "pitcher_crop_bottom_stage_2": {
+        "hex": "#72804F",
+        "rgb_normalized": {
+            "r": 0.4471,
+            "g": 0.502,
+            "b": 0.3098
+        }
+    },
+    "pitcher_crop_bottom_stage_3": {
+        "hex": "#6A7C4A",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.4863,
+            "b": 0.2902
+        }
+    },
+    "pitcher_crop_bottom_stage_4": {
+        "hex": "#687E5D",
+        "rgb_normalized": {
+            "r": 0.4078,
+            "g": 0.4941,
+            "b": 0.3647
+        }
+    },
+    "pitcher_crop_side": {
+        "hex": "#B27E50",
+        "rgb_normalized": {
+            "r": 0.698,
+            "g": 0.4941,
+            "b": 0.3137
+        }
+    },
+    "pitcher_crop_top": {
+        "hex": "#C1A567",
+        "rgb_normalized": {
+            "r": 0.7569,
+            "g": 0.6471,
+            "b": 0.4039
+        }
+    },
+    "pitcher_crop_top_stage_3": {
+        "hex": "#8FB889",
+        "rgb_normalized": {
+            "r": 0.5608,
+            "g": 0.7216,
+            "b": 0.5373
+        }
+    },
+    "pitcher_crop_top_stage_4": {
+        "hex": "#7A90BD",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.5647,
+            "b": 0.7412
+        }
+    },
+    "podzol_side": {
+        "hex": "#7A5739",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.3412,
+            "b": 0.2235
+        }
+    },
+    "podzol_top": {
+        "hex": "#5B3F18",
+        "rgb_normalized": {
+            "r": 0.3569,
+            "g": 0.2471,
+            "b": 0.0941
+        }
+    },
+    "pointed_dripstone_down_base": {
+        "hex": "#816659",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.4,
+            "b": 0.349
+        }
+    },
+    "pointed_dripstone_down_frustum": {
+        "hex": "#806659",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4,
+            "b": 0.349
+        }
+    },
+    "pointed_dripstone_down_middle": {
+        "hex": "#82675A",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.4039,
+            "b": 0.3529
+        }
+    },
+    "pointed_dripstone_down_tip": {
+        "hex": "#886D5D",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.4275,
+            "b": 0.3647
+        }
+    },
+    "pointed_dripstone_down_tip_merge": {
+        "hex": "#8A6F5F",
+        "rgb_normalized": {
+            "r": 0.5412,
+            "g": 0.4353,
+            "b": 0.3725
+        }
+    },
+    "pointed_dripstone_up_base": {
+        "hex": "#816659",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.4,
+            "b": 0.349
+        }
+    },
+    "pointed_dripstone_up_frustum": {
+        "hex": "#806659",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4,
+            "b": 0.349
+        }
+    },
+    "pointed_dripstone_up_middle": {
+        "hex": "#82675A",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.4039,
+            "b": 0.3529
+        }
+    },
+    "pointed_dripstone_up_tip": {
+        "hex": "#886D5D",
+        "rgb_normalized": {
+            "r": 0.5333,
+            "g": 0.4275,
+            "b": 0.3647
+        }
+    },
+    "pointed_dripstone_up_tip_merge": {
+        "hex": "#8A6F5F",
+        "rgb_normalized": {
+            "r": 0.5412,
+            "g": 0.4353,
+            "b": 0.3725
+        }
+    },
+    "polished_andesite": {
+        "hex": "#848685",
+        "rgb_normalized": {
+            "r": 0.5176,
+            "g": 0.5255,
+            "b": 0.5216
+        }
+    },
+    "polished_basalt_side": {
+        "hex": "#58585B",
+        "rgb_normalized": {
+            "r": 0.3451,
+            "g": 0.3451,
+            "b": 0.3569
+        }
+    },
+    "polished_basalt_top": {
+        "hex": "#636264",
+        "rgb_normalized": {
+            "r": 0.3882,
+            "g": 0.3843,
+            "b": 0.3922
+        }
+    },
+    "polished_blackstone": {
+        "hex": "#353038",
+        "rgb_normalized": {
+            "r": 0.2078,
+            "g": 0.1882,
+            "b": 0.2196
+        }
+    },
+    "polished_blackstone_bricks": {
+        "hex": "#302A31",
+        "rgb_normalized": {
+            "r": 0.1882,
+            "g": 0.1647,
+            "b": 0.1922
+        }
+    },
+    "polished_deepslate": {
+        "hex": "#484849",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.2824,
+            "b": 0.2863
+        }
+    },
+    "polished_diorite": {
+        "hex": "#C0C1C2",
+        "rgb_normalized": {
+            "r": 0.7529,
+            "g": 0.7569,
+            "b": 0.7608
+        }
+    },
+    "polished_granite": {
+        "hex": "#9A6A59",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.4157,
+            "b": 0.349
+        }
+    },
+    "polished_tuff": {
+        "hex": "#616863",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.4078,
+            "b": 0.3882
+        }
+    },
+    "poppy": {
+        "hex": "#804025",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.251,
+            "b": 0.1451
+        }
+    },
+    "potatoes_stage0": {
+        "hex": "#3A8128",
+        "rgb_normalized": {
+            "r": 0.2275,
+            "g": 0.5059,
+            "b": 0.1569
+        }
+    },
+    "potatoes_stage1": {
+        "hex": "#44832A",
+        "rgb_normalized": {
+            "r": 0.2667,
+            "g": 0.5137,
+            "b": 0.1647
+        }
+    },
+    "potatoes_stage2": {
+        "hex": "#55812F",
+        "rgb_normalized": {
+            "r": 0.3333,
+            "g": 0.5059,
+            "b": 0.1843
+        }
+    },
+    "potatoes_stage3": {
+        "hex": "#54872F",
+        "rgb_normalized": {
+            "r": 0.3294,
+            "g": 0.5294,
+            "b": 0.1843
+        }
+    },
+    "potted_azalea_bush_plant": {
+        "hex": "#5C6C2A",
+        "rgb_normalized": {
+            "r": 0.3608,
+            "g": 0.4235,
+            "b": 0.1647
+        }
+    },
+    "potted_azalea_bush_side": {
+        "hex": "#5F772E",
+        "rgb_normalized": {
+            "r": 0.3725,
+            "g": 0.4667,
+            "b": 0.1804
+        }
+    },
+    "potted_azalea_bush_top": {
+        "hex": "#647A2F",
+        "rgb_normalized": {
+            "r": 0.3922,
+            "g": 0.4784,
+            "b": 0.1843
+        }
+    },
+    "potted_flowering_azalea_bush_plant": {
+        "hex": "#636738",
+        "rgb_normalized": {
+            "r": 0.3882,
+            "g": 0.4039,
+            "b": 0.2196
+        }
+    },
+    "potted_flowering_azalea_bush_side": {
+        "hex": "#6D7145",
+        "rgb_normalized": {
+            "r": 0.4275,
+            "g": 0.4431,
+            "b": 0.2706
+        }
+    },
+    "potted_flowering_azalea_bush_top": {
+        "hex": "#727746",
+        "rgb_normalized": {
+            "r": 0.4471,
+            "g": 0.4667,
+            "b": 0.2745
+        }
+    },
+    "powder_snow": {
+        "hex": "#F8FDFD",
+        "rgb_normalized": {
+            "r": 0.9725,
+            "g": 0.9922,
+            "b": 0.9922
+        }
+    },
+    "powered_rail": {
+        "hex": "#896D4A",
+        "rgb_normalized": {
+            "r": 0.5373,
+            "g": 0.4275,
+            "b": 0.2902
+        }
+    },
+    "powered_rail_on": {
+        "hex": "#9A6D4A",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.4275,
+            "b": 0.2902
+        }
+    },
+    "prismarine": {
+        "hex": "#639C97",
+        "rgb_normalized": {
+            "r": 0.3882,
+            "g": 0.6118,
+            "b": 0.5922
+        }
+    },
+    "prismarine_bricks": {
+        "hex": "#63AB9E",
+        "rgb_normalized": {
+            "r": 0.3882,
+            "g": 0.6706,
+            "b": 0.6196
+        }
+    },
+    "pumpkin_side": {
+        "hex": "#C37218",
+        "rgb_normalized": {
+            "r": 0.7647,
+            "g": 0.4471,
+            "b": 0.0941
+        }
+    },
+    "pumpkin_stem": {
+        "hex": "#9A9A9A",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.6039,
+            "b": 0.6039
+        }
+    },
+    "pumpkin_top": {
+        "hex": "#C67618",
+        "rgb_normalized": {
+            "r": 0.7765,
+            "g": 0.4627,
+            "b": 0.0941
+        }
+    },
+    "purple_candle": {
+        "hex": "#69229F",
+        "rgb_normalized": {
+            "r": 0.4118,
+            "g": 0.1333,
+            "b": 0.6235
+        }
+    },
+    "purple_candle_lit": {
+        "hex": "#7C2190",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.1294,
+            "b": 0.5647
+        }
+    },
+    "purple_concrete": {
+        "hex": "#641F9C",
+        "rgb_normalized": {
+            "r": 0.3922,
+            "g": 0.1216,
+            "b": 0.6118
+        }
+    },
+    "purple_concrete_powder": {
+        "hex": "#8337B1",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.2157,
+            "b": 0.6941
+        }
+    },
+    "purple_glazed_terracotta": {
+        "hex": "#6D2F98",
+        "rgb_normalized": {
+            "r": 0.4275,
+            "g": 0.1843,
+            "b": 0.5961
+        }
+    },
+    "purple_shulker_box": {
+        "hex": "#67209C",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.1255,
+            "b": 0.6118
+        }
+    },
+    "purple_stained_glass": {
+        "hex": "#7F3FB2",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.2471,
+            "b": 0.698
+        }
+    },
+    "purple_stained_glass_pane_top": {
+        "hex": "#7A3DAB",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.2392,
+            "b": 0.6706
+        }
+    },
+    "purple_terracotta": {
+        "hex": "#764656",
+        "rgb_normalized": {
+            "r": 0.4627,
+            "g": 0.2745,
+            "b": 0.3373
+        }
+    },
+    "purple_wool": {
+        "hex": "#792AAC",
+        "rgb_normalized": {
+            "r": 0.4745,
+            "g": 0.1647,
+            "b": 0.6745
+        }
+    },
+    "purpur_block": {
+        "hex": "#A97DA9",
+        "rgb_normalized": {
+            "r": 0.6627,
+            "g": 0.4902,
+            "b": 0.6627
+        }
+    },
+    "purpur_pillar": {
+        "hex": "#AB81AB",
+        "rgb_normalized": {
+            "r": 0.6706,
+            "g": 0.5059,
+            "b": 0.6706
+        }
+    },
+    "purpur_pillar_top": {
+        "hex": "#AB80AB",
+        "rgb_normalized": {
+            "r": 0.6706,
+            "g": 0.502,
+            "b": 0.6706
+        }
+    },
+    "quartz_block_bottom": {
+        "hex": "#ECE6DF",
+        "rgb_normalized": {
+            "r": 0.9255,
+            "g": 0.902,
+            "b": 0.8745
+        }
+    },
+    "quartz_block_side": {
+        "hex": "#EBE5DE",
+        "rgb_normalized": {
+            "r": 0.9216,
+            "g": 0.898,
+            "b": 0.8706
+        }
+    },
+    "quartz_block_top": {
+        "hex": "#EBE5DE",
+        "rgb_normalized": {
+            "r": 0.9216,
+            "g": 0.898,
+            "b": 0.8706
+        }
+    },
+    "quartz_bricks": {
+        "hex": "#EAE5DD",
+        "rgb_normalized": {
+            "r": 0.9176,
+            "g": 0.898,
+            "b": 0.8667
+        }
+    },
+    "quartz_pillar": {
+        "hex": "#EBE6E0",
+        "rgb_normalized": {
+            "r": 0.9216,
+            "g": 0.902,
+            "b": 0.8784
+        }
+    },
+    "quartz_pillar_top": {
+        "hex": "#EBE5DE",
+        "rgb_normalized": {
+            "r": 0.9216,
+            "g": 0.898,
+            "b": 0.8706
+        }
+    },
+    "rail": {
+        "hex": "#7D6F58",
+        "rgb_normalized": {
+            "r": 0.4902,
+            "g": 0.4353,
+            "b": 0.3451
+        }
+    },
+    "rail_corner": {
+        "hex": "#827359",
+        "rgb_normalized": {
+            "r": 0.5098,
+            "g": 0.451,
+            "b": 0.349
+        }
+    },
+    "raw_copper_block": {
+        "hex": "#9A694F",
+        "rgb_normalized": {
+            "r": 0.6039,
+            "g": 0.4118,
+            "b": 0.3098
+        }
+    },
+    "raw_gold_block": {
+        "hex": "#DDA92E",
+        "rgb_normalized": {
+            "r": 0.8667,
+            "g": 0.6627,
+            "b": 0.1804
+        }
+    },
+    "raw_iron_block": {
+        "hex": "#A6876B",
+        "rgb_normalized": {
+            "r": 0.651,
+            "g": 0.5294,
+            "b": 0.4196
+        }
+    },
+    "redstone_block": {
+        "hex": "#AF1805",
+        "rgb_normalized": {
+            "r": 0.6863,
+            "g": 0.0941,
+            "b": 0.0196
+        }
+    },
+    "redstone_dust_dot": {
+        "hex": "#F0F0F0",
+        "rgb_normalized": {
+            "r": 0.9412,
+            "g": 0.9412,
+            "b": 0.9412
+        }
+    },
+    "redstone_dust_line0": {
+        "hex": "#F0F0F0",
+        "rgb_normalized": {
+            "r": 0.9412,
+            "g": 0.9412,
+            "b": 0.9412
+        }
+    },
+    "redstone_dust_line1": {
+        "hex": "#F0F0F0",
+        "rgb_normalized": {
+            "r": 0.9412,
+            "g": 0.9412,
+            "b": 0.9412
+        }
+    },
+    "redstone_dust_overlay": {
+        "hex": "#000000",
+        "rgb_normalized": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+        }
+    },
+    "redstone_lamp": {
+        "hex": "#5F361E",
+        "rgb_normalized": {
+            "r": 0.3725,
+            "g": 0.2118,
+            "b": 0.1176
+        }
+    },
+    "redstone_lamp_on": {
+        "hex": "#8E653C",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.3961,
+            "b": 0.2353
+        }
+    },
+    "redstone_ore": {
+        "hex": "#8C6D6D",
+        "rgb_normalized": {
+            "r": 0.549,
+            "g": 0.4275,
+            "b": 0.4275
+        }
+    },
+    "redstone_torch": {
+        "hex": "#B63B2C",
+        "rgb_normalized": {
+            "r": 0.7137,
+            "g": 0.2314,
+            "b": 0.1725
+        }
+    },
+    "redstone_torch_off": {
+        "hex": "#65452B",
+        "rgb_normalized": {
+            "r": 0.3961,
+            "g": 0.2706,
+            "b": 0.1686
+        }
+    },
+    "red_candle": {
+        "hex": "#992624",
+        "rgb_normalized": {
+            "r": 0.6,
+            "g": 0.149,
+            "b": 0.1412
+        }
+    },
+    "red_candle_lit": {
+        "hex": "#B4412F",
+        "rgb_normalized": {
+            "r": 0.7059,
+            "g": 0.2549,
+            "b": 0.1843
+        }
+    },
+    "red_concrete": {
+        "hex": "#8E2020",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.1255,
+            "b": 0.1255
+        }
+    },
+    "red_concrete_powder": {
+        "hex": "#A83632",
+        "rgb_normalized": {
+            "r": 0.6588,
+            "g": 0.2118,
+            "b": 0.1961
+        }
+    },
+    "red_glazed_terracotta": {
+        "hex": "#B53B35",
+        "rgb_normalized": {
+            "r": 0.7098,
+            "g": 0.2314,
+            "b": 0.2078
+        }
+    },
+    "red_mushroom": {
+        "hex": "#D84B43",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.2941,
+            "b": 0.2627
+        }
+    },
+    "red_mushroom_block": {
+        "hex": "#C82E2D",
+        "rgb_normalized": {
+            "r": 0.7843,
+            "g": 0.1804,
+            "b": 0.1765
+        }
+    },
+    "red_nether_bricks": {
+        "hex": "#450709",
+        "rgb_normalized": {
+            "r": 0.2706,
+            "g": 0.0275,
+            "b": 0.0353
+        }
+    },
+    "red_sand": {
+        "hex": "#BE6621",
+        "rgb_normalized": {
+            "r": 0.7451,
+            "g": 0.4,
+            "b": 0.1294
+        }
+    },
+    "red_sandstone": {
+        "hex": "#BA631D",
+        "rgb_normalized": {
+            "r": 0.7294,
+            "g": 0.3882,
+            "b": 0.1137
+        }
+    },
+    "red_sandstone_bottom": {
+        "hex": "#B9621C",
+        "rgb_normalized": {
+            "r": 0.7255,
+            "g": 0.3843,
+            "b": 0.1098
+        }
+    },
+    "red_sandstone_top": {
+        "hex": "#B5611F",
+        "rgb_normalized": {
+            "r": 0.7098,
+            "g": 0.3804,
+            "b": 0.1216
+        }
+    },
+    "red_shulker_box": {
+        "hex": "#8C1F1E",
+        "rgb_normalized": {
+            "r": 0.549,
+            "g": 0.1216,
+            "b": 0.1176
+        }
+    },
+    "red_stained_glass": {
+        "hex": "#993333",
+        "rgb_normalized": {
+            "r": 0.6,
+            "g": 0.2,
+            "b": 0.2
+        }
+    },
+    "red_stained_glass_pane_top": {
+        "hex": "#933030",
+        "rgb_normalized": {
+            "r": 0.5765,
+            "g": 0.1882,
+            "b": 0.1882
+        }
+    },
+    "red_terracotta": {
+        "hex": "#8F3D2E",
+        "rgb_normalized": {
+            "r": 0.5608,
+            "g": 0.2392,
+            "b": 0.1804
+        }
+    },
+    "red_tulip": {
+        "hex": "#598020",
+        "rgb_normalized": {
+            "r": 0.349,
+            "g": 0.502,
+            "b": 0.1255
+        }
+    },
+    "red_wool": {
+        "hex": "#A02722",
+        "rgb_normalized": {
+            "r": 0.6275,
+            "g": 0.1529,
+            "b": 0.1333
+        }
+    },
+    "reinforced_deepslate_bottom": {
+        "hex": "#4F524F",
+        "rgb_normalized": {
+            "r": 0.3098,
+            "g": 0.3216,
+            "b": 0.3098
+        }
+    },
+    "reinforced_deepslate_side": {
+        "hex": "#666D64",
+        "rgb_normalized": {
+            "r": 0.4,
+            "g": 0.4275,
+            "b": 0.3922
+        }
+    },
+    "reinforced_deepslate_top": {
+        "hex": "#50524E",
+        "rgb_normalized": {
+            "r": 0.3137,
+            "g": 0.3216,
+            "b": 0.3059
+        }
+    },
+    "repeater": {
+        "hex": "#A09D9C",
+        "rgb_normalized": {
+            "r": 0.6275,
+            "g": 0.6157,
+            "b": 0.6118
+        }
+    },
+    "repeater_on": {
+        "hex": "#A99D9C",
+        "rgb_normalized": {
+            "r": 0.6627,
+            "g": 0.6157,
+            "b": 0.6118
+        }
+    },
+    "repeating_command_block_back": {
+        "hex": "#806DA6",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4275,
+            "b": 0.651
+        }
+    },
+    "repeating_command_block_conditional": {
+        "hex": "#7F6DAB",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.4275,
+            "b": 0.6706
+        }
+    },
+    "repeating_command_block_front": {
+        "hex": "#816FB0",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.4353,
+            "b": 0.6902
+        }
+    },
+    "repeating_command_block_side": {
+        "hex": "#806EAA",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4314,
+            "b": 0.6667
+        }
+    },
+    "resin_block": {
+        "hex": "#D96319",
+        "rgb_normalized": {
+            "r": 0.851,
+            "g": 0.3882,
+            "b": 0.098
+        }
+    },
+    "resin_bricks": {
+        "hex": "#CD5818",
+        "rgb_normalized": {
+            "r": 0.8039,
+            "g": 0.3451,
+            "b": 0.0941
+        }
+    },
+    "resin_clump": {
+        "hex": "#DF6F1B",
+        "rgb_normalized": {
+            "r": 0.8745,
+            "g": 0.4353,
+            "b": 0.1059
+        }
+    },
+    "respawn_anchor_bottom": {
+        "hex": "#200A3C",
+        "rgb_normalized": {
+            "r": 0.1255,
+            "g": 0.0392,
+            "b": 0.2353
+        }
+    },
+    "respawn_anchor_side0": {
+        "hex": "#27173E",
+        "rgb_normalized": {
+            "r": 0.1529,
+            "g": 0.0902,
+            "b": 0.2431
+        }
+    },
+    "respawn_anchor_side1": {
+        "hex": "#2A1A40",
+        "rgb_normalized": {
+            "r": 0.1647,
+            "g": 0.102,
+            "b": 0.251
+        }
+    },
+    "respawn_anchor_side2": {
+        "hex": "#2C1C41",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.1098,
+            "b": 0.2549
+        }
+    },
+    "respawn_anchor_side3": {
+        "hex": "#2F1E42",
+        "rgb_normalized": {
+            "r": 0.1843,
+            "g": 0.1176,
+            "b": 0.2588
+        }
+    },
+    "respawn_anchor_side4": {
+        "hex": "#312044",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.1255,
+            "b": 0.2667
+        }
+    },
+    "respawn_anchor_top": {
+        "hex": "#4C1796",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.0902,
+            "b": 0.5882
+        }
+    },
+    "respawn_anchor_top_off": {
+        "hex": "#211534",
+        "rgb_normalized": {
+            "r": 0.1294,
+            "g": 0.0824,
+            "b": 0.2039
+        }
+    },
+    "rooted_dirt": {
+        "hex": "#90674C",
+        "rgb_normalized": {
+            "r": 0.5647,
+            "g": 0.4039,
+            "b": 0.298
+        }
+    },
+    "rose_bush_bottom": {
+        "hex": "#615325",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.3255,
+            "b": 0.1451
+        }
+    },
+    "rose_bush_top": {
+        "hex": "#834225",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.2588,
+            "b": 0.1451
+        }
+    },
+    "sand": {
+        "hex": "#DBCFA3",
+        "rgb_normalized": {
+            "r": 0.8588,
+            "g": 0.8118,
+            "b": 0.6392
+        }
+    },
+    "sandstone": {
+        "hex": "#D8CB9B",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.7961,
+            "b": 0.6078
+        }
+    },
+    "sandstone_bottom": {
+        "hex": "#D7CA9A",
+        "rgb_normalized": {
+            "r": 0.8431,
+            "g": 0.7922,
+            "b": 0.6039
+        }
+    },
+    "sandstone_top": {
+        "hex": "#DFD6AA",
+        "rgb_normalized": {
+            "r": 0.8745,
+            "g": 0.8392,
+            "b": 0.6667
+        }
+    },
+    "scaffolding_bottom": {
+        "hex": "#C1AC4F",
+        "rgb_normalized": {
+            "r": 0.7569,
+            "g": 0.6745,
+            "b": 0.3098
+        }
+    },
+    "scaffolding_side": {
+        "hex": "#C0AA4E",
+        "rgb_normalized": {
+            "r": 0.7529,
+            "g": 0.6667,
+            "b": 0.3059
+        }
+    },
+    "scaffolding_top": {
+        "hex": "#AA8349",
+        "rgb_normalized": {
+            "r": 0.6667,
+            "g": 0.5137,
+            "b": 0.2863
+        }
+    },
+    "sculk": {
+        "hex": "#0C1D24",
+        "rgb_normalized": {
+            "r": 0.0471,
+            "g": 0.1137,
+            "b": 0.1412
+        }
+    },
+    "sculk_catalyst_bottom": {
+        "hex": "#596D6D",
+        "rgb_normalized": {
+            "r": 0.349,
+            "g": 0.4275,
+            "b": 0.4275
+        }
+    },
+    "sculk_catalyst_side": {
+        "hex": "#4C5D5A",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.3647,
+            "b": 0.3529
+        }
+    },
+    "sculk_catalyst_side_bloom": {
+        "hex": "#4C615D",
+        "rgb_normalized": {
+            "r": 0.298,
+            "g": 0.3804,
+            "b": 0.3647
+        }
+    },
+    "sculk_catalyst_top": {
+        "hex": "#0F1F26",
+        "rgb_normalized": {
+            "r": 0.0588,
+            "g": 0.1216,
+            "b": 0.149
+        }
+    },
+    "sculk_catalyst_top_bloom": {
+        "hex": "#102D32",
+        "rgb_normalized": {
+            "r": 0.0627,
+            "g": 0.1765,
+            "b": 0.1961
+        }
+    },
+    "sculk_sensor_bottom": {
+        "hex": "#0D1B21",
+        "rgb_normalized": {
+            "r": 0.051,
+            "g": 0.1059,
+            "b": 0.1294
+        }
+    },
+    "sculk_sensor_side": {
+        "hex": "#0A272F",
+        "rgb_normalized": {
+            "r": 0.0392,
+            "g": 0.1529,
+            "b": 0.1843
+        }
+    },
+    "sculk_sensor_tendril_active": {
+        "hex": "#087A7E",
+        "rgb_normalized": {
+            "r": 0.0314,
+            "g": 0.4784,
+            "b": 0.4941
+        }
+    },
+    "sculk_sensor_tendril_inactive": {
+        "hex": "#0E414D",
+        "rgb_normalized": {
+            "r": 0.0549,
+            "g": 0.2549,
+            "b": 0.302
+        }
+    },
+    "sculk_sensor_top": {
+        "hex": "#074654",
+        "rgb_normalized": {
+            "r": 0.0275,
+            "g": 0.2745,
+            "b": 0.3294
+        }
+    },
+    "sculk_shrieker_bottom": {
+        "hex": "#0D1B21",
+        "rgb_normalized": {
+            "r": 0.051,
+            "g": 0.1059,
+            "b": 0.1294
+        }
+    },
+    "sculk_shrieker_can_summon_inner_top": {
+        "hex": "#1E4042",
+        "rgb_normalized": {
+            "r": 0.1176,
+            "g": 0.251,
+            "b": 0.2588
+        }
+    },
+    "sculk_shrieker_inner_top": {
+        "hex": "#1E3637",
+        "rgb_normalized": {
+            "r": 0.1176,
+            "g": 0.2118,
+            "b": 0.2157
+        }
+    },
+    "sculk_shrieker_side": {
+        "hex": "#4B655F",
+        "rgb_normalized": {
+            "r": 0.2941,
+            "g": 0.3961,
+            "b": 0.3725
+        }
+    },
+    "sculk_shrieker_top": {
+        "hex": "#C6CDA9",
+        "rgb_normalized": {
+            "r": 0.7765,
+            "g": 0.8039,
+            "b": 0.6627
+        }
+    },
+    "sculk_vein": {
+        "hex": "#073039",
+        "rgb_normalized": {
+            "r": 0.0275,
+            "g": 0.1882,
+            "b": 0.2235
+        }
+    },
+    "seagrass": {
+        "hex": "#327E08",
+        "rgb_normalized": {
+            "r": 0.1961,
+            "g": 0.4941,
+            "b": 0.0314
+        }
+    },
+    "sea_lantern": {
+        "hex": "#ACC7BE",
+        "rgb_normalized": {
+            "r": 0.6745,
+            "g": 0.7804,
+            "b": 0.7451
+        }
+    },
+    "sea_pickle": {
+        "hex": "#5A6127",
+        "rgb_normalized": {
+            "r": 0.3529,
+            "g": 0.3804,
+            "b": 0.1529
+        }
+    },
+    "short_dry_grass": {
+        "hex": "#BB9E6C",
+        "rgb_normalized": {
+            "r": 0.7333,
+            "g": 0.6196,
+            "b": 0.4235
+        }
+    },
+    "short_grass": {
+        "hex": "#919191",
+        "rgb_normalized": {
+            "r": 0.5686,
+            "g": 0.5686,
+            "b": 0.5686
+        }
+    },
+    "shroomlight": {
+        "hex": "#F09246",
+        "rgb_normalized": {
+            "r": 0.9412,
+            "g": 0.5725,
+            "b": 0.2745
+        }
+    },
+    "shulker_box": {
+        "hex": "#8B608B",
+        "rgb_normalized": {
+            "r": 0.5451,
+            "g": 0.3765,
+            "b": 0.5451
+        }
+    },
+    "slime_block": {
+        "hex": "#6FC05B",
+        "rgb_normalized": {
+            "r": 0.4353,
+            "g": 0.7529,
+            "b": 0.3569
+        }
+    },
+    "small_amethyst_bud": {
+        "hex": "#8363C0",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.3882,
+            "b": 0.7529
+        }
+    },
+    "small_dripleaf_side": {
+        "hex": "#6C8031",
+        "rgb_normalized": {
+            "r": 0.4235,
+            "g": 0.502,
+            "b": 0.1922
+        }
+    },
+    "small_dripleaf_stem_bottom": {
+        "hex": "#5E7A2D",
+        "rgb_normalized": {
+            "r": 0.3686,
+            "g": 0.4784,
+            "b": 0.1765
+        }
+    },
+    "small_dripleaf_stem_top": {
+        "hex": "#61792E",
+        "rgb_normalized": {
+            "r": 0.3804,
+            "g": 0.4745,
+            "b": 0.1804
+        }
+    },
+    "small_dripleaf_top": {
+        "hex": "#5E772D",
+        "rgb_normalized": {
+            "r": 0.3686,
+            "g": 0.4667,
+            "b": 0.1765
+        }
+    },
+    "smithing_table_bottom": {
+        "hex": "#401C17",
+        "rgb_normalized": {
+            "r": 0.251,
+            "g": 0.1098,
+            "b": 0.0902
+        }
+    },
+    "smithing_table_front": {
+        "hex": "#382526",
+        "rgb_normalized": {
+            "r": 0.2196,
+            "g": 0.1451,
+            "b": 0.149
+        }
+    },
+    "smithing_table_side": {
+        "hex": "#372323",
+        "rgb_normalized": {
+            "r": 0.2157,
+            "g": 0.1373,
+            "b": 0.1373
+        }
+    },
+    "smithing_table_top": {
+        "hex": "#393A46",
+        "rgb_normalized": {
+            "r": 0.2235,
+            "g": 0.2275,
+            "b": 0.2745
+        }
+    },
+    "smoker_bottom": {
+        "hex": "#6B6967",
+        "rgb_normalized": {
+            "r": 0.4196,
+            "g": 0.4118,
+            "b": 0.4039
+        }
+    },
+    "smoker_front": {
+        "hex": "#574B39",
+        "rgb_normalized": {
+            "r": 0.3412,
+            "g": 0.2941,
+            "b": 0.2235
+        }
+    },
+    "smoker_front_on": {
+        "hex": "#766142",
+        "rgb_normalized": {
+            "r": 0.4627,
+            "g": 0.3804,
+            "b": 0.2588
+        }
+    },
+    "smoker_side": {
+        "hex": "#665B4B",
+        "rgb_normalized": {
+            "r": 0.4,
+            "g": 0.3569,
+            "b": 0.2941
+        }
+    },
+    "smoker_top": {
+        "hex": "#555351",
+        "rgb_normalized": {
+            "r": 0.3333,
+            "g": 0.3255,
+            "b": 0.3176
+        }
+    },
+    "smooth_basalt": {
+        "hex": "#48484E",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.2824,
+            "b": 0.3059
+        }
+    },
+    "smooth_stone": {
+        "hex": "#9E9E9E",
+        "rgb_normalized": {
+            "r": 0.6196,
+            "g": 0.6196,
+            "b": 0.6196
+        }
+    },
+    "smooth_stone_slab_side": {
+        "hex": "#A7A7A7",
+        "rgb_normalized": {
+            "r": 0.6549,
+            "g": 0.6549,
+            "b": 0.6549
+        }
+    },
+    "sniffer_egg_not_cracked_bottom": {
+        "hex": "#49191A",
+        "rgb_normalized": {
+            "r": 0.2863,
+            "g": 0.098,
+            "b": 0.102
+        }
+    },
+    "sniffer_egg_not_cracked_east": {
+        "hex": "#5E4831",
+        "rgb_normalized": {
+            "r": 0.3686,
+            "g": 0.2824,
+            "b": 0.1922
+        }
+    },
+    "sniffer_egg_not_cracked_north": {
+        "hex": "#5B4D33",
+        "rgb_normalized": {
+            "r": 0.3569,
+            "g": 0.302,
+            "b": 0.2
+        }
+    },
+    "sniffer_egg_not_cracked_south": {
+        "hex": "#5D4E33",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.3059,
+            "b": 0.2
+        }
+    },
+    "sniffer_egg_not_cracked_top": {
+        "hex": "#876943",
+        "rgb_normalized": {
+            "r": 0.5294,
+            "g": 0.4118,
+            "b": 0.2627
+        }
+    },
+    "sniffer_egg_not_cracked_west": {
+        "hex": "#5A4E33",
+        "rgb_normalized": {
+            "r": 0.3529,
+            "g": 0.3059,
+            "b": 0.2
+        }
+    },
+    "sniffer_egg_slightly_cracked_bottom": {
+        "hex": "#471819",
+        "rgb_normalized": {
+            "r": 0.2784,
+            "g": 0.0941,
+            "b": 0.098
+        }
+    },
+    "sniffer_egg_slightly_cracked_east": {
+        "hex": "#5A442F",
+        "rgb_normalized": {
+            "r": 0.3529,
+            "g": 0.2667,
+            "b": 0.1843
+        }
+    },
+    "sniffer_egg_slightly_cracked_north": {
+        "hex": "#594831",
+        "rgb_normalized": {
+            "r": 0.349,
+            "g": 0.2824,
+            "b": 0.1922
+        }
+    },
+    "sniffer_egg_slightly_cracked_south": {
+        "hex": "#5A4831",
+        "rgb_normalized": {
+            "r": 0.3529,
+            "g": 0.2824,
+            "b": 0.1922
+        }
+    },
+    "sniffer_egg_slightly_cracked_top": {
+        "hex": "#81613E",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.3804,
+            "b": 0.2431
+        }
+    },
+    "sniffer_egg_slightly_cracked_west": {
+        "hex": "#584C32",
+        "rgb_normalized": {
+            "r": 0.3451,
+            "g": 0.298,
+            "b": 0.1961
+        }
+    },
+    "sniffer_egg_very_cracked_bottom": {
+        "hex": "#461919",
+        "rgb_normalized": {
+            "r": 0.2745,
+            "g": 0.098,
+            "b": 0.098
+        }
+    },
+    "sniffer_egg_very_cracked_east": {
+        "hex": "#55402D",
+        "rgb_normalized": {
+            "r": 0.3333,
+            "g": 0.251,
+            "b": 0.1765
+        }
+    },
+    "sniffer_egg_very_cracked_north": {
+        "hex": "#55442F",
+        "rgb_normalized": {
+            "r": 0.3333,
+            "g": 0.2667,
+            "b": 0.1843
+        }
+    },
+    "sniffer_egg_very_cracked_south": {
+        "hex": "#54442F",
+        "rgb_normalized": {
+            "r": 0.3294,
+            "g": 0.2667,
+            "b": 0.1843
+        }
+    },
+    "sniffer_egg_very_cracked_top": {
+        "hex": "#78593A",
+        "rgb_normalized": {
+            "r": 0.4706,
+            "g": 0.349,
+            "b": 0.2275
+        }
+    },
+    "sniffer_egg_very_cracked_west": {
+        "hex": "#534730",
+        "rgb_normalized": {
+            "r": 0.3255,
+            "g": 0.2784,
+            "b": 0.1882
+        }
+    },
+    "snow": {
+        "hex": "#F9FEFE",
+        "rgb_normalized": {
+            "r": 0.9765,
+            "g": 0.9961,
+            "b": 0.9961
+        }
+    },
+    "soul_campfire_fire": {
+        "hex": "#50CCD0",
+        "rgb_normalized": {
+            "r": 0.3137,
+            "g": 0.8,
+            "b": 0.8157
+        }
+    },
+    "soul_campfire_log_lit": {
+        "hex": "#456A68",
+        "rgb_normalized": {
+            "r": 0.2706,
+            "g": 0.4157,
+            "b": 0.4078
+        }
+    },
+    "soul_fire_0": {
+        "hex": "#33C0C5",
+        "rgb_normalized": {
+            "r": 0.2,
+            "g": 0.7529,
+            "b": 0.7725
+        }
+    },
+    "soul_fire_1": {
+        "hex": "#37C1C5",
+        "rgb_normalized": {
+            "r": 0.2157,
+            "g": 0.7569,
+            "b": 0.7725
+        }
+    },
+    "soul_lantern": {
+        "hex": "#476372",
+        "rgb_normalized": {
+            "r": 0.2784,
+            "g": 0.3882,
+            "b": 0.4471
+        }
+    },
+    "soul_sand": {
+        "hex": "#513E32",
+        "rgb_normalized": {
+            "r": 0.3176,
+            "g": 0.2431,
+            "b": 0.1961
+        }
+    },
+    "soul_soil": {
+        "hex": "#4B392E",
+        "rgb_normalized": {
+            "r": 0.2941,
+            "g": 0.2235,
+            "b": 0.1804
+        }
+    },
+    "soul_torch": {
+        "hex": "#6D7359",
+        "rgb_normalized": {
+            "r": 0.4275,
+            "g": 0.451,
+            "b": 0.349
+        }
+    },
+    "spawner": {
+        "hex": "#242E3E",
+        "rgb_normalized": {
+            "r": 0.1412,
+            "g": 0.1804,
+            "b": 0.2431
+        }
+    },
+    "sponge": {
+        "hex": "#C3C04A",
+        "rgb_normalized": {
+            "r": 0.7647,
+            "g": 0.7529,
+            "b": 0.2902
+        }
+    },
+    "spore_blossom": {
+        "hex": "#CE609E",
+        "rgb_normalized": {
+            "r": 0.8078,
+            "g": 0.3765,
+            "b": 0.6196
+        }
+    },
+    "spore_blossom_base": {
+        "hex": "#708E32",
+        "rgb_normalized": {
+            "r": 0.4392,
+            "g": 0.5569,
+            "b": 0.1961
+        }
+    },
+    "spruce_door_bottom": {
+        "hex": "#695030",
+        "rgb_normalized": {
+            "r": 0.4118,
+            "g": 0.3137,
+            "b": 0.1882
+        }
+    },
+    "spruce_door_top": {
+        "hex": "#6A5030",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.3137,
+            "b": 0.1882
+        }
+    },
+    "spruce_leaves": {
+        "hex": "#7E7E7E",
+        "rgb_normalized": {
+            "r": 0.4941,
+            "g": 0.4941,
+            "b": 0.4941
+        }
+    },
+    "spruce_log": {
+        "hex": "#3A2510",
+        "rgb_normalized": {
+            "r": 0.2275,
+            "g": 0.1451,
+            "b": 0.0627
+        }
+    },
+    "spruce_log_top": {
+        "hex": "#6C502E",
+        "rgb_normalized": {
+            "r": 0.4235,
+            "g": 0.3137,
+            "b": 0.1804
+        }
+    },
+    "spruce_planks": {
+        "hex": "#725430",
+        "rgb_normalized": {
+            "r": 0.4471,
+            "g": 0.3294,
+            "b": 0.1882
+        }
+    },
+    "spruce_sapling": {
+        "hex": "#2C3C24",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.2353,
+            "b": 0.1412
+        }
+    },
+    "spruce_trapdoor": {
+        "hex": "#674F2F",
+        "rgb_normalized": {
+            "r": 0.4039,
+            "g": 0.3098,
+            "b": 0.1843
+        }
+    },
+    "stone": {
+        "hex": "#7D7D7D",
+        "rgb_normalized": {
+            "r": 0.4902,
+            "g": 0.4902,
+            "b": 0.4902
+        }
+    },
+    "stonecutter_bottom": {
+        "hex": "#767576",
+        "rgb_normalized": {
+            "r": 0.4627,
+            "g": 0.4588,
+            "b": 0.4627
+        }
+    },
+    "stonecutter_saw": {
+        "hex": "#DEDEDE",
+        "rgb_normalized": {
+            "r": 0.8706,
+            "g": 0.8706,
+            "b": 0.8706
+        }
+    },
+    "stonecutter_side": {
+        "hex": "#6A5A4E",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.3529,
+            "b": 0.3059
+        }
+    },
+    "stonecutter_top": {
+        "hex": "#7B766F",
+        "rgb_normalized": {
+            "r": 0.4824,
+            "g": 0.4627,
+            "b": 0.4353
+        }
+    },
+    "stone_bricks": {
+        "hex": "#7A797A",
+        "rgb_normalized": {
+            "r": 0.4784,
+            "g": 0.4745,
+            "b": 0.4784
+        }
+    },
+    "stripped_acacia_log": {
+        "hex": "#AE5C3B",
+        "rgb_normalized": {
+            "r": 0.6824,
+            "g": 0.3608,
+            "b": 0.2314
+        }
+    },
+    "stripped_acacia_log_top": {
+        "hex": "#A65B33",
+        "rgb_normalized": {
+            "r": 0.651,
+            "g": 0.3569,
+            "b": 0.2
+        }
+    },
+    "stripped_bamboo_block": {
+        "hex": "#C1AD50",
+        "rgb_normalized": {
+            "r": 0.7569,
+            "g": 0.6784,
+            "b": 0.3137
+        }
+    },
+    "stripped_bamboo_block_top": {
+        "hex": "#B29E48",
+        "rgb_normalized": {
+            "r": 0.698,
+            "g": 0.6196,
+            "b": 0.2824
+        }
+    },
+    "stripped_birch_log": {
+        "hex": "#C4B076",
+        "rgb_normalized": {
+            "r": 0.7686,
+            "g": 0.6902,
+            "b": 0.4627
+        }
+    },
+    "stripped_birch_log_top": {
+        "hex": "#BFAB74",
+        "rgb_normalized": {
+            "r": 0.749,
+            "g": 0.6706,
+            "b": 0.4549
+        }
+    },
+    "stripped_cherry_log": {
+        "hex": "#D79194",
+        "rgb_normalized": {
+            "r": 0.8431,
+            "g": 0.5686,
+            "b": 0.5804
+        }
+    },
+    "stripped_cherry_log_top": {
+        "hex": "#DDA49D",
+        "rgb_normalized": {
+            "r": 0.8667,
+            "g": 0.6431,
+            "b": 0.6157
+        }
+    },
+    "stripped_crimson_stem": {
+        "hex": "#89395A",
+        "rgb_normalized": {
+            "r": 0.5373,
+            "g": 0.2235,
+            "b": 0.3529
+        }
+    },
+    "stripped_crimson_stem_top": {
+        "hex": "#793852",
+        "rgb_normalized": {
+            "r": 0.4745,
+            "g": 0.2196,
+            "b": 0.3216
+        }
+    },
+    "stripped_dark_oak_log": {
+        "hex": "#483824",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.2196,
+            "b": 0.1412
+        }
+    },
+    "stripped_dark_oak_log_top": {
+        "hex": "#412C16",
+        "rgb_normalized": {
+            "r": 0.2549,
+            "g": 0.1725,
+            "b": 0.0863
+        }
+    },
+    "stripped_jungle_log": {
+        "hex": "#AB8454",
+        "rgb_normalized": {
+            "r": 0.6706,
+            "g": 0.5176,
+            "b": 0.3294
+        }
+    },
+    "stripped_jungle_log_top": {
+        "hex": "#A57A51",
+        "rgb_normalized": {
+            "r": 0.6471,
+            "g": 0.4784,
+            "b": 0.3176
+        }
+    },
+    "stripped_mangrove_log": {
+        "hex": "#77362F",
+        "rgb_normalized": {
+            "r": 0.4667,
+            "g": 0.2118,
+            "b": 0.1843
+        }
+    },
+    "stripped_mangrove_log_top": {
+        "hex": "#6D2B2B",
+        "rgb_normalized": {
+            "r": 0.4275,
+            "g": 0.1686,
+            "b": 0.1686
+        }
+    },
+    "stripped_oak_log": {
+        "hex": "#B19056",
+        "rgb_normalized": {
+            "r": 0.6941,
+            "g": 0.5647,
+            "b": 0.3373
+        }
+    },
+    "stripped_oak_log_top": {
+        "hex": "#A0814D",
+        "rgb_normalized": {
+            "r": 0.6275,
+            "g": 0.5059,
+            "b": 0.302
+        }
+    },
+    "stripped_pale_oak_log": {
+        "hex": "#F5EEEC",
+        "rgb_normalized": {
+            "r": 0.9608,
+            "g": 0.9333,
+            "b": 0.9255
+        }
+    },
+    "stripped_pale_oak_log_top": {
+        "hex": "#EBE2E1",
+        "rgb_normalized": {
+            "r": 0.9216,
+            "g": 0.8863,
+            "b": 0.8824
+        }
+    },
+    "stripped_spruce_log": {
+        "hex": "#735934",
+        "rgb_normalized": {
+            "r": 0.451,
+            "g": 0.349,
+            "b": 0.2039
+        }
+    },
+    "stripped_spruce_log_top": {
+        "hex": "#69502E",
+        "rgb_normalized": {
+            "r": 0.4118,
+            "g": 0.3137,
+            "b": 0.1804
+        }
+    },
+    "stripped_warped_stem": {
+        "hex": "#399693",
+        "rgb_normalized": {
+            "r": 0.2235,
+            "g": 0.5882,
+            "b": 0.5765
+        }
+    },
+    "stripped_warped_stem_top": {
+        "hex": "#34807C",
+        "rgb_normalized": {
+            "r": 0.2039,
+            "g": 0.502,
+            "b": 0.4863
+        }
+    },
+    "structure_block": {
+        "hex": "#584A5A",
+        "rgb_normalized": {
+            "r": 0.3451,
+            "g": 0.2902,
+            "b": 0.3529
+        }
+    },
+    "structure_block_corner": {
+        "hex": "#443945",
+        "rgb_normalized": {
+            "r": 0.2667,
+            "g": 0.2235,
+            "b": 0.2706
+        }
+    },
+    "structure_block_data": {
+        "hex": "#4F4150",
+        "rgb_normalized": {
+            "r": 0.3098,
+            "g": 0.2549,
+            "b": 0.3137
+        }
+    },
+    "structure_block_load": {
+        "hex": "#453946",
+        "rgb_normalized": {
+            "r": 0.2706,
+            "g": 0.2235,
+            "b": 0.2745
+        }
+    },
+    "structure_block_save": {
+        "hex": "#564757",
+        "rgb_normalized": {
+            "r": 0.3373,
+            "g": 0.2784,
+            "b": 0.3412
+        }
+    },
+    "sugar_cane": {
+        "hex": "#94C065",
+        "rgb_normalized": {
+            "r": 0.5804,
+            "g": 0.7529,
+            "b": 0.3961
+        }
+    },
+    "sunflower_back": {
+        "hex": "#367F22",
+        "rgb_normalized": {
+            "r": 0.2118,
+            "g": 0.498,
+            "b": 0.1333
+        }
+    },
+    "sunflower_bottom": {
+        "hex": "#38871E",
+        "rgb_normalized": {
+            "r": 0.2196,
+            "g": 0.5294,
+            "b": 0.1176
+        }
+    },
+    "sunflower_front": {
+        "hex": "#F6C436",
+        "rgb_normalized": {
+            "r": 0.9647,
+            "g": 0.7686,
+            "b": 0.2118
+        }
+    },
+    "sunflower_top": {
+        "hex": "#31811B",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.5059,
+            "b": 0.1059
+        }
+    },
+    "suspicious_gravel_0": {
+        "hex": "#817D7C",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.4902,
+            "b": 0.4863
+        }
+    },
+    "suspicious_gravel_1": {
+        "hex": "#807B7A",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.4824,
+            "b": 0.4784
+        }
+    },
+    "suspicious_gravel_2": {
+        "hex": "#7E7878",
+        "rgb_normalized": {
+            "r": 0.4941,
+            "g": 0.4706,
+            "b": 0.4706
+        }
+    },
+    "suspicious_gravel_3": {
+        "hex": "#7C7776",
+        "rgb_normalized": {
+            "r": 0.4863,
+            "g": 0.4667,
+            "b": 0.4627
+        }
+    },
+    "suspicious_sand_0": {
+        "hex": "#D9CC9F",
+        "rgb_normalized": {
+            "r": 0.851,
+            "g": 0.8,
+            "b": 0.6235
+        }
+    },
+    "suspicious_sand_1": {
+        "hex": "#D8CA9C",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.7922,
+            "b": 0.6118
+        }
+    },
+    "suspicious_sand_2": {
+        "hex": "#D6C697",
+        "rgb_normalized": {
+            "r": 0.8392,
+            "g": 0.7765,
+            "b": 0.5922
+        }
+    },
+    "suspicious_sand_3": {
+        "hex": "#D2C191",
+        "rgb_normalized": {
+            "r": 0.8235,
+            "g": 0.7569,
+            "b": 0.5686
+        }
+    },
+    "sweet_berry_bush_stage0": {
+        "hex": "#2A5938",
+        "rgb_normalized": {
+            "r": 0.1647,
+            "g": 0.349,
+            "b": 0.2196
+        }
+    },
+    "sweet_berry_bush_stage1": {
+        "hex": "#2F5E39",
+        "rgb_normalized": {
+            "r": 0.1843,
+            "g": 0.3686,
+            "b": 0.2235
+        }
+    },
+    "sweet_berry_bush_stage2": {
+        "hex": "#3B5838",
+        "rgb_normalized": {
+            "r": 0.2314,
+            "g": 0.3451,
+            "b": 0.2196
+        }
+    },
+    "sweet_berry_bush_stage3": {
+        "hex": "#444D32",
+        "rgb_normalized": {
+            "r": 0.2667,
+            "g": 0.302,
+            "b": 0.1961
+        }
+    },
+    "tall_dry_grass": {
+        "hex": "#C4AB7A",
+        "rgb_normalized": {
+            "r": 0.7686,
+            "g": 0.6706,
+            "b": 0.4784
+        }
+    },
+    "tall_grass_bottom": {
+        "hex": "#808080",
+        "rgb_normalized": {
+            "r": 0.502,
+            "g": 0.502,
+            "b": 0.502
+        }
+    },
+    "tall_grass_top": {
+        "hex": "#979597",
+        "rgb_normalized": {
+            "r": 0.5922,
+            "g": 0.5843,
+            "b": 0.5922
+        }
+    },
+    "tall_seagrass_bottom": {
+        "hex": "#2D7504",
+        "rgb_normalized": {
+            "r": 0.1765,
+            "g": 0.4588,
+            "b": 0.0157
+        }
+    },
+    "tall_seagrass_top": {
+        "hex": "#3B8B0E",
+        "rgb_normalized": {
+            "r": 0.2314,
+            "g": 0.5451,
+            "b": 0.0549
+        }
+    },
+    "target_side": {
+        "hex": "#E5B0A8",
+        "rgb_normalized": {
+            "r": 0.898,
+            "g": 0.6902,
+            "b": 0.6588
+        }
+    },
+    "target_top": {
+        "hex": "#E2AA9D",
+        "rgb_normalized": {
+            "r": 0.8863,
+            "g": 0.6667,
+            "b": 0.6157
+        }
+    },
+    "terracotta": {
+        "hex": "#985E43",
+        "rgb_normalized": {
+            "r": 0.5961,
+            "g": 0.3686,
+            "b": 0.2627
+        }
+    },
+    "test_block_accept": {
+        "hex": "#83BF75",
+        "rgb_normalized": {
+            "r": 0.5137,
+            "g": 0.749,
+            "b": 0.4588
+        }
+    },
+    "test_block_fail": {
+        "hex": "#7D70AA",
+        "rgb_normalized": {
+            "r": 0.4902,
+            "g": 0.4392,
+            "b": 0.6667
+        }
+    },
+    "test_block_log": {
+        "hex": "#8FAFD5",
+        "rgb_normalized": {
+            "r": 0.5608,
+            "g": 0.6863,
+            "b": 0.8353
+        }
+    },
+    "test_block_start": {
+        "hex": "#BE9E78",
+        "rgb_normalized": {
+            "r": 0.7451,
+            "g": 0.6196,
+            "b": 0.4706
+        }
+    },
+    "test_instance_block": {
+        "hex": "#7F7877",
+        "rgb_normalized": {
+            "r": 0.498,
+            "g": 0.4706,
+            "b": 0.4667
+        }
+    },
+    "tinted_glass": {
+        "hex": "#2B262D",
+        "rgb_normalized": {
+            "r": 0.1686,
+            "g": 0.149,
+            "b": 0.1765
+        }
+    },
+    "tnt_bottom": {
+        "hex": "#A64235",
+        "rgb_normalized": {
+            "r": 0.651,
+            "g": 0.2588,
+            "b": 0.2078
+        }
+    },
+    "tnt_side": {
+        "hex": "#B65854",
+        "rgb_normalized": {
+            "r": 0.7137,
+            "g": 0.3451,
+            "b": 0.3294
+        }
+    },
+    "tnt_top": {
+        "hex": "#8E3E35",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.2431,
+            "b": 0.2078
+        }
+    },
+    "torch": {
+        "hex": "#8A713F",
+        "rgb_normalized": {
+            "r": 0.5412,
+            "g": 0.4431,
+            "b": 0.2471
+        }
+    },
+    "torchflower": {
+        "hex": "#64654D",
+        "rgb_normalized": {
+            "r": 0.3922,
+            "g": 0.3961,
+            "b": 0.302
+        }
+    },
+    "torchflower_crop_stage0": {
+        "hex": "#1C6143",
+        "rgb_normalized": {
+            "r": 0.1098,
+            "g": 0.3804,
+            "b": 0.2627
+        }
+    },
+    "torchflower_crop_stage1": {
+        "hex": "#406D4C",
+        "rgb_normalized": {
+            "r": 0.251,
+            "g": 0.4275,
+            "b": 0.298
+        }
+    },
+    "trial_spawner_bottom": {
+        "hex": "#293B4C",
+        "rgb_normalized": {
+            "r": 0.1608,
+            "g": 0.2314,
+            "b": 0.298
+        }
+    },
+    "trial_spawner_side_active": {
+        "hex": "#35414D",
+        "rgb_normalized": {
+            "r": 0.2078,
+            "g": 0.2549,
+            "b": 0.302
+        }
+    },
+    "trial_spawner_side_active_ominous": {
+        "hex": "#2E4152",
+        "rgb_normalized": {
+            "r": 0.1804,
+            "g": 0.2549,
+            "b": 0.3216
+        }
+    },
+    "trial_spawner_side_inactive": {
+        "hex": "#2F4353",
+        "rgb_normalized": {
+            "r": 0.1843,
+            "g": 0.2627,
+            "b": 0.3255
+        }
+    },
+    "trial_spawner_side_inactive_ominous": {
+        "hex": "#273A4A",
+        "rgb_normalized": {
+            "r": 0.1529,
+            "g": 0.2275,
+            "b": 0.2902
+        }
+    },
+    "trial_spawner_top_active": {
+        "hex": "#3E505C",
+        "rgb_normalized": {
+            "r": 0.2431,
+            "g": 0.3137,
+            "b": 0.3608
+        }
+    },
+    "trial_spawner_top_active_ominous": {
+        "hex": "#315364",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.3255,
+            "b": 0.3922
+        }
+    },
+    "trial_spawner_top_ejecting_reward": {
+        "hex": "#2E343D",
+        "rgb_normalized": {
+            "r": 0.1804,
+            "g": 0.2039,
+            "b": 0.2392
+        }
+    },
+    "trial_spawner_top_ejecting_reward_ominous": {
+        "hex": "#213745",
+        "rgb_normalized": {
+            "r": 0.1294,
+            "g": 0.2157,
+            "b": 0.2706
+        }
+    },
+    "trial_spawner_top_inactive": {
+        "hex": "#385262",
+        "rgb_normalized": {
+            "r": 0.2196,
+            "g": 0.3216,
+            "b": 0.3843
+        }
+    },
+    "trial_spawner_top_inactive_ominous": {
+        "hex": "#314A5A",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.2902,
+            "b": 0.3529
+        }
+    },
+    "tripwire": {
+        "hex": "#818181",
+        "rgb_normalized": {
+            "r": 0.5059,
+            "g": 0.5059,
+            "b": 0.5059
+        }
+    },
+    "tripwire_hook": {
+        "hex": "#8E8576",
+        "rgb_normalized": {
+            "r": 0.5569,
+            "g": 0.5216,
+            "b": 0.4627
+        }
+    },
+    "tube_coral": {
+        "hex": "#2F53C5",
+        "rgb_normalized": {
+            "r": 0.1843,
+            "g": 0.3255,
+            "b": 0.7725
+        }
+    },
+    "tube_coral_block": {
+        "hex": "#3157CE",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.3412,
+            "b": 0.8078
+        }
+    },
+    "tube_coral_fan": {
+        "hex": "#325BD0",
+        "rgb_normalized": {
+            "r": 0.1961,
+            "g": 0.3569,
+            "b": 0.8157
+        }
+    },
+    "tuff": {
+        "hex": "#6C6D66",
+        "rgb_normalized": {
+            "r": 0.4235,
+            "g": 0.4275,
+            "b": 0.4
+        }
+    },
+    "tuff_bricks": {
+        "hex": "#62665F",
+        "rgb_normalized": {
+            "r": 0.3843,
+            "g": 0.4,
+            "b": 0.3725
+        }
+    },
+    "turtle_egg": {
+        "hex": "#E4E2BF",
+        "rgb_normalized": {
+            "r": 0.8941,
+            "g": 0.8863,
+            "b": 0.749
+        }
+    },
+    "turtle_egg_slightly_cracked": {
+        "hex": "#DAD6B1",
+        "rgb_normalized": {
+            "r": 0.8549,
+            "g": 0.8392,
+            "b": 0.6941
+        }
+    },
+    "turtle_egg_very_cracked": {
+        "hex": "#CFCBA5",
+        "rgb_normalized": {
+            "r": 0.8118,
+            "g": 0.7961,
+            "b": 0.6471
+        }
+    },
+    "twisting_vines": {
+        "hex": "#148F7C",
+        "rgb_normalized": {
+            "r": 0.0784,
+            "g": 0.5608,
+            "b": 0.4863
+        }
+    },
+    "twisting_vines_plant": {
+        "hex": "#14877A",
+        "rgb_normalized": {
+            "r": 0.0784,
+            "g": 0.5294,
+            "b": 0.4784
+        }
+    },
+    "vault_bottom": {
+        "hex": "#2C2B38",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.1686,
+            "b": 0.2196
+        }
+    },
+    "vault_bottom_ominous": {
+        "hex": "#2C2B38",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.1686,
+            "b": 0.2196
+        }
+    },
+    "vault_front_ejecting": {
+        "hex": "#3B3F42",
+        "rgb_normalized": {
+            "r": 0.2314,
+            "g": 0.2471,
+            "b": 0.2588
+        }
+    },
+    "vault_front_ejecting_ominous": {
+        "hex": "#314247",
+        "rgb_normalized": {
+            "r": 0.1922,
+            "g": 0.2588,
+            "b": 0.2784
+        }
+    },
+    "vault_front_off": {
+        "hex": "#33414A",
+        "rgb_normalized": {
+            "r": 0.2,
+            "g": 0.2549,
+            "b": 0.2902
+        }
+    },
+    "vault_front_off_ominous": {
+        "hex": "#384146",
+        "rgb_normalized": {
+            "r": 0.2196,
+            "g": 0.2549,
+            "b": 0.2745
+        }
+    },
+    "vault_front_on": {
+        "hex": "#3B3F41",
+        "rgb_normalized": {
+            "r": 0.2314,
+            "g": 0.2471,
+            "b": 0.2549
+        }
+    },
+    "vault_front_on_ominous": {
+        "hex": "#344347",
+        "rgb_normalized": {
+            "r": 0.2039,
+            "g": 0.2627,
+            "b": 0.2784
+        }
+    },
+    "vault_side_off": {
+        "hex": "#37454A",
+        "rgb_normalized": {
+            "r": 0.2157,
+            "g": 0.2706,
+            "b": 0.2902
+        }
+    },
+    "vault_side_off_ominous": {
+        "hex": "#37454A",
+        "rgb_normalized": {
+            "r": 0.2157,
+            "g": 0.2706,
+            "b": 0.2902
+        }
+    },
+    "vault_side_on": {
+        "hex": "#3E4242",
+        "rgb_normalized": {
+            "r": 0.2431,
+            "g": 0.2588,
+            "b": 0.2588
+        }
+    },
+    "vault_side_on_ominous": {
+        "hex": "#2D464B",
+        "rgb_normalized": {
+            "r": 0.1765,
+            "g": 0.2745,
+            "b": 0.2941
+        }
+    },
+    "vault_top": {
+        "hex": "#36454F",
+        "rgb_normalized": {
+            "r": 0.2118,
+            "g": 0.2706,
+            "b": 0.3098
+        }
+    },
+    "vault_top_ejecting": {
+        "hex": "#2A2F36",
+        "rgb_normalized": {
+            "r": 0.1647,
+            "g": 0.1843,
+            "b": 0.2118
+        }
+    },
+    "vault_top_ejecting_ominous": {
+        "hex": "#2D2F33",
+        "rgb_normalized": {
+            "r": 0.1765,
+            "g": 0.1843,
+            "b": 0.2
+        }
+    },
+    "vault_top_ominous": {
+        "hex": "#444846",
+        "rgb_normalized": {
+            "r": 0.2667,
+            "g": 0.2824,
+            "b": 0.2745
+        }
+    },
+    "verdant_froglight_side": {
+        "hex": "#D3EAD0",
+        "rgb_normalized": {
+            "r": 0.8275,
+            "g": 0.9176,
+            "b": 0.8157
+        }
+    },
+    "verdant_froglight_top": {
+        "hex": "#E5F4E4",
+        "rgb_normalized": {
+            "r": 0.898,
+            "g": 0.9569,
+            "b": 0.8941
+        }
+    },
+    "vine": {
+        "hex": "#747474",
+        "rgb_normalized": {
+            "r": 0.4549,
+            "g": 0.4549,
+            "b": 0.4549
+        }
+    },
+    "warped_door_bottom": {
+        "hex": "#2B7670",
+        "rgb_normalized": {
+            "r": 0.1686,
+            "g": 0.4627,
+            "b": 0.4392
+        }
+    },
+    "warped_door_top": {
+        "hex": "#2C7E78",
+        "rgb_normalized": {
+            "r": 0.1725,
+            "g": 0.4941,
+            "b": 0.4706
+        }
+    },
+    "warped_fungus": {
+        "hex": "#4A6D57",
+        "rgb_normalized": {
+            "r": 0.2902,
+            "g": 0.4275,
+            "b": 0.3412
+        }
+    },
+    "warped_nylium": {
+        "hex": "#2B7265",
+        "rgb_normalized": {
+            "r": 0.1686,
+            "g": 0.4471,
+            "b": 0.3961
+        }
+    },
+    "warped_nylium_side": {
+        "hex": "#483D3B",
+        "rgb_normalized": {
+            "r": 0.2824,
+            "g": 0.2392,
+            "b": 0.2314
+        }
+    },
+    "warped_planks": {
+        "hex": "#2B6863",
+        "rgb_normalized": {
+            "r": 0.1686,
+            "g": 0.4078,
+            "b": 0.3882
+        }
+    },
+    "warped_roots": {
+        "hex": "#148A7C",
+        "rgb_normalized": {
+            "r": 0.0784,
+            "g": 0.5412,
+            "b": 0.4863
+        }
+    },
+    "warped_roots_pot": {
+        "hex": "#14887B",
+        "rgb_normalized": {
+            "r": 0.0784,
+            "g": 0.5333,
+            "b": 0.4824
+        }
+    },
+    "warped_stem": {
+        "hex": "#3A3A4D",
+        "rgb_normalized": {
+            "r": 0.2275,
+            "g": 0.2275,
+            "b": 0.302
+        }
+    },
+    "warped_stem_top": {
+        "hex": "#356D6E",
+        "rgb_normalized": {
+            "r": 0.2078,
+            "g": 0.4275,
+            "b": 0.4314
+        }
+    },
+    "warped_trapdoor": {
+        "hex": "#2F776F",
+        "rgb_normalized": {
+            "r": 0.1843,
+            "g": 0.4667,
+            "b": 0.4353
+        }
+    },
+    "warped_wart_block": {
+        "hex": "#167779",
+        "rgb_normalized": {
+            "r": 0.0863,
+            "g": 0.4667,
+            "b": 0.4745
+        }
+    },
+    "water_flow": {
+        "hex": "#A8A8A8",
+        "rgb_normalized": {
+            "r": 0.6588,
+            "g": 0.6588,
+            "b": 0.6588
+        }
+    },
+    "water_overlay": {
+        "hex": "#A5A5A5",
+        "rgb_normalized": {
+            "r": 0.6471,
+            "g": 0.6471,
+            "b": 0.6471
+        }
+    },
+    "water_still": {
+        "hex": "#B1B1B1",
+        "rgb_normalized": {
+            "r": 0.6941,
+            "g": 0.6941,
+            "b": 0.6941
+        }
+    },
+    "weathered_chiseled_copper": {
+        "hex": "#68966F",
+        "rgb_normalized": {
+            "r": 0.4078,
+            "g": 0.5882,
+            "b": 0.4353
+        }
+    },
+    "weathered_copper": {
+        "hex": "#6C996E",
+        "rgb_normalized": {
+            "r": 0.4235,
+            "g": 0.6,
+            "b": 0.4314
+        }
+    },
+    "weathered_copper_bulb": {
+        "hex": "#5C7E63",
+        "rgb_normalized": {
+            "r": 0.3608,
+            "g": 0.4941,
+            "b": 0.3882
+        }
+    },
+    "weathered_copper_bulb_lit": {
+        "hex": "#9C9D62",
+        "rgb_normalized": {
+            "r": 0.6118,
+            "g": 0.6157,
+            "b": 0.3843
+        }
+    },
+    "weathered_copper_bulb_lit_powered": {
+        "hex": "#9D9B61",
+        "rgb_normalized": {
+            "r": 0.6157,
+            "g": 0.6078,
+            "b": 0.3804
+        }
+    },
+    "weathered_copper_bulb_powered": {
+        "hex": "#5E7D62",
+        "rgb_normalized": {
+            "r": 0.3686,
+            "g": 0.4902,
+            "b": 0.3843
+        }
+    },
+    "weathered_copper_door_bottom": {
+        "hex": "#6B8F65",
+        "rgb_normalized": {
+            "r": 0.4196,
+            "g": 0.5608,
+            "b": 0.3961
+        }
+    },
+    "weathered_copper_door_top": {
+        "hex": "#6E966D",
+        "rgb_normalized": {
+            "r": 0.4314,
+            "g": 0.5882,
+            "b": 0.4275
+        }
+    },
+    "weathered_copper_grate": {
+        "hex": "#6A986E",
+        "rgb_normalized": {
+            "r": 0.4157,
+            "g": 0.5961,
+            "b": 0.4314
+        }
+    },
+    "weathered_copper_trapdoor": {
+        "hex": "#6C996E",
+        "rgb_normalized": {
+            "r": 0.4235,
+            "g": 0.6,
+            "b": 0.4314
+        }
+    },
+    "weathered_cut_copper": {
+        "hex": "#6D916B",
+        "rgb_normalized": {
+            "r": 0.4275,
+            "g": 0.5686,
+            "b": 0.4196
+        }
+    },
+    "weeping_vines": {
+        "hex": "#680100",
+        "rgb_normalized": {
+            "r": 0.4078,
+            "g": 0.0039,
+            "b": 0.0
+        }
+    },
+    "weeping_vines_plant": {
+        "hex": "#84100C",
+        "rgb_normalized": {
+            "r": 0.5176,
+            "g": 0.0627,
+            "b": 0.0471
+        }
+    },
+    "wet_sponge": {
+        "hex": "#ABB546",
+        "rgb_normalized": {
+            "r": 0.6706,
+            "g": 0.7098,
+            "b": 0.2745
+        }
+    },
+    "wheat_stage0": {
+        "hex": "#087F0F",
+        "rgb_normalized": {
+            "r": 0.0314,
+            "g": 0.498,
+            "b": 0.0588
+        }
+    },
+    "wheat_stage1": {
+        "hex": "#057F07",
+        "rgb_normalized": {
+            "r": 0.0196,
+            "g": 0.498,
+            "b": 0.0275
+        }
+    },
+    "wheat_stage2": {
+        "hex": "#06850C",
+        "rgb_normalized": {
+            "r": 0.0235,
+            "g": 0.5216,
+            "b": 0.0471
+        }
+    },
+    "wheat_stage3": {
+        "hex": "#0A820D",
+        "rgb_normalized": {
+            "r": 0.0392,
+            "g": 0.5098,
+            "b": 0.051
+        }
+    },
+    "wheat_stage4": {
+        "hex": "#258412",
+        "rgb_normalized": {
+            "r": 0.1451,
+            "g": 0.5176,
+            "b": 0.0706
+        }
+    },
+    "wheat_stage5": {
+        "hex": "#3F8112",
+        "rgb_normalized": {
+            "r": 0.2471,
+            "g": 0.5059,
+            "b": 0.0706
+        }
+    },
+    "wheat_stage6": {
+        "hex": "#8D8525",
+        "rgb_normalized": {
+            "r": 0.5529,
+            "g": 0.5216,
+            "b": 0.1451
+        }
+    },
+    "wheat_stage7": {
+        "hex": "#A69749",
+        "rgb_normalized": {
+            "r": 0.651,
+            "g": 0.5922,
+            "b": 0.2863
+        }
+    },
+    "white_candle": {
+        "hex": "#D2D8D9",
+        "rgb_normalized": {
+            "r": 0.8235,
+            "g": 0.8471,
+            "b": 0.851
+        }
+    },
+    "white_candle_lit": {
+        "hex": "#D9D9CE",
+        "rgb_normalized": {
+            "r": 0.851,
+            "g": 0.851,
+            "b": 0.8078
+        }
+    },
+    "white_concrete": {
+        "hex": "#CFD5D6",
+        "rgb_normalized": {
+            "r": 0.8118,
+            "g": 0.8353,
+            "b": 0.8392
+        }
+    },
+    "white_concrete_powder": {
+        "hex": "#E1E3E3",
+        "rgb_normalized": {
+            "r": 0.8824,
+            "g": 0.8902,
+            "b": 0.8902
+        }
+    },
+    "white_glazed_terracotta": {
+        "hex": "#BCD4CA",
+        "rgb_normalized": {
+            "r": 0.7373,
+            "g": 0.8314,
+            "b": 0.7922
+        }
+    },
+    "white_shulker_box": {
+        "hex": "#D7DCDD",
+        "rgb_normalized": {
+            "r": 0.8431,
+            "g": 0.8627,
+            "b": 0.8667
+        }
+    },
+    "white_stained_glass": {
+        "hex": "#FFFFFF",
+        "rgb_normalized": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    "white_stained_glass_pane_top": {
+        "hex": "#F6F6F6",
+        "rgb_normalized": {
+            "r": 0.9647,
+            "g": 0.9647,
+            "b": 0.9647
+        }
+    },
+    "white_terracotta": {
+        "hex": "#D1B2A1",
+        "rgb_normalized": {
+            "r": 0.8196,
+            "g": 0.698,
+            "b": 0.6314
+        }
+    },
+    "white_tulip": {
+        "hex": "#5DA447",
+        "rgb_normalized": {
+            "r": 0.3647,
+            "g": 0.6431,
+            "b": 0.2784
+        }
+    },
+    "white_wool": {
+        "hex": "#E9ECEC",
+        "rgb_normalized": {
+            "r": 0.9137,
+            "g": 0.9255,
+            "b": 0.9255
+        }
+    },
+    "wildflowers": {
+        "hex": "#EDD575",
+        "rgb_normalized": {
+            "r": 0.9294,
+            "g": 0.8353,
+            "b": 0.4588
+        }
+    },
+    "wildflowers_stem": {
+        "hex": "#A9A9A9",
+        "rgb_normalized": {
+            "r": 0.6627,
+            "g": 0.6627,
+            "b": 0.6627
+        }
+    },
+    "wither_rose": {
+        "hex": "#292C17",
+        "rgb_normalized": {
+            "r": 0.1608,
+            "g": 0.1725,
+            "b": 0.0902
+        }
+    },
+    "yellow_candle": {
+        "hex": "#D1A432",
+        "rgb_normalized": {
+            "r": 0.8196,
+            "g": 0.6431,
+            "b": 0.1961
+        }
+    },
+    "yellow_candle_lit": {
+        "hex": "#D8B74A",
+        "rgb_normalized": {
+            "r": 0.8471,
+            "g": 0.7176,
+            "b": 0.2902
+        }
+    },
+    "yellow_concrete": {
+        "hex": "#F0AF15",
+        "rgb_normalized": {
+            "r": 0.9412,
+            "g": 0.6863,
+            "b": 0.0824
+        }
+    },
+    "yellow_concrete_powder": {
+        "hex": "#E8C736",
+        "rgb_normalized": {
+            "r": 0.9098,
+            "g": 0.7804,
+            "b": 0.2118
+        }
+    },
+    "yellow_glazed_terracotta": {
+        "hex": "#EAC058",
+        "rgb_normalized": {
+            "r": 0.9176,
+            "g": 0.7529,
+            "b": 0.3451
+        }
+    },
+    "yellow_shulker_box": {
+        "hex": "#F8BC1D",
+        "rgb_normalized": {
+            "r": 0.9725,
+            "g": 0.7373,
+            "b": 0.1137
+        }
+    },
+    "yellow_stained_glass": {
+        "hex": "#E5E533",
+        "rgb_normalized": {
+            "r": 0.898,
+            "g": 0.898,
+            "b": 0.2
+        }
+    },
+    "yellow_stained_glass_pane_top": {
+        "hex": "#DDDD30",
+        "rgb_normalized": {
+            "r": 0.8667,
+            "g": 0.8667,
+            "b": 0.1882
+        }
+    },
+    "yellow_terracotta": {
+        "hex": "#BA8523",
+        "rgb_normalized": {
+            "r": 0.7294,
+            "g": 0.5216,
+            "b": 0.1373
+        }
+    },
+    "yellow_wool": {
+        "hex": "#F8C527",
+        "rgb_normalized": {
+            "r": 0.9725,
+            "g": 0.7725,
+            "b": 0.1529
+        }
+    }
+}

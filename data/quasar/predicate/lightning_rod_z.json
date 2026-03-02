@@ -1,0 +1,27 @@
+{
+  "condition": "any_of",
+  "terms": [
+    {
+      "condition": "location_check",
+      "predicate": {
+        "block": {
+          "blocks": "lightning_rod",
+          "state": {
+            "facing": "north"
+          }
+        }
+      }
+    },
+    {
+      "condition": "location_check",
+      "predicate": {
+        "block": {
+          "blocks": "lightning_rod",
+          "state": {
+            "facing": "south"
+          }
+        }
+      }
+    }
+  ]
+}

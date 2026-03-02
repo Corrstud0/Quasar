@@ -1,0 +1,28 @@
+{
+  "condition": "any_of",
+  "terms": [
+    {
+      "condition": "location_check",
+      "predicate": {
+        "block": {
+          "blocks": [
+            "red_glazed_terracotta"
+          ]
+        }
+      }
+    },
+    {
+      "condition": "location_check",
+      "predicate": {
+        "block": {
+          "blocks": [
+            "lightning_rod"
+          ],
+          "state": {
+            "powered": "true"
+          }
+        }
+      }
+    }
+  ]
+}

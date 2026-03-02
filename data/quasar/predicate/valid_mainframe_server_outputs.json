@@ -1,0 +1,24 @@
+{
+  "condition": "any_of",
+  "terms": [
+    {
+      "condition": "location_check",
+      "predicate": {
+        "block": {
+          "blocks": "granite_slab",
+          "state": {
+            "type": "double"
+          }
+        }
+      }
+    },
+    {
+      "condition": "location_check",
+      "predicate": {
+        "block": {
+          "blocks": "polished_deepslate"
+        }
+      }
+    }
+  ]
+}
