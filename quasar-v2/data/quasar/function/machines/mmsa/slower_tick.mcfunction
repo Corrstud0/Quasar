@@ -1,1 +1,0 @@
-function quasar:machines/mmsa/structure_checks
