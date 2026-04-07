@@ -1,2 +1,0 @@
-execute if block ~ ~ ~ lightning_rod[powered=true] run return run function datapipes_lib:fluid_transfer/copper_pipe_checks/off/islron
-execute if block ~ ~ ~ red_glazed_terracotta run function datapipes_lib:fluid_transfer/copper_pipe_checks/off/islrblockon
