@@ -1,6 +1,6 @@
 Quasar Datapack
 ---------------
-Read the license you fat fu-
+Read the license
 
 
 This project is a collection of systems, tools, and experiments built to push
