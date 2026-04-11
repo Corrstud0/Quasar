@@ -1,5 +1,7 @@
 Quasar Datapack
 ---------------
+Read the license you fat fu-
+
 
 This project is a collection of systems, tools, and experiments built to push
 vanilla Minecraft farther than usual datapacks allow. The goal is to create
