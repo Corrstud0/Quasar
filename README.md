@@ -1,6 +1,6 @@
 Quasar Datapack
 ---------------
-Read the license
+Read the [license](#license)
 
 just note this repo is a bit empty because we had to basically scrap the entire datapack awhile ago and everyone who works on quasar has to deal with either school or work, we're still human after all.
 
@@ -29,3 +29,8 @@ custom textures or remapped blocks.
 This project is still in active development.
 
 (This Read Me Was Made by TGIMB, Change if You want)
+
+---
+
+### LICENSE
+Detailed licensing information can be found in the [LICENSE](LICENSE) file.
