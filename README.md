@@ -34,3 +34,6 @@ This project is still in active development.
 
 ### LICENSE
 Detailed licensing information can be found in the [LICENSE](LICENSE) file.
+
+
+send help pls the school laptops are locked down af and I cant get on discord wilt
